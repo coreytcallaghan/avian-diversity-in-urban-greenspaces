@@ -1,0 +1,76 @@
+"LOCALITY_ID","Rank","Country","Urban_Area","Population","Size_km","Density_perkm2","Ecoregion","Hotspot","Hotspot_Size_ha","Lat","Long","checklists_1950","checklists_2010","checklists_2013","distance.to.coast_km"
+"L1017789",103,"Italy","Rome",3930000,1114,3500,"Palearctic","Villa Borghese",125,41.912497,12.484589,137,106,81,24.2676622415745
+"L1029418",8,"China","Shanghai, SHG-JS-ZJ",22685000,3885,5800,"Palearctic","Shanghai--Century Park",135,31.215664,121.545353,68,63,58,12.0365225120375
+"L1046815",81,"Kenya","Nairobi",4930000,557,8900,"Afrotropic","Nairobi River @ National Museums of Kenya (incl. Boulevard Hotel)",23,-1.274814,36.814003,130,53,41,381.552409130972
+"L1060493",132,"South Africa","Durban",3450000,1062,3200,"Afrotropic","Durban Botanical Gardens",11.6,-29.847214,31.006679,63,42,31,2.48988893843869
+"L1068940",18,"Thailand","Bangkok",15315000,2590,5900,"Indo-Malay","Bangkok--Lumphini Park",55.9,13.731379,100.541709,173,109,84,16.9276542339068
+"L109516",9,"United States","New York, NY-NJ-CT",20685000,11642,1800,"Nearctic","Prospect Park",229,40.660284,-73.968953,13069,9157,6750,3.28836392647132
+"L1118709",35,"Vietnam","Ho Chi Minh City",10075000,1554,6500,"Indo-Malay","Saigon--Thao Cam Vien (Saigon Zoo)",19.74,10.789181,106.706214,41,29,21,15.3326196058498
+"L1119406",108,"Colombia","Medellin",3845000,241,16000,"Neotropic","Jard<ed>n Bot<e1>nico de Medell<ed>n Joaqu<ed>n Antonio Uribe",13.5,6.270784,-75.563739,83,77,61,178.322783057479
+"L1123077",14,"Japan","Osaka-Kobe-Kyoto",16985000,3212,5300,"Palearctic","???--???/????? (Osaka--Osaka Castle / Osaka Castle Park)",108,34.687344,135.525933,45,37,33,8.33664092557647
+"L1139116",60,"Spain","Madrid",6240000,1321,4700,"Palearctic","Parque de El Retiro, Madrid",115,40.416502,-3.68351,154,122,107,301.352826961731
+"L1271819",5,"Philippines","Manila",22930000,1632,14100,"Indo-Malay","Manila American Cemetery & Memorial, Taguig",38.9,14.540941,121.050276,59,18,14,6.29893209644335
+"L1274650",58,"United States","Dallas-Fort Worth, TX",6280000,5175,1200,"Nearctic","Dallas--Pioneer Park/City Hall Park",6.5,32.777307,-96.797072,560,552,98,342.136612998564
+"L1277000",40,"South Africa","Johannesburg-East Rand",8655000,2590,3300,"Afrotropic","Johannesburg Botanical Gardens",136,-26.155592,28.001833,29,25,17,422.720078795373
+"L1357648",107,"South Africa","Cape Town",3865000,816,4700,"Afrotropic","Cape Town--Company's Garden",10.4,-33.926682,18.417237,37,36,32,2.64215125901306
+"L1416967",2,"Indonesia","Jakarta",31320000,3225,9700,"Indo-Malay","Jakarta--Monas",81,-6.175383,106.82708,19,18,17,8.88360566646177
+"L1435080",51,"China: Hong Kong SAR","Hong Kong",7280000,285,25600,"Indo-Malay","Kowloon Park",9.71,22.300396,114.17017,168,115,92,0.216199119899086
+"L1471853",21,"Argentina","Buenos Aires",14280000,2681,5300,"Neotropic","Lago del Golf",127,-34.559,-58.433257,181,162,150,1.27600977652813
+"L1668242",4,"South Korea","Seoul-Incheon",23575000,2590,9100,"Palearctic","Namsan Mountain",230,37.550873,126.990004,28,25,21,20.6688462663778
+"L1756521",98,"Germany","Berlin",4085000,1347,3000,"Palearctic","Berlin--Grosser Tiergarten",250,52.514701,13.361492,111,104,87,129.611747973335
+"L1800556",10,"Brazil","Sao Paulo",20605000,2707,7600,"Neotropic","Parque do Ibirapuera",145,-23.586198,-46.659104,206,165,158,46.9427417145964
+"L1830072",150,"United States","San Diego, CA",3110000,1896,1600,"Nearctic","Pantoja Park",0.73,32.713076,-117.167899,110,109,103,0.580750769510164
+"L1877540",46,"Vietnam","Hanoi",7445000,868,8600,"Indo-Malay","Hanoi Botanical Gardens",11.9,21.04065,105.83114,54,39,21,78.7937732919369
+"L1896754",1,"Japan","Tokyo-Yokohama",37750000,8547,4400,"Palearctic","????--?????? (Edogawa Ward--Kasai Rinkai Park)",79.6,35.639967,139.857658,189,168,158,0.402625904650051
+"L1899347",75,"Myanmar","Yangon",5320000,570,9300,"Indo-Malay","Yangon--Inya Lake",373,16.836537,96.140923,36,33,31,9.31706948922801
+"L1930245",89,"Turkey","Ankara",4640000,660,7000,"Palearctic","Botanik Park?",8.7,39.888333,32.856389,100,67,27,212.657394730257
+"L200830",67,"United States","Miami, FL",5820000,3209,1700,"Neotropic","A. D. Barnes Park",27.2,25.734083,-80.310855,2011,1807,1525,5.11542790997407
+"L2071440",20,"India","Kolkata, WB",14810000,1204,12300,"Indo-Malay","Central Park (Banabitan), Kolkata",35.8,22.586138,88.416917,28,28,27,44.1273395694937
+"L209928",91,"United States","Boston, MA-NH-RI",4490000,5325,800,"Nearctic","Boston Public Garden",9.6,42.353641,-71.070543,1704,1225,835,2.24848956751193
+"L2265071",3,"India","Delhi, DL-UP-HR",25735000,2163,11900,"Indo-Malay","Lodi Gardens",31.3,28.595167,77.221334,170,133,64,771.065784472075
+"L2265183",97,"Ghana","Accra",4095000,971,4200,"Afrotropic","University of Ghana Botanical Gardens",379,5.6586,-0.197222,25,24,24,13.2417009193674
+"L2319930",41,"China: Taiwan","Taipei",8500000,1140,7500,"Indo-Malay","??--??????(Taipei--Da'an Forest Park)",28,25.029928,121.536148,118,97,86,17.3077607894068
+"L2354294",13,"China","Guangzhou-Foshan, GD",18760000,3820,4900,"Indo-Malay","Sun Yat-sen University Campus",81,23.092517,113.298317,73,70,69,10.0717234494992
+"L2361473",23,"Turkey","Istanbul",13520000,1360,9900,"Palearctic","B<fc>y<fc>k <c7>aml?ca Tepesi",45.1,41.02785,29.06803,182,57,18,3.77576283513381
+"L2386097",26,"Brazil","Rio de Janeiro",11815000,2020,5800,"Neotropic","Parque Chico Mendes",50.6,-23.022837,-43.471584,21,21,21,0.202670457625088
+"L2389491",146,"Senegal","Dakar",3200000,194,16500,"Afrotropic","Technopole",367,14.756922,-17.410498,25,25,24,2.27740681675454
+"L2398320",11,"China","Beijing, BJ-HEB",20390000,3937,5200,"Palearctic","Tiantan Park (Temple of Heaven)",20.3,39.879902,116.410584,39,33,29,199.892469784124
+"L2404145",38,"Colombia","Bogota",9520000,562,16900,"Neotropic","Jard<ed>n Bot<e1>nico Jos<e9> Celestino Mutis",20.4,4.667789,-74.099755,109,100,96,311.794783596794
+"L2472492",43,"India","Hyderabad, TL",7750000,1230,6300,"Indo-Malay","Sanjeevaiah Park, Hyderabad",492,17.432033,78.476779,69,58,57,302.103255465407
+"L2525698",34,"India","Bangalore, KA",10165000,1166,8700,"Indo-Malay","Lalbagh Botanical Gardens",91.3,12.950459,77.586243,216,176,154,232.138268045152
+"L2688240",50,"Malaysia","Kuala Lumpur",7365000,2124,3500,"Indo-Malay","Kuala Lumpur City Center Park",12,3.155466,101.714408,39,31,22,35.8727723275183
+"L2694540",128,"Greece","Athens",3480000,583,6000,"Palearctic","Athens National Gardens",31.7,37.973327,23.737856,41,31,28,4.82051939766058
+"L2811916",88,"Mexico","Guadalajara",4675000,751,6200,"Neotropic","Bosque los Colomos",118,20.709275,-103.396261,78,78,78,165.421242540875
+"L281716",63,"United States","Houston, TX",6005000,4828,1200,"Nearctic","Houston--West 11th Street Park",8.2,29.790224,-95.42354,440,157,50,30.2036986836968
+"L2875912",96,"Mexico","Monterrey",4155000,894,4600,"Nearctic","Parque Rufino Tamayo",21.2,25.644351,-100.328522,282,281,260,239.894003699855
+"L294783",12,"Mexico","Mexico City",20230000,2072,9800,"Nearctic","Viveros de Coyoac<e1>n",36.3,19.353938,-99.172015,131,128,105,277.837098006874
+"L3016220",130,"Ethiopia","Addis Ababa",3465000,474,7300,"Afrotropic","Addis Ababa--Ghion Hotel",35.8,9.01339,38.761032,84,76,73,468.802218662357
+"L3024180",55,"Germany","Essen-Dusseldorf",6675000,2655,2500,"Palearctic","Hofgarten D<fc>sseldorf",17.7,51.228845,6.779101,11,9,9,183.609372855333
+"L3143033",148,"Brazil","Curitiba",3160000,842,3800,"Neotropic","Curitiba -- Jardim Bot<e2>nico de Curitiba",22.8,-25.4419764,-49.2383301,11,5,5,45.7514505840627
+"L3148022",68,"India","Pune, MH",5785000,479,12100,"Indo-Malay","Fergusson College Campus",62.3,18.521161,73.833704,488,487,486,73.9862001784778
+"L3158781",22,"Iran","Tehran",13670000,1632,8400,"Palearctic","Shahr Park (general area)",27.2,35.683165,51.413462,131,130,130,103.156662400308
+"L3345783",71,"Singapore","Singapore",5725000,518,11100,"Indo-Malay","Bidadari",42.8,1.341433,103.874134,77,74,64,5.11312224208385
+"L3353044",49,"India","Ahmadabad, GJ",7410000,350,21200,"Indo-Malay","Centre for Environment Education (CEE)",24.7,23.045514,72.519314,59,58,58,81.9399850359207
+"L339164",39,"United States","Chicago, IL-IN-WI",9185000,6856,1300,"Nearctic","Humboldt Park, Chicago",75.6,41.906322,-87.701961,904,718,373,759.185807082192
+"L3483931",112,"China","Hefei, AH",3730000,725,5100,"Palearctic","Shushan Forest Park",703,31.844876,117.182619,15,15,15,191.928098423527
+"L352473",122,"Dominican Republic","Santo Domingo",3635000,427,8500,"Neotropic","Jard<ed>n Bot<e1>nico Nacional",128,18.493306,-69.953931,309,215,144,4.99698946911898
+"L372668",129,"United States","Seattle, WA",3475000,2989,1100,"Nearctic","Freeway Park (Seattle)",3,47.611089,-122.330661,217,208,148,1.0371380098426
+"L3922053",139,"India","Lucknow, UP",3260000,324,10100,"Indo-Malay","Lucknow Zoological Garden",52.2,26.8454,80.954797,11,11,11,806.941751172939
+"L4026586",86,"Spain","Barcelona",4740000,1075,4400,"Palearctic","Parque de la Ciutadella, Barcelona",28.2,41.388497,2.187803,34,26,24,2.057754132728
+"L419667",65,"United States","San Francisco-San Jose, CA",5955000,2797,2100,"Nearctic","Mt. Davidson",17.9,37.73837,-122.453399,1157,956,591,4.11957302473066
+"L459787",124,"Canada","Montreal, QC",3570000,1546,2200,"Nearctic","PN de l'<ce>le-de-la-Visitation",52.4,45.577092,-73.659624,2754,1865,1728,0.359246359281732
+"L473521",80,"United States","Washington, DC-VA-MD",4950000,3424,1300,"Nearctic","Constitution Gardens and Reflecting Pool",103,38.890114,-77.043364,1279,1092,724,0.642243813097135
+"L511955",120,"United States","Detroit, MI",3660000,3463,1100,"Nearctic","UM Dearborn--Rouge River Bird Observatory",145,42.319399,-83.239975,3138,1487,833,487.334928479609
+"L571677",56,"Canada","Toronto, ON",6550000,2287,2900,"Nearctic","Toronto--Queen's Park",10.5,43.664853,-79.392368,713,691,369,396.261990525412
+"L619767",19,"United States","Los Angeles, CA",15135000,6299,2400,"Nearctic","Echo Park",10.3,34.07431,-118.260763,362,281,234,27.0597321633309
+"L715912",73,"United States","Philadelphia, PA-NJ-DE-MD",5595000,5131,1100,"Nearctic","Woodlands Cemetery",22.3,39.947187,-75.203133,417,413,324,4.9180298665153
+"L796074",79,"United States","Atlanta, GA",5120000,6851,700,"Nearctic","Centennial Olympic Park",8.1,33.76164,-84.392735,929,867,511,289.945511854612
+"L826850",29,"Peru","Lima",10950000,919,11900,"Neotropic","Bosque El Olivar",12,-12.102774,-77.035274,149,129,104,2.15925767283467
+"L834429",95,"United States","Phoenix, AZ",4295000,3225,1300,"Nearctic","Kiwanis Park",38.6,33.373993,-111.939311,370,355,348,357.044862913974
+"L919153",102,"Australia","Melbourne, VIC",3955000,2543,1500,"Australasia","Royal Botanic Gardens (Melbourne)",119,-37.829792,144.980521,675,486,367,9.08416210719201
+"L920889",30,"France","Paris",10870000,2845,3700,"Palearctic","Paris--6e arr.--Jardin du Luxembourg",22,48.846919,2.337207,131,104,75,147.781083929431
+"L938388",33,"United Kingdom","London",10350000,1738,5600,"Palearctic","Hyde Park",276,51.508037,-0.163979,630,419,317,41.2962346209682
+"L945869",100,"Australia","Sydney, NSW",4070000,2037,1900,"Australasia","Centennial Park (Sydney)",191,-33.897706,151.234145,541,412,368,3.23257548481853
+"L957929",112,"China","Kunming, YN",3730000,712,5200,"Indo-Malay","Kunming--Green Lake Park",25.4,25.051552,102.702441,34,20,18,739.187296957816
+"L980718",59,"Chile","Santiago",6265000,984,6400,"Neotropic","Cerro Santa Lucia",7.25,-33.439875,-70.64356,59,55,32,84.0290884391146
+"L982332",123,"United Arab Emirates","Dubai",3630000,1502,2400,"Afrotropic","Safa Park",69.2,25.185622,55.246704,829,419,143,1.1330713439119
