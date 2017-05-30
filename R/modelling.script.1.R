@@ -26,7 +26,7 @@ sample_data <- modelling.data %>%
 
 
 #################################################################################################
-##### The plan is to have four 'global models' which include the three spatial distances ########
+##### The plan is to have four 'global models' which include the four spatial distances ########
 
 
 ###### MODEL 1: Just the hotspot and corresponding hotspot variables
