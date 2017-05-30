@@ -8,6 +8,7 @@ library(ggplot2)
 library(tidyr)
 library(vegan)
 library(data.table)
+library(lubridate)
 
 
 ### Reading in study sites
@@ -84,6 +85,7 @@ predictor_variables.hotspots$evi_hs <- rowMeans(predictor_variables.hotspots[, c
 ### making one single predictor variables file
 predictor_variables <- merge(predictor_variables.buffers, predictor_variables.hotspots, by="LOCALITY_ID")
 
+
 rm(predictor_variables.buffers)
 rm(predictor_variables.hotspots)
 rm(habitat_variables)
@@ -142,6 +144,10 @@ response_variables <- sampling_event_info %>%
          PROTOCOL_TYPE !="Historical") %>%
   filter(OBSERVATION_DATE>= "2011-01-01" & OBSERVATION_DATE <= "2016-12-31") 
 
+## adding month to the response variables file
+detach("package:data.table", unload=TRUE)
+response_variables$month <- month(response_variables$OBSERVATION_DATE, label = TRUE)
+
 rm(species_diversity)
 rm(species_richness)
 rm(bird_data)
@@ -150,5 +156,48 @@ rm(sampling_event_info)
 rm(X_missing)
 
 rm(possible_study_sites)
+
+## Make a single modelling.data file
+modelling.data <- merge(predictor_variables, response_variables, by="LOCALITY_ID")
+
+rm(predictor_variables, response_variables)
+
+## histogram of main response variable
+hist(modelling.data$species_richness)
+
+
+## try a log transform
+hist(log(modelling.data$species_richness))
+
+
+## Looks good! Looks to be mostly normal, after a log transformation.
+
+## Number of data points by location
+modelling.data %>%
+  group_by(LOCALITY_ID) %>%
+  summarise(N=length(unique(SAMPLING_EVENT_IDENTIFIER))) %>%
+  arrange(N) %>%
+  ggplot(., aes(x=LOCALITY_ID, y=N))+
+  geom_bar(stat='identity')+
+  coord_flip()
+
+## Obviously a problem given there is substantially more data from one site compared to the others!
+## Need to account for this in the modelling, but first let's remove the smallest of sample sizes
+
+### Now we have the data to start modelling, but first 
+### Let's remove any locations with <20 checklists - based on previous work
+
+filtered_locations <- modelling.data %>%
+  group_by(LOCALITY_ID) %>%
+  summarise(N=length(unique(SAMPLING_EVENT_IDENTIFIER))) %>%
+  arrange(N) %>%
+  filter(N>=20) %>%
+  .$LOCALITY_ID
+
+modelling.data <- modelling.data %>%
+  filter(LOCALITY_ID %in% filtered_locations)
+
+rm(filtered_locations)
+
 
 save.image("Data/modelling_data.RData")
