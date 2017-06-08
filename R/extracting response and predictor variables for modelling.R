@@ -146,7 +146,7 @@ response_variables <- sampling_event_info %>%
 
 ## adding month to the response variables file
 detach("package:data.table", unload=TRUE)
-response_variables$month <- month(response_variables$OBSERVATION_DATE, label = TRUE)
+response_variables$month <- month(response_variables$OBSERVATION_DATE)
 
 rm(species_diversity)
 rm(species_richness)
