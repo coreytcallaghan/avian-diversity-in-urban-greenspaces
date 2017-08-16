@@ -1,0 +1,81 @@
+---
+title: "Plotting Study Sites"
+author: "C.T. Callaghan"
+date: "December 8, 2016"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Plotting All Possible Study Sites
+
+reading in data
+```{r}
+possible.study.sites <- read.csv("H:/Dissertation/Dissertation Chapters/Data Chapters/Relationship between avian diversity and urban environments/Data/Study Sites/Possible Study Sites/possible.study.sites.csv")
+
+head(possible.study.sites)
+```
+
+necessary packages
+```{r}
+library(maps)
+library(mapdata)
+library(ggplot2)
+library(rgdal)
+
+
+```
+
+getting the world map to be plotted
+```{r echo=FALSE}
+world.map <- data.frame(map('worldHires')[c('x', 'y')])
+
+dev.off()
+
+ggplot()+
+  geom_polygon(data=world.map, aes(x=x, y=y),  fill=NA, color="black")+
+  coord_fixed()+
+  theme_bw()
+```
+
+plotting study sites on the map
+```{r}
+world.map <- data.frame(map('worldHires2')[c('x', 'y')])
+study.sites <- possible.study.sites[c(11,10)]
+
+ggplot()+
+  geom_polygon(data=world.map, aes(x=x, y=y),  fill=NA, color="black")+
+  geom_point(data=study.sites, aes(x=Long, y=Lat), shape=18, color="red", size=3)+
+  coord_fixed()+
+  theme_bw()+
+  xlab("")+
+  ylab("")
+
+```
+
+Reading in polygon shapefile
+```{r}
+shp <- "H:/Dissertation/Dissertation Chapters/Data Chapters/Relationship between avian diversity and urban environments/Data/Spatial Data/Hotspot Polygons Shapefile/Hotspot_Polygons.shp"
+myshp <- readOGR(shp, layer = basename(strsplit(shp, "\\.")[[1]])[1])
+
+myshp_proj = spTransform(myshp, CRS("+proj=longlat +datum=WGS84"))
+
+polys = fortify(myshp_proj)
+
+ggplot()+
+  geom_polygon(data=world.map, aes(x=x, y=y),  fill=NA, color="black")+
+  geom_point(data=polys, aes(x=long, y=lat, group=group), color="red")+
+  coord_fixed()+
+  theme_bw()+
+  xlab("")+
+  ylab("")
+
+
+```
+
+
+
+
+

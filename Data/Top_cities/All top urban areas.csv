@@ -1,0 +1,1026 @@
+Rank,Country,Urban_area,city_country,Population_estimate,Square_miles,Square_kiliometers,Per_square_mile,Per_square_kilometer,Pop.Area
+1,Japan,Tokyo,"Tokyo, Japan","37,750,000","3,300","8,547","11,400","4,400",C:B
+2,Indonesia,Jakarta,"Jakarta, Indonesia","31,320,000","1,245","3,225","25,200","9,700",C:B
+3,India,Delhi,"Delhi, India","25,735,000",835,"2,163","30,800","11,900",A:B
+4,South Korea,Seoul,"Seoul, South Korea","23,575,000","1,000","2,590","23,600","9,100",C:B
+5,Philippines,Manila,"Manila, Philippines","22,930,000",630,"1,632","36,400","14,100",C:B
+6,India,Mumbai,"Mumbai, India","22,885,000",340,881,"67,300","26,000",C:B
+7,Pakistan,Karachi,"Karachi, Pakistan","22,825,000",365,945,"62,500","24,100",C:B
+8,China,Shanghai,"Shanghai, China","22,685,000","1,500","3,885","15,100","5,800",L:B
+9,United States,New York,"New York, United States","20,685,000","4,495","11,642","4,500","1,800",N:N
+10,Brazil,Sao Paulo,"Sao Paulo, Brazil","20,605,000","1,045","2,707","19,700","7,600",C:B
+11,China,Beijing,"Beijing, China","20,390,000","1,520","3,937","13,400","5,200",L:B
+12,Mexico,Mexico City,"Mexico City, Mexico","20,230,000",800,"2,072","25,300","9,800",C:B
+13,China,Guangzhou,"Guangzhou, China","18,760,000","1,475","3,820","12,700","4,900",L:B
+14,Japan,Osaka,"Osaka, Japan","16,985,000","1,240","3,212","13,700","5,300",C:B
+15,Russia,Moscow,"Moscow, Russia","16,570,000","2,050","5,310","8,100","3,100",C:B
+16,Bangladesh,Dhaka,"Dhaka, Bangladesh","16,235,000",142,368,"114,300","44,100",C:B
+17,Egypt,Cairo,"Cairo, Egypt","15,910,000",680,"1,761","23,400","9,000",C:B
+18,Thailand,Bangkok,"Bangkok, Thailand","15,315,000","1,000","2,590","15,300","5,900",C:B
+19,United States,Los Angeles,"Los Angeles, United States","15,135,000","2,432","6,299","6,000","2,400",N:N
+20,India,Kolkata,"Kolkata, India","14,810,000",465,"1,204","31,800","12,300",A:B
+21,Argentina,Buenos Aires,"Buenos Aires, Argentina","14,280,000","1,035","2,681","13,800","5,300",C:B
+22,Iran,Tehran,"Tehran, Iran","13,670,000",630,"1,632","21,700","8,400",C:B
+23,Turkey,Istanbul,"Istanbul, Turkey","13,520,000",525,"1,360","25,800","9,900",C:B
+24,Nigeria,Lagos,"Lagos, Nigeria","12,830,000",550,"1,425","23,300","9,000",W:B
+25,China,Shenzhen,"Shenzhen, China","12,240,000",675,"1,748","18,100","7,000",L:B
+26,Brazil,Rio de Janeiro,"Rio de Janeiro, Brazil","11,815,000",780,"2,020","15,100","5,800",C:B
+27,Congo (Dem. Rep.),Kinshasa,"Kinshasa, Congo (Dem. Rep.)","11,380,000",225,583,"50,600","19,500",C:B
+28,China,Tianjin,"Tianjin, China","11,260,000",775,"2,007","14,500","5,600",L:B
+29,Peru,Lima,"Lima, Peru","10,950,000",355,919,"30,800","11,900",C:B
+30,France,Paris,"Paris, France","10,870,000","1,098","2,845","9,600","3,700",A:A
+31,China,Chengdu,"Chengdu, China","10,680,000",650,"1,684","16,400","6,300",L:B
+32,Pakistan,Lahore,"Lahore, Pakistan","10,355,000",305,790,"34,000","13,100",F:B
+33,United Kingdom,London,"London, United Kingdom","10,350,000",671,"1,738","14,600","5,600",A:A
+34,India,Bangalore,"Bangalore, India","10,165,000",450,"1,166","22,600","8,700",A:B
+35,Viet Nam,Ho Chi Minh City,"Ho Chi Minh City, Viet Nam","10,075,000",600,"1,554","16,800","6,500",C:B
+36,Japan,Nagoya,"Nagoya, Japan","10,035,000","1,500","3,885","6,700","2,600",C:B
+37,India,Chennai,"Chennai, India","9,985,000",375,971,"26,600","10,300",A:B
+38,Colombia,Bogota,"Bogota, Colombia","9,520,000",217,562,"43,900","16,900",C:B
+39,United States,Chicago,"Chicago, United States","9,185,000","2,647","6,856","3,400","1,300",N:N
+40,South Africa,Johannesburg,"Johannesburg, South Africa","8,655,000","1,000","2,590","8,700","3,300",C:B
+41,China: Taiwan,Taipei,"Taipei, China: Taiwan","8,500,000",440,"1,140","19,300","7,500",C:B
+42,China,Dongguan,"Dongguan, China","8,260,000",625,"1,619","13,200","5,100",L:B
+43,India,Hyderabad,"Hyderabad, India","7,750,000",475,"1,230","16,300","6,300",A:B
+44,China,Wuhan,"Wuhan, China","7,620,000",510,"1,321","14,900","5,800",L:B
+45,China,Hangzhou,"Hangzhou, China","7,605,000",490,"1,269","15,500","6,000",C:B
+46,Viet Nam,Hanoi,"Hanoi, Viet Nam","7,445,000",335,868,"22,200","8,600",C:B
+47,China,Chongqing,"Chongqing, China","7,440,000",375,971,"19,800","7,700",C:B
+48,Nigeria,Onitsha,"Onitsha, Nigeria","7,425,000",759,"1,965","9,800","3,800",W:W
+49,India,Ahmadabad,"Ahmadabad, India","7,410,000",135,350,"54,900","21,200",A:B
+50,Malaysia,Kuala Lumpur,"Kuala Lumpur, Malaysia","7,365,000",820,"2,124","9,000","3,500",C:B
+51,China: Hong Kong SAR,Hong Kong,"Hong Kong, China: Hong Kong SAR","7,280,000",110,285,"66,200","25,600",C:B
+52,China,Quanzhou,"Quanzhou, China","7,020,000",635,"1,645","11,100","4,300",C:B
+53,Angola,Luanda,"Luanda, Angola","6,955,000",380,984,"18,300","7,100",C:B
+54,Iraq,Baghdad,"Baghdad, Iraq","6,790,000",260,673,"26,100","10,100",D:B
+55,Germany,Essen,"Essen, Germany","6,675,000","1,025","2,655","6,500","2,500",C:B
+56,Canada,Toronto,"Toronto, Canada","6,550,000",883,"2,287","7,400","2,900",N:N
+57,China,Nanjing,"Nanjing, China","6,380,000",515,"1,334","12,400","4,800",L:B
+58,United States,Dallas,"Dallas, United States","6,280,000","1,998","5,175","2,800","1,200",N:N
+59,"Chile
+","Santiago
+","Santiago,Chile
+","6,265,000",380,984,"16,500","6,400",C:B
+60,Spain,Madrid,"Madrid, Spain","6,240,000",510,"1,321","12,200","4,700",C:B
+61,China,Shenyang,"Shenyang, China","6,200,000",390,"1,010","15,900","6,100",C:B
+62,China,Xi'an,"Xi'an, China","6,150,000",360,932,"17,100","6,600",C:B
+63,United States,Houston,"Houston, United States","6,005,000","1,864","4,828","2,800","1,200",N:N
+64,China,Qingdao,"Qingdao, China","5,970,000",615,"1,593","9,700","3,700",C:B
+65,United States,San Francisco,"San Francisco, United States","5,955,000","1,080","2,797","5,400","2,100",N:N
+66,Saudi Arabia,Riyadh,"Riyadh, Saudi Arabia","5,845,000",640,"1,658","9,100","3,500",C:B
+67,United States,Miami,"Miami, United States","5,820,000","1,239","3,209","4,400","1,700",A:A
+68,India,Pune,"Pune, India","5,785,000",185,479,"31,300","12,100",A:B
+69,Indonesia,Bandung,"Bandung, Indonesia","5,780,000",180,466,"32,100","12,400",C:B
+70,China,Zhengzhou,"Zhengzhou, China","5,755,000",500,"1,295","11,500","4,400",C:B
+71,Singapore,Singapore,"Singapore, Singapore","5,725,000",200,518,"28,600","11,100",A:B
+72,India,Surat,"Surat, India","5,685,000",90,233,"63,200","24,400",A:B
+73,United States,Philadelphia,"Philadelphia, United States","5,595,000","1,981","5,131","2,700","1,100",A:A
+74,China,Suzhou,"Suzhou, China","5,380,000",490,"1,269","11,000","4,200",L:B
+75,Myanmar,Yangon,"Yangon, Myanmar","5,320,000",220,570,"24,200","9,300",C:B
+76,Italy,Milan,"Milan, Italy","5,270,000",730,"1,891","7,200","2,800",C:B
+77,Sudan,Khartoum,"Khartoum, Sudan","5,205,000",375,971,"13,900","5,400",C:B
+78,Russia,St. Petersburg,"St. Petersburg, Russia","5,140,000",520,"1,347","9,900","3,800",C:B
+79,United States,Atlanta,"Atlanta, United States","5,120,000","2,645","6,851","1,700",700,A:A
+80,United States,Washington,"Washington, United States","4,950,000","1,322","3,424","3,500","1,300",A:A
+81,Indonesia,Surabaya,"Surabaya, Indonesia","4,930,000",260,673,"19,000","7,300",C:B
+81,Kenya,Nairobi,"Nairobi, Kenya","4,930,000",215,557,"22,900","8,900",C:B
+83,China,Harbin,"Harbin, China","4,915,000",220,570,"22,300","8,600",C:B
+84,Cote d'Ivoire,Abidjan,"Abidjan, Cote d'Ivoire","4,820,000",145,376,"33,200","12,800",W:B
+85,Egypt,Alexandria,"Alexandria, Egypt","4,775,000",113,293,"42,300","16,300",C:B
+86,Spain,Barcelona,"Barcelona, Spain","4,740,000",415,"1,075","11,400","4,400",C:B
+87,China,Xiamen,"Xiamen, China","4,715,000",225,583,"21,000","8,100",C:B
+88,Mexico,Guadalajara,"Guadalajara, Mexico","4,675,000",290,751,"16,100","6,200",C:B
+89,Turkey,Ankara,"Ankara, Turkey","4,640,000",255,660,"18,200","7,000",C:B
+90,Brazil,Belo Horizonte,"Belo Horizonte, Brazil","4,560,000",420,"1,088","10,900","4,200",C:B
+91,United States,Boston,"Boston, United States","4,490,000","2,056","5,325","2,100",800,N:N
+92,Kuwait,Kuwait,"Kuwait, Kuwait","4,465,000",275,712,"16,200","6,300",C:B
+93,Tanzania,Dar es Salaam,"Dar es Salaam, Tanzania","4,460,000",230,596,"19,400","7,500",C:B
+94,China,Dalian,"Dalian, China","4,300,000",300,777,"14,300","5,500",C:B
+95,United States,Phoenix,"Phoenix, United States","4,295,000","1,245","3,225","3,100","1,300",N:N
+96,Mexico,Monterrey,"Monterrey, Mexico","4,155,000",345,894,"12,000","4,600",C:B
+97,Ghana,Accra,"Accra, Ghana","4,095,000",375,971,"10,900","4,200",W:B
+98,Germany,Berlin,"Berlin, Germany","4,085,000",520,"1,347","7,900","3,000",C:B
+99,China,Fuzhou,"Fuzhou, China","4,080,000",170,440,"24,000","9,300",C:B
+100,Australia,Sydney,"Sydney, Australia","4,070,000",786,"2,037","5,000","1,900",A:A
+101,Indonesia,Medan,"Medan, Indonesia","3,990,000",185,479,"21,600","8,300",C:B
+102,Australia,Melbourne,"Melbourne, Australia","3,955,000",982,"2,543","3,800","1,500",A:A
+103,Italy,Rome,"Rome, Italy","3,930,000",430,"1,114","9,100","3,500",C:B
+104,China,Ningbo,"Ningbo, China","3,895,000",285,738,"13,700","5,300",C:B
+105,China,Jinan,"Jinan, China","3,890,000",305,790,"12,800","4,900",C:B
+106,South Korea,Busan,"Busan, South Korea","3,885,000",155,401,"25,100","9,700",C:B
+107,South Africa,Cape Town,"Cape Town, South Africa","3,865,000",315,816,"12,300","4,700",C:B
+108,Colombia,Medellin,"Medellin, Colombia","3,845,000",93,241,"41,300","16,000",C:B
+109,China,Changsha,"Changsha, China","3,775,000",255,660,"14,800","5,700",C:B
+109,China,Taiyuan,"Taiyuan, China","3,775,000",225,583,"16,800","6,500",C:B
+109,Saudi Arabia,Jiddah,"Jiddah, Saudi Arabia","3,775,000",325,842,"11,600","4,500",C:B
+112,China,Hefei,"Hefei, China","3,730,000",280,725,"13,300","5,100",C:B
+112,China,Kunming,"Kunming, China","3,730,000",275,712,"13,600","5,200",C:B
+114,Italy,Naples,"Naples, Italy","3,700,000",395,"1,023","9,400","3,600",C:B
+115,Nigeria,Kano,"Kano, Nigeria","3,680,000",97,251,"37,900","14,600",W:B
+116,Algeria,Algiers,"Algiers, Algeria","3,675,000",170,440,"21,600","8,300",C:B
+116,Pakistan,Faisalabad,"Faisalabad, Pakistan","3,675,000",70,181,"52,500","20,300",D:B
+118,China,Wuxi,"Wuxi, China","3,670,000",285,738,"12,900","5,000",C:B
+119,Syria,Aleppo,"Aleppo, Syria","3,665,000",100,259,"36,700","14,200",D:B
+120,United States,Detroit,"Detroit, United States","3,660,000","1,337","3,463","2,800","1,100",A:A
+121,Afghanistan,Kabul,"Kabul, Afghanistan","3,650,000",100,259,"36,500","14,100",C:B
+122,Dominican Republic,Santo Domingo,"Santo Domingo, Dominican Republic","3,635,000",165,427,"22,000","8,500",C:B
+123,United Arab Emirates,Dubai,"Dubai, United Arab Emirates","3,630,000",580,"1,502","6,300","2,400",L:B
+124,Canada,Montreal,"Montreal, Canada","3,570,000",597,"1,546","5,700","2,200",A:A
+125,China,Shijiazhuang,"Shijiazhuang, China","3,535,000",240,622,"14,700","5,700",C:B
+126,China,Changzhou,"Changzhou, China","3,515,000",320,829,"11,000","4,200",C:B
+127,India,Jaipur,"Jaipur, India","3,485,000",160,414,"21,800","8,400",C:B
+128,Greece,Athens,"Athens, Greece","3,480,000",225,583,"15,500","6,000",C:B
+129,United States,Seattle,"Seattle, United States","3,475,000","1,154","2,989","2,800","1,100",N:A
+130,Ethiopia,Addis Ababa,"Addis Ababa, Ethiopia","3,465,000",183,474,"18,900","7,300",C:B
+131,Brazil,Fortaleza,"Fortaleza, Brazil","3,460,000",200,518,"17,300","6,700",C:B
+132,South Africa,Durban,"Durban, South Africa","3,450,000",410,"1,062","8,400","3,200",C:B
+133,Brazil,Porto Alegre,"Porto Alegre, Brazil","3,435,000",310,803,"11,100","4,300",C:B
+133,China,Changchun,"Changchun, China","3,435,000",205,531,"16,800","6,500",C:B
+135,Brazil,Recife,"Recife, Brazil","3,375,000",160,414,"21,100","8,100",C:B
+136,Iran,Mashhad,"Mashhad, Iran","3,370,000",115,298,"29,300","11,300",C:B
+137,China,Urumqi,"Urumqi, China","3,310,000",190,492,"17,400","6,700",C:B
+138,China,Wenzhou,"Wenzhou, China","3,280,000",125,324,"26,200","10,100",C:B
+139,India,Lucknow,"Lucknow, India","3,260,000",125,324,"26,100","10,100",A:B
+140,Bangladesh,Chittagong,"Chittagong, Bangladesh","3,250,000",43,111,"75,600","29,200",C:B
+141,Morocco,Casablanca,"Casablanca, Morocco","3,240,000",105,272,"30,900","11,900",C:B
+142,Brazil,Salvador,"Salvador, Brazil","3,230,000",135,350,"23,900","9,200",C:B
+143,China,Zhangjiaggang (Suzhou),"Zhangjiaggang (Suzhou), China","3,225,000",260,673,"12,400","4,800",C:B
+144,Cameroon,Yaounde,"Yaounde, Cameroon","3,205,000",89,231,"36,000","13,900",D:B
+144,China,Zhongshan,"Zhongshan, China","3,205,000",265,686,"12,100","4,700",C:B
+146,Senegal,Dakar,"Dakar, Senegal","3,200,000",75,194,"42,700","16,500",W:B
+147,Turkey,Izmir,"Izmir, Turkey","3,170,000",115,298,"27,600","10,600",C:B
+148,Brazil,Curitiba,"Curitiba, Brazil","3,160,000",325,842,"9,700","3,800",C:B
+149,Yemen,Sana,"Sana, Yemen","3,120,000",86,223,"36,300","14,000",D:B
+150,Mali,Bamako,"Bamako, Mali","3,110,000",120,311,"25,900","10,000",W:B
+150,United States,San Diego,"San Diego, United States","3,110,000",732,"1,896","4,000","1,600",A:A
+152,India,Kanpur,"Kanpur, India","3,065,000",80,207,"38,300","14,800",A:B
+153,Cameroon,Douala,"Douala, Cameroon","3,060,000",79,205,"38,700","15,000",D:B
+154,China,Guiyang,"Guiyang, China","3,030,000",125,324,"24,200","9,400",C:B
+154,Israel,Tel Aviv,"Tel Aviv, Israel","3,030,000",185,479,"16,400","6,300",C:B
+154,South Africa,Pretoria,"Pretoria, South Africa","3,030,000",475,"1,230","6,400","2,500",C:B
+157,Pakistan,Hyderabad,"Hyderabad, Pakistan","2,990,000",28,73,"106,800","41,200",C:B
+158,Ghana,Kumasi,"Kumasi, Ghana","2,965,000",130,337,"22,800","8,800",W:B
+159,Nigeria,Ibadan,"Ibadan, Nigeria","2,910,000",180,466,"16,200","6,200",W:B
+160,Paraguay,Asuncion,"Asuncion, Paraguay","2,895,000",250,648,"11,600","4,500",C:B
+161,Venezuela,Caracas,"Caracas, Venezuela","2,870,000",114,295,"25,200","9,700",C:B
+162,North Korea,Pyongyang,"Pyongyang, North Korea","2,860,000",68,176,"42,100","16,200",D:B
+163,Burkina Faso,Ouagadougou,"Ouagadougou, Burkina Faso","2,825,000",180,466,"15,700","6,100",W:B
+164,Ukraine,Kiyev,"Kiyev, Ukraine","2,800,000",150,389,"18,700","7,200",C:B
+165,Ecuador,Guayaquil,"Guayaquil, Ecuador","2,795,000",119,308,"23,500","9,100",C:B
+165,United States,Minneapolis,"Minneapolis, United States","2,795,000","1,022","2,647","2,600","1,000",A:A
+167,China,Nanchang,"Nanchang, China","2,790,000",265,686,"10,500","4,100",C:B
+168,Uzbekistan,Tashkent,"Tashkent, Uzbekistan","2,785,000",415,"1,075","6,700","2,600",F:B
+169,China,Lanzhou,"Lanzhou, China","2,765,000",100,259,"27,700","10,700",C:B
+170,Nepal,Kathmandu,"Kathmandu, Nepal","2,755,000",77,199,"35,800","13,800",C:B
+171,Azerbaijan,Baku,"Baku, Azerbaijan","2,725,000",435,"1,127","6,300","2,400",C:B
+172,India,Nagpur,"Nagpur, India","2,710,000",95,246,"28,500","11,000",A:B
+173,Haiti,Port-au-Prince,"Port-au-Prince, Haiti","2,700,000",103,267,"26,200","10,100",C:B
+174,China,Nanning,"Nanning, China","2,690,000",118,306,"22,800","8,800",C:B
+175,Brazil,Campinas,"Campinas, Brazil","2,685,000",360,932,"7,500","2,900",C:B
+175,Portugal,Lisbon,"Lisbon, Portugal","2,685,000",370,958,"7,300","2,800",C:B
+177,Netherlands,Rotterdam,"Rotterdam, Netherlands","2,665,000",380,984,"7,000","2,700",C:B
+178,United Kingdom,Manchester,"Manchester, United Kingdom","2,660,000",243,630,"10,500","4,100",A:A
+178,United States,Tampa,"Tampa, United States","2,660,000",957,"2,479","2,600","1,000",A:A
+178,Zambia,Lusaka,"Lusaka, Zambia","2,660,000",121,313,"22,000","8,500",C:B
+181,Mozambique,Maputo,"Maputo, Mozambique","2,655,000",160,414,"16,600","6,400",C:B
+181,Japan,Fukuoka,"Fukuoka, Japan","2,645,000",215,557,"12,300","4,700",C:B
+183,Syria,Damascus,"Damascus, Syria","2,605,000",70,181,"37,200","14,400",D:B
+184,United States,Denver,"Denver, United States","2,600,000",668,"1,730","3,600","1,400",A:A
+185,Pakistan,Rawalpindi,"Rawalpindi, Pakistan","2,590,000",165,427,"15,700","6,100",D:B
+186,Brazil,Brasilia,"Brasilia, Brazil","2,585,000",260,673,"9,900","3,800",C:B
+187,Philippines,Cebu,"Cebu, Philippines","2,580,000",80,207,"32,300","12,500",C:B
+188,India,Coimbatore,"Coimbatore, India","2,570,000",110,285,"23,400","9,000",A:B
+189,China: Taiwan,Kaohsiung,"Kaohsiung, China: Taiwan","2,540,000",140,363,"18,100","7,000",C:B
+190,United Kingdom,Birmingham,"Birmingham, United Kingdom","2,530,000",231,599,"10,600","4,100",A:A
+191,China,Linyi,"Linyi, China","2,520,000",350,907,"7,200","2,800",C:B
+191,China: Taiwan,Taichung,"Taichung, China: Taiwan","2,520,000",190,492,"13,300","5,100",C:B
+191,Madagascar,Antananarivo,"Antananarivo, Madagascar","2,520,000",85,220,"29,600","11,400",C:B
+194,Hungary,Budapest,"Budapest, Hungary","2,500,000",375,971,"6,700","2,600",C:B
+195,India,Kozhikode,"Kozhikode, India","2,495,000",46,119,"54,200","20,900",A:B
+196,Jordan,Amman,"Amman, Jordan","2,480,000",133,344,"18,600","7,200",C:B
+197,India,Indore,"Indore, India","2,470,000",105,272,"23,500","9,100",A:B
+198,China,Shantou,"Shantou, China","2,460,000",140,363,"17,600","6,800",C:B
+199,Colombia,Cali,"Cali, Colombia","2,455,000",69,179,"35,600","13,700",C:B
+200,India,Kochi,"Kochi, India","2,440,000",170,440,"14,400","5,500",A:B
+200,Uganda,Kampala,"Kampala, Uganda","2,440,000",290,751,"8,400","3,200",C:B
+202,China,Shaoxing,"Shaoxing, China","2,435,000",185,479,"13,200","5,100",C:B
+202,Iran,Esfahan,"Esfahan, Iran","2,435,000",135,350,"18,000","7,000",C:B
+204,China,Chaoyang (Shantou,"Chaoyang (Shantou, China","2,430,000",105,272,"23,100","8,900",C:B
+205,China,Huai'an,"Huai'an, China","2,400,000",57,148,"42,100","16,300",C:B
+206,China,Tangshan,"Tangshan, China","2,395,000",140,363,"17,100","6,600",C:B
+205,Japan,Sapporo,"Sapporo, Japan","2,395,000",225,583,"10,600","4,100",C:B
+208,Guatemala,Guatemala City,"Guatemala City, Guatemala","2,390,000",150,389,"15,900","6,200",C:B
+209,South Korea,Daegu,"Daegu, South Korea","2,380,000",95,246,"25,100","9,700",C:B
+210,Ecuador,Quito,"Quito, Ecuador","2,365,000",207,536,"11,400","4,400",C:B
+211,India,Thrissur,"Thrissur, India","2,345,000",140,363,"16,800","6,500",A:B
+212,China,Baotou,"Baotou, China","2,315,000",210,544,"11,000","4,300",C:B
+213,Canada,Vancouver,"Vancouver, Canada","2,310,000",444,"1,150","4,800","1,900",A:A
+214,China,Hohhot,"Hohhot, China","2,295,000",180,466,"12,800","4,900",C:B
+215,United States,Baltimore,"Baltimore, United States","2,275,000",717,"1,857","3,100","1,200",A:A
+216,Poland,Warsaw,"Warsaw, Poland","2,270,000",210,544,"10,800","4,200",C:B
+217,Somalia,Mogadishu,"Mogadishu, Somalia","2,265,000",35,91,"64,700","25,000",D:B
+218,United States,Las Vegas,"Las Vegas, United States","2,255,000",417,"1,080","4,500","1,700",A:A
+219,Philippines,Davao City,"Davao City, Philippines","2,245,000",50,130,"44,900","17,300",C:B
+220,India,Patna,"Patna, India","2,240,000",55,142,"40,700","15,700",A:B
+220,Tunisia,Tunis,"Tunis, Tunisia","2,240,000",170,440,"13,200","5,100",C:B
+222,India,Malappuram,"Malappuram, India","2,225,000",125,324,"17,800","6,900",A:B
+222,Lebanon,Beirut,"Beirut, Lebanon","2,225,000",260,673,"8,600","3,300",D:B
+224,Zimbabwe,Harare,"Harare, Zimbabwe","2,220,000",320,829,"6,900","2,700",C:B
+225,Pakistan,Gujranwala,"Gujranwala, Pakistan","2,195,000",57,148,"38,500","14,900",D:B
+225,Sri Lanka,Colombo,"Colombo, Sri Lanka","2,195,000",86,223,"25,500","9,900",C:B
+225,United States,St. Louis,"St. Louis, United States","2,195,000",924,"2,393","2,300",900,A:A
+228,Bolivia,Santa Cruz,"Santa Cruz, Bolivia","2,190,000",230,596,"9,500","3,700",C:B
+229,Poland,Katowice,"Katowice, Poland","2,180,000",260,673,"8,400","3,200",C:B
+230,India,Kannur,"Kannur, India","2,160,000",35,91,"61,700","23,800",A:B
+231,Brazil,Goiania,"Goiania, Brazil","2,155,000",270,699,"8,000","3,100",C:B
+232,US: Puerto Rico,San Juan,"San Juan, US: Puerto Rico","2,135,000",867,"2,246","2,500","1,000",A:A
+233,India,Bhopal,"Bhopal, India","2,125,000",70,181,"30,400","11,700",A:B
+233,Mexico,Puebla,"Puebla, Mexico","2,125,000",170,440,"12,500","4,800",C:B
+233,United States,Orlando,"Orlando, United States","2,125,000",790,"2,046","2,400","1,000",N:N
+236,Germany,Cologne,"Cologne, Germany","2,115,000",360,932,"5,900","2,300",C:B
+236,Romania,Bucharest,"Bucharest, Romania","2,115,000",159,412,"13,300","5,100",C:B
+238,Belgium,Brussels,"Brussels, Belgium","2,105,000",310,803,"6,800","2,600",C:B
+239,Germany,Hamburg,"Hamburg, Germany","2,095,000",300,777,"7,000","2,700",C:B
+240,Congo (Dem. Rep.),Mbuji-Mayi,"Mbuji-Mayi, Congo (Dem. Rep.)","2,090,000",47,122,"44,500","17,200",D:B
+241,Congo (Dem. Rep.),Lubumbashi,"Lubumbashi, Congo (Dem. Rep.)","2,080,000",60,155,"34,700","13,400",D:B
+242,China,Haikou,"Haikou, China","2,065,000",120,311,"17,200","6,600",C:B
+242,Venezuela,Maracaibo,"Maracaibo, Venezuela","2,065,000",157,407,"13,200","5,100",C:B
+244,Australia,Brisbane,"Brisbane, Australia","2,030,000",761,"1,972","2,500","1,000",A:A
+244,Cuba,Havana,"Havana, Cuba","2,030,000",120,311,"16,900","6,500",C:B
+246,United States,San Antonio,"San Antonio, United States","2,025,000",597,"1,546","2,900","1,100",A:A
+247,Brazil,Belem,"Belem, Brazil","2,005,000",100,259,"20,100","7,700",C:B
+248,China,Luoyang,"Luoyang, China","2,000,000",85,220,"23,500","9,100",C:B
+248,Germany,Munich,"Munich, Germany","2,000,000",180,466,"11,100","4,300",C:B
+248,India,Vadodara,"Vadodara, India","2,000,000",53,137,"37,700","14,600",A:B
+248,United States,Portland,"Portland, United States","2,000,000",524,"1,357","3,500","1,400",A:A
+252,India,Agra,"Agra, India","1,990,000",50,130,"39,800","15,400",A:B
+251,Nigeria,Uyo,"Uyo, Nigeria","1,990,000",281,729,"7,100","2,700",W:W
+254,India,Thiruvananthapuram,"Thiruvananthapuram, India","1,985,000",55,142,"36,100","13,900",A:B
+255,Belarus,Minsk,"Minsk, Belarus","1,980,000",165,427,"12,000","4,600",C:B
+256,Pakistan,Multan,"Multan, Pakistan","1,950,000",80,207,"24,400","9,400",D:B
+257,Mexico,Toluca,"Toluca, Mexico","1,940,000",165,427,"11,800","4,500",C:B
+258,Bolivia,La Paz,"La Paz, Bolivia","1,935,000",105,272,"18,400","7,100",C:B
+258,Brazil,Manaus,"Manaus, Brazil","1,935,000",125,324,"15,500","6,000",C:B
+258,Iran,Shiraz,"Shiraz, Iran","1,935,000",95,246,"20,400","7,900",C:B
+261,Germany,Frankfurt,"Frankfurt, Germany","1,930,000",250,648,"7,700","3,000",C:B
+262,United Kingdom,Leeds,"Leeds, United Kingdom","1,925,000",188,488,"9,400","3,600",A:A
+263,United States,Sacramento,"Sacramento, United States","1,920,000",471,"1,220","3,700","1,400",A:A
+264,Congo,Brazzaville,"Brazzaville, Congo","1,915,000",70,181,"27,400","10,600",D:B
+265,China,Kunshan (Suzhou),"Kunshan (Suzhou), China","1,890,000",215,557,"8,800","3,400",C:B
+265,Turkey,Bursa,"Bursa, Turkey","1,890,000",80,207,"23,600","9,100",C:B
+267,Morocco,Rabat,"Rabat, Morocco","1,880,000",71,184,"26,500","10,200",C:B
+268,Nigeria,Port Harcourt,"Port Harcourt, Nigeria","1,865,000",61,158,"30,600","11,800",W:B
+269,Cambodia,Phnom Penh,"Phnom Penh, Cambodia","1,860,000",85,220,"21,900","8,400",C:B
+270,China,Huizhou,"Huizhou, China","1,845,000",80,207,"23,100","8,900",C:B
+271,Indonesia,Yogyakarta,"Yogyakarta, Indonesia","1,835,000",90,233,"20,400","7,900",C:B
+272,China,Handan,"Handan, China","1,820,000",170,440,"10,700","4,100",C:B
+273,India,Visakhapatnam,"Visakhapatnam, India","1,810,000",121,313,"15,000","5,800",C:B
+274,India,Nashik,"Nashik, India","1,800,000",43,111,"41,900","16,200",A:B
+275,Australia,Perth,"Perth, Australia","1,785,000",605,"1,566","2,700","1,000",A:A
+275,Pakistan,Peshawar,"Peshawar, Pakistan","1,785,000",45,117,"39,700","15,300",D:B
+275,United States,Cleveland,"Cleveland, United States","1,785,000",772,"1,999","2,300",900,A:A
+278,Austria,Vienna,"Vienna, Austria","1,775,000",175,453,"10,100","3,900",C:B
+278,India,Vijayawada,"Vijayawada, India","1,775,000",22,57,"80,700","31,200",A:B
+280,China,Yiwu (Jinhua),"Yiwu (Jinhua), China","1,770,000",90,233,"19,700","7,600",C:B
+280,Colombia,Barranquilla,"Barranquilla, Colombia","1,770,000",69,179,"25,700","9,900",C:B
+282,China,Datong,"Datong, China","1,750,000",70,181,"25,000","9,700",C:B
+281,Japan,Kitakyushu,"Kitakyushu, Japan","1,745,000",230,596,"7,600","2,900",C:B
+284,India,Ludhiana,"Ludhiana, India","1,740,000",65,168,"26,800","10,300",A:B
+284,Nigeria,Nsukka,"Nsukka, Nigeria","1,735,000",249,645,"7,000","2,700",W:W
+285,Togo,Lome,"Lome, Togo","1,735,000",80,207,"21,700","8,400",W:B
+287,Iraq,Mosul,"Mosul, Iraq","1,730,000",54,140,"32,000","12,400",D:B
+287,Malaysia,Johor Bahru,"Johor Bahru, Malaysia","1,730,000",275,712,"6,300","2,400",C:B
+287,United States,Pittsburgh,"Pittsburgh, United States","1,730,000",905,"2,344","1,900",700,A:A
+290,Costa Rica,San Jose,"San Jose, Costa Rica","1,720,000",160,414,"10,800","4,200",C:B
+291,Iran,Tabriz,"Tabriz, Iran","1,715,000",65,168,"26,400","10,200",C:B
+292,China,Yinchuan,"Yinchuan, China","1,710,000",132,342,"13,000","5,000",C:B
+293,Syria,Hims,"Hims, Syria","1,705,000",32,83,"53,300","20,600",D:B
+294,United Arab Emirates,Abu Dhabi,"Abu Dhabi, United Arab Emirates","1,695,000",310,803,"5,500","2,100",L:B
+294,United States,Cincinnati,"Cincinnati, United States","1,695,000",788,"2,041","2,100",800,A:A
+296,Guinea,Conakry,"Conakry, Guinea","1,685,000",62,161,"27,200","10,500",W:B
+296,Saudi Arabia,Mecca,"Mecca, Saudi Arabia","1,685,000",150,389,"11,200","4,300",C:B
+298,United States,Austin,"Austin, United States","1,675,000",523,"1,355","2,600","1,000",A:A
+299,Brazil,Santos,"Santos, Brazil","1,670,000",115,298,"14,500","5,600",C:B
+299,China,Zibo,"Zibo, China","1,670,000",135,350,"12,400","4,800",C:B
+301,China,Jilin,"Jilin, China","1,650,000",75,194,"22,000","8,500",C:B
+301,China,Weifang,"Weifang, China","1,650,000",95,246,"17,400","6,700",C:B
+301,Indonesia,Semarang,"Semarang, Indonesia","1,650,000",105,272,"15,700","6,100",D:B
+304,United States,Indianapolis,"Indianapolis, United States","1,645,000",706,"1,829","2,100",800,A:A
+305,France,Lyon,"Lyon, France","1,635,000",455,"1,178","3,600","1,400",C:B
+305,Netherlands,Amsterdam,"Amsterdam, Netherlands","1,635,000",195,505,"8,400","3,200",C:B
+307,China,Taizhou,"Taizhou, China","1,630,000",90,233,"18,100","7,000",C:B
+308,Qatar,Doha,"Doha, Qatar","1,620,000",225,583,"7,200","2,800",C:B
+309,China,Liuzhou,"Liuzhou, China","1,615,000",80,207,"20,200","7,800",C:B
+309,India,Madurai,"Madurai, India","1,615,000",29,75,"55,700","21,500",A:B
+309,India,Rajkot,"Rajkot, India","1,615,000",29,75,"55,700","21,500",A:B
+309,Philippines,General Santos,"General Santos, Philippines","1,615,000",29,75,"55,700","21,500",C:B
+309,South Korea,Gwangju,"Gwangju, South Korea","1,615,000",49,127,"33,000","12,700",D:B
+314,France,Marseille,"Marseille, France","1,610,000",266,689,"6,100","2,300",C:B
+314,United States,Kansas City,"Kansas City, United States","1,610,000",678,"1,756","2,200",900,A:A
+316,United States,Charlotte,"Charlotte, United States","1,600,000",741,"1,919","1,700",700,A:A
+317,Argentina,Cordoba,"Cordoba, Argentina","1,595,000",140,363,"11,400","4,400",C:B
+317,China,Yangzhou,"Yangzhou, China","1,595,000",90,233,"17,700","6,800",C:B
+317,Mexico,Leon,"Leon, Mexico","1,595,000",140,363,"11,400","4,400",C:B
+317,Ukraine,Kharkov,"Kharkov, Ukraine","1,595,000",152,394,"10,500","4,100",C:B
+321,China,Zhuhai,"Zhuhai, China","1,585,000",105,272,"15,100","5,800",C:B
+322,China,Cixi (Ningbo),"Cixi (Ningbo), China","1,580,000",185,479,"8,500","3,300",C:B
+322,Nigeria,Abuja,"Abuja, Nigeria","1,580,000",87,225,"18,200","7,000",W:B
+324,South Korea,Daejon,"Daejon, South Korea","1,575,000",51,132,"30,900","11,900",C:B
+325,China,Yantai,"Yantai, China","1,570,000",101,262,"15,500","6,000",C:B
+325,India,Meerut,"Meerut, India","1,570,000",40,104,"39,300","15,200",A:B
+325,Spain,Valencia,"Valencia, Spain","1,570,000",105,272,"15,000","5,800",C:B
+328,India,Varanasi,"Varanasi, India","1,565,000",39,101,"40,100","15,500",A:B
+329,China,Putian,"Putian, China","1,540,000",175,453,"8,800","3,400",C:B
+330,China,Anshan,"Anshan, China","1,530,000",140,363,"10,900","4,200",C:B
+330,Panama,Panama City,"Panama City, Panama","1,530,000",85,220,"18,000","6,900",C:B
+332,China,Wuhu,"Wuhu, China","1,525,000",62,161,"24,600","9,500",C:B
+332,El Salvador,San Salvador,"San Salvador, El Salvador","1,525,000",80,207,"19,100","7,400",C:B
+332,Italy,Turin,"Turin, Italy","1,525,000",145,376,"10,500","4,100",C:B
+335,Indonesia,Makassar,"Makassar, Indonesia","1,520,000",69,179,"22,000","8,500",C:B
+336,Sweden,Stockholm,"Stockholm, Sweden","1,510,000",147,382,"9,300","3,600",A:A
+337,China,Daqing,"Daqing, China","1,505,000",145,376,"10,400","4,000",C:B
+337,United States,Columbus,"Columbus, United States","1,505,000",510,"1,321","2,700","1,000",A:A
+339,Venezuela,Valencia,"Valencia, Venezuela","1,495,000",140,363,"10,700","4,100",C:B
+340,Russia,Novosibirsk,"Novosibirsk, Russia","1,490,000",240,622,"6,200","2,400",C:B
+341,Kazakhstan,Almaty,"Almaty, Kazakhstan","1,485,000",205,531,"7,200","2,800",C:B
+342,Portugal,Porto,"Porto, Portugal","1,480,000",300,777,"4,900","1,900",C:B
+343,India,Jamshedpur,"Jamshedpur, India","1,470,000",42,109,"35,000","13,500",A:B
+344,United States,Virginia Beach,"Virginia Beach, United States","1,465,000",515,"1,334","2,800","1,100",A:A
+345,China,Zhangzhou,"Zhangzhou, China","1,455,000",135,350,"10,800","4,200",C:B
+346,India,Srinagar,"Srinagar, India","1,445,000",49,127,"29,500","11,400",A:B
+346,Liberia,Monrovia,"Monrovia, Liberia","1,445,000",75,194,"19,300","7,400",W:B
+348,Indonesia,Palembang,"Palembang, Indonesia","1,440,000",85,220,"16,900","6,500",C:B
+349,Niger,Niamey,"Niamey, Niger","1,435,000",50,130,"28,700","11,100",W:B
+349,Turkey,Gaziantep,"Gaziantep, Turkey","1,435,000",44,114,"32,600","12,600",C:B
+351,China,Huangshi,"Huangshi, China","1,420,000",102,264,"13,900","5,400",C:B
+351,China,Jiangmen,"Jiangmen, China","1,420,000",135,350,"10,500","4,100",C:B
+351,India,Kollam,"Kollam, India","1,420,000",70,181,"20,300","7,800",A:B
+354,United States,Milwaukee,"Milwaukee, United States","1,415,000",546,"1,414","2,500","1,000",A:A
+355,Bahrain,Al-Manamah,"Al-Manamah, Bahrain","1,410,000",150,389,"9,400","3,600",C:B
+355,Mexico,Tijuana,"Tijuana, Mexico","1,410,000",180,466,"7,800","3,000",C:B
+357,China,Changshu (Suzhou),"Changshu (Suzhou), China","1,405,000",124,321,"11,300","4,400",C:B
+356,Japan,Sendai,"Sendai, Japan","1,390,000",128,332,"10,900","4,200",C:B
+358,Myanmar,Mandalay,"Mandalay, Myanmar","1,390,000",51,132,"27,300","10,500",C:B
+360,Germany,Stuttgart,"Stuttgart, Germany","1,385,000",185,479,"7,500","2,900",C:B
+360,India,Raipur,"Raipur, India","1,385,000",43,111,"32,200","12,400",A:B
+362,China,Xining,"Xining, China","1,380,000",73,189,"18,900","7,300",C:B
+362,Czech Republic,Prague,"Prague, Czech Republic","1,380,000",115,298,"12,000","4,600",C:B
+360,Japan,Hiroshima,"Hiroshima, Japan","1,380,000",110,285,"12,500","4,800",C:B
+365,Malaysia,Penang,"Penang, Malaysia","1,375,000",115,298,"12,000","4,600",C:B
+366,Mexico,Ciudad Juarez,"Ciudad Juarez, Mexico","1,370,000",140,363,"9,800","3,800",C:B
+366,New Zealand,Auckland,"Auckland, New Zealand","1,370,000",210,544,"6,500","2,500",C:B
+368,Russia,Yekaterinburg,"Yekaterinburg, Russia","1,365,000",200,518,"6,800","2,600",C:B
+369,China,Baoding,"Baoding, China","1,360,000",150,389,"9,100","3,500",C:B
+369,India,Aurangabad,"Aurangabad, India","1,360,000",28,73,"48,600","18,800",A:B
+371,Argentina,Rosario,"Rosario, Argentina","1,355,000",90,233,"15,100","5,800",C:B
+371,China,Nantong,"Nantong, China","1,355,000",153,396,"8,900","3,400",C:B
+371,India,Jabalpur,"Jabalpur, India","1,355,000",35,91,"38,700","14,900",A:B
+371,Nigeria,Benin City,"Benin City, Nigeria","1,355,000",88,228,"15,400","5,900",W:B
+375,Iran,Ahvaz,"Ahvaz, Iran","1,345,000",90,233,"14,900","5,800",C:B
+376,India,Asansol,"Asansol, India","1,335,000",25,65,"53,400","20,600",A:B
+377,Armenia,Yerevan,"Yerevan, Armenia","1,325,000",145,376,"9,100","3,500",C:B
+377,China,Fushun,"Fushun, China","1,325,000",50,130,"26,500","10,200",C:B
+377,China,Xuzhou,"Xuzhou, China","1,325,000",90,233,"14,700","5,700",C:B
+377,Indonesia,Surakarta,"Surakarta, Indonesia","1,325,000",80,207,"16,600","6,400",C:B
+381,Bulgaria,Sofia,"Sofia, Bulgaria","1,320,000",80,207,"16,500","6,400",C:B
+382,India,Allahabad,"Allahabad, India","1,315,000",48,124,"27,400","10,600",A:B
+383,Uruguay,Montevideo,"Montevideo, Uruguay","1,305,000",120,311,"10,900","4,200",C:B
+384,India,Jodhpur,"Jodhpur, India","1,300,000",32,83,"40,600","15,700",A:B
+384,Syria,Hamah,"Hamah, Syria","1,300,000",20,52,"65,000","25,100",D:B
+386,China,Wenling (Taizhou),"Wenling (Taizhou), China","1,290,000",45,117,"28,700","11,100",C:B
+387,India,Amritsar,"Amritsar, India","1,285,000",38,98,"33,800","13,100",A:B
+388,India,Ranchi,"Ranchi, India","1,280,000",22,57,"58,200","22,500",A:B
+388,Mongolia,Ulaanbaatar,"Ulaanbaatar, Mongolia","1,280,000",120,311,"10,700","4,100",C:B
+390,Bolivia,Cochabamba,"Cochabamba, Bolivia","1,275,000",98,254,"13,000","5,000",C:B
+390,Denmark,Copenhagen,"Copenhagen, Denmark","1,275,000",238,616,"5,200","2,000",A:A
+390,India,Dhanbad,"Dhanbad, India","1,275,000",37,96,"34,500","13,300",A:B
+393,Chad,N'Djamena,"N'Djamena, Chad","1,270,000",64,166,"19,800","7,700",W:B
+394,China,Qiqihaer,"Qiqihaer, China","1,260,000",50,130,"25,200","9,700",C:B
+394,Saudi Arabia,Medina,"Medina, Saudi Arabia","1,260,000",135,350,"9,300","3,600",C:B
+396,India,Durg,"Durg, India","1,255,000",44,114,"28,500","11,000",A:B
+397,China,Anyang,"Anyang, China","1,245,000",95,246,"13,100","5,100",C:B
+397,Indonesia,Denpasar,"Denpasar, Indonesia","1,245,000",69,179,"18,000","7,000",C:B
+399,China,Dongying,"Dongying, China","1,240,000",85,220,"14,600","5,600",C:B
+399,India,Tiruppur,"Tiruppur, India","1,240,000",40,104,"31,000","12,000",A:B
+401,China,Qinhuangdao,"Qinhuangdao, China","1,235,000",170,440,"7,300","2,800",C:B
+401,India,Gwalior,"Gwalior, India","1,235,000",22,57,"56,100","21,700",A:B
+401,United Kingdom,Glasgow,"Glasgow, United Kingdom","1,235,000",142,368,"8,500","3,300",D:A
+404,Indonesia,Batam,"Batam, Indonesia","1,225,000",80,207,"15,300","5,900",C:B
+404,South Africa,Port Elizabeth,"Port Elizabeth, South Africa","1,225,000",150,389,"8,200","3,200",C:B
+404,Turkey,Konya,"Konya, Turkey","1,225,000",50,130,"24,500","9,500",D:B
+407,Finland,Helsinki,"Helsinki, Finland","1,220,000",247,641,"4,800","1,800",A:A
+407,Morocco,Fez,"Fez, Morocco","1,220,000",32,83,"38,100","14,700",C:B
+409,Canada,Calgary,"Calgary, Canada","1,215,000",272,704,"4,000","1,600",A:A
+409,Nigeria,Aba,"Aba, Nigeria","1,215,000",35,91,"34,700","13,400",W:B
+411,Morocco,Marrakech,"Marrakech, Morocco","1,210,000",31,80,"39,000","15,100",C:B
+412,Benin,Cotonou,"Cotonou, Benin","1,205,000",80,207,"15,100","5,800",W:B
+412,United States,Providence,"Providence, United States","1,205,000",545,"1,412","2,200",800,A:A
+414,China,Xiangyang,"Xiangyang, China","1,200,000",52,135,"23,100","8,900",C:B
+414,Congo (Dem. Rep.),Kananga,"Kananga, Congo (Dem. Rep.)","1,200,000",28,73,"42,900","16,500",D:B
+416,Brazil,Sao Luis,"Sao Luis, Brazil","1,190,000",165,427,"7,200","2,800",C:B
+416,Ireland,Dublin,"Dublin, Ireland","1,190,000",123,318,"9,000","3,500",A:A
+416,Russia,Nizhniy Novgorod,"Nizhniy Novgorod, Russia","1,190,000",240,622,"5,000","1,900",C:B
+419,Brazil,Vittoria,"Vittoria, Brazil","1,185,000",130,337,"9,100","3,500",C:B
+419,Iraq,Irbil,"Irbil, Iraq","1,185,000",29,75,"40,900","15,800",D:B
+421,China,Lianyungang,"Lianyungang, China","1,175,000",60,155,"19,600","7,600",C:B
+422,China,Ruian (Wenzhou),"Ruian (Wenzhou), China","1,170,000",51,132,"22,900","8,900",C:B
+422,China,Zhangjiakou,"Zhangjiakou, China","1,170,000",50,130,"23,400","9,000",C:B
+422,China: Taiwan,Tainan,"Tainan, China: Taiwan","1,170,000",100,259,"11,700","4,500",C:B
+422,Mexico,Torreon,"Torreon, Mexico","1,170,000",110,285,"10,600","4,100",C:B
+422,United States,Jacksonville,"Jacksonville, United States","1,170,000",530,"1,373","2,000",800,A:A
+427,China,Huainan,"Huainan, China","1,160,000",42,109,"27,600","10,700",C:B
+427,Rwanda,Kigali,"Kigali, Rwanda","1,160,000",44,114,"26,400","10,200",C:B
+429,Honduras,Tegucigalpa,"Tegucigalpa, Honduras","1,155,000",57,148,"20,300","7,800",C:B
+429,Indonesia,Cirebon,"Cirebon, Indonesia","1,155,000",41,106,"28,200","10,900",C:B
+427,Japan,Naha,"Naha, Japan","1,155,000",115,298,"10,000","3,900",C:B
+429,Kenya,Mombasa,"Mombasa, Kenya","1,155,000",33,85,"35,000","13,500",D:B
+429,Russia,Omsk,"Omsk, Russia","1,155,000",190,492,"6,100","2,300",C:B
+429,Venezuela,Maracay,"Maracay, Venezuela","1,155,000",85,220,"13,600","5,200",C:B
+435,Australia,Adelaide,"Adelaide, Australia","1,150,000",329,852,"3,400","1,300",A:A
+435,India,Chandigarh,"Chandigarh, India","1,150,000",100,259,"11,500","4,400",A:B
+435,Russia,Chelyabinsk,"Chelyabinsk, Russia","1,150,000",155,401,"7,400","2,900",C:B
+438,China,Huaibei,"Huaibei, China","1,145,000",35,91,"32,700","12,600",C:B
+438,China,Tengzhou (Zhaoahuang),"Tengzhou (Zhaoahuang), China","1,145,000",44,114,"26,000","10,000",C:B
+438,Indonesia,Pekan Baru,"Pekan Baru, Indonesia","1,145,000",26,67,"44,000","17,000",D:B
+438,Russia,Kazan,"Kazan, Russia","1,145,000",170,440,"6,700","2,600",C:B
+438,Russia,Samara,"Samara, Russia","1,145,000",95,246,"12,100","4,700",C:B
+443,Pakistan,Quetta,"Quetta, Pakistan","1,140,000",48,124,"23,800","9,200",D:B
+444,Iran,Qom,"Qom, Iran","1,130,000",45,117,"25,100","9,700",C:B
+444,United States,Raleigh,"Raleigh, United States","1,130,000",518,"1,342","1,700",700,A:A
+446,China,Huzhou,"Huzhou, China","1,125,000",123,319,"9,100","3,500",C:B
+446,India,Bareilly,"Bareilly, India","1,125,000",32,83,"35,200","13,600",A:B
+446,Indonesia,Malang,"Malang, Indonesia","1,125,000",95,246,"11,800","4,600",D:B
+446,Turkey,Adana,"Adana, Turkey","1,125,000",63,163,"17,900","6,900",C:B
+450,India,Tiruchirappalli,"Tiruchirappalli, India","1,120,000",33,85,"33,900","13,100",A:B
+450,Mexico,San Luis Potosi,"San Luis Potosi, Mexico","1,120,000",82,212,"13,700","5,300",C:B
+452,Libya,Tripoli,"Tripoli, Libya","1,115,000",75,194,"14,900","5,700",D:B
+453,Spain,Seville,"Seville, Spain","1,110,000",105,272,"10,600","4,100",C:B
+453,United States,Memphis,"Memphis, United States","1,110,000",497,"1,287","2,100",800,A:A
+455,China,Jiamusi,"Jiamusi, China","1,105,000",31,80,"35,600","13,800",C:B
+455,United States,Nashville,"Nashville, United States","1,105,000",563,"1,458","1,700",700,A:A
+455,Uzbekistan,Samarkand,"Samarkand, Uzbekistan","1,105,000",195,505,"5,700","2,200",F:B
+458,Georgia,Tblisi,"Tblisi, Georgia","1,100,000",95,246,"11,600","4,500",C:B
+458,India,Mysore,"Mysore, India","1,100,000",35,91,"31,400","12,100",A:B
+458,Israel,Haifa,"Haifa, Israel","1,100,000",88,228,"12,500","4,800",D:B
+458,Nigeria,Kaduna,"Kaduna, Nigeria","1,100,000",59,153,"18,600","7,200",W:B
+458,United States,Salt Lake City,"Salt Lake City, United States","1,100,000",278,720,"3,700","1,400",A:A
+463,China,Xinxiang,"Xinxiang, China","1,090,000",40,104,"27,300","10,500",C:B
+464,Brazil,Natal,"Natal, Brazil","1,085,000",95,246,"11,400","4,400",C:B
+464,China,Fuzhou,"Fuzhou, China","1,085,000",26,67,"41,700","16,100",C:B
+464,Serbia,Belgrade,"Belgrade, Serbia","1,085,000",95,246,"11,400","4,400",C:B
+467,China,Zhucheng (Weifang),"Zhucheng (Weifang), China","1,080,000",56,145,"19,300","7,400",C:B
+467,Russia,Rostov,"Rostov, Russia","1,080,000",145,376,"7,400","2,900",C:B
+469,China,Yichang,"Yichang, China","1,075,000",25,65,"43,000","16,600",C:B
+470,Brazil,Joao Pessoa,"Joao Pessoa, Brazil","1,070,000",75,194,"14,300","5,500",C:B
+470,China,Puning (Jieyang),"Puning (Jieyang), China","1,070,000",69,179,"15,500","6,000",C:B
+470,Sierra Leone,Freetown,"Freetown, Sierra Leone","1,070,000",35,91,"30,600","11,800",W:B
+473,China,Zhanjiang,"Zhanjiang, China","1,065,000",32,83,"33,300","12,800",C:B
+474,Canada,Edmonton,"Edmonton, Canada","1,060,000",330,855,"2,900","1,100",A:A
+474,France,Lille,"Lille, France","1,060,000",171,443,"6,200","2,400",C:B
+476,India,Guwahati,"Guwahati, India","1,055,000",27,70,"39,100","15,100",A:B
+476,India,Kota,"Kota, India","1,055,000",44,114,"24,000","9,300",C:B
+478,Colombia,Bucaramanga,"Bucaramanga, Colombia","1,050,000",27,70,"38,900","15,000",C:B
+478,India,Aligarh,"Aligarh, India","1,050,000",16,41,"65,600","25,300",A:B
+480,Saudi Arabia,Ad-Dammam,"Ad-Dammam, Saudi Arabia","1,045,000",375,971,"2,800","1,100",C:B
+481,Congo (Dem. Rep.),Kisangani,"Kisangani, Congo (Dem. Rep.)","1,040,000",22,57,"47,300","18,300",D:B
+482,India,Moradabad,"Moradabad, India","1,035,000",20,52,"51,800","20,000",A:B
+482,Iraq,Sulaimaniya,"Sulaimaniya, Iraq","1,035,000",24,62,"43,100","16,700",D:B
+482,United States,Louisville,"Louisville, United States","1,035,000",477,"1,235","2,000",800,A:A
+485,Bangladesh,Khulna,"Khulna, Bangladesh","1,030,000",27,70,"38,100","14,700",D:B
+485,China,Xiangtan,"Xiangtan, China","1,030,000",50,130,"20,600","8,000",C:B
+485,United States,Richmond,"Richmond, United States","1,030,000",492,"1,274","1,900",700,A:A
+488,China,Pingdingshan,"Pingdingshan, China","1,025,000",34,88,"30,100","11,600",C:B
+488,China,Zhuzhou,"Zhuzhou, China","1,025,000",60,155,"17,100","6,600",C:B
+488,Laos,Vientiane,"Vientiane, Laos","1,025,000",50,130,"20,500","7,900",D:B
+488,Mexico,Queretaro,"Queretaro, Mexico","1,025,000",140,363,"7,300","2,800",C:B
+488,Russia,Ufa,"Ufa, Russia","1,025,000",65,168,"15,800","6,100",C:B
+493,Iraq,Basra,"Basra, Iraq","1,020,000",61,158,"16,700","6,500",D:B
+494,Algeria,Wahran,"Wahran, Algeria","1,015,000",63,163,"16,100","6,200",C:B
+494,Belgium,Antwerp,"Antwerp, Belgium","1,015,000",245,635,"4,100","1,600",C:B
+494,China,Hengyang,"Hengyang, China","1,015,000",23,60,"44,100","17,000",C:B
+494,Colombia,Cartagena,"Cartagena, Colombia","1,015,000",36,93,"28,200","10,900",C:B
+494,India,Salem,"Salem, India","1,015,000",19,49,"53,400","20,600",A:B
+494,Mexico,Merida,"Merida, Mexico","1,015,000",165,427,"6,200","2,400",C:B
+494,Viet Nam,Hai Phong,"Hai Phong, Viet Nam","1,015,000",25,65,"40,600","15,700",C:B
+501,Argentina,Mendoza,"Mendoza, Argentina","1,010,000",95,246,"10,600","4,100",C:B
+501,Canada,Ottawa,"Ottawa, Canada","1,010,000",194,502,"4,800","1,900",A:A
+501,India,Bhubaneswar,"Bhubaneswar, India","1,010,000",28,73,"36,100","13,900",A:B
+501,Ukraine,Odessa,"Odessa, Ukraine","1,010,000",80,207,"12,600","4,900",D:B
+505,Honduras,San Pedro Sula,"San Pedro Sula, Honduras","1,005,000",62,161,"16,200","6,300",C:B
+505,Russia,Krasnoyarsk,"Krasnoyarsk, Russia","1,005,000",170,440,"5,900","2,300",C:B
+507,India,Solapur,"Solapur, India","1,000,000",21,54,"47,600","18,400",A:B
+507,Mexico,Morelia,"Morelia, Mexico","1,000,000",72,186,"13,900","5,400",C:B
+507,Russia,Volgograd,"Volgograd, Russia","1,000,000",260,673,"3,800","1,500",C:B
+510,Brazil,Maceio,"Maceio, Brazil","995,000",45,117,"22,100","8,500",C:B
+511,China,Zhenjiang,"Zhenjiang, China","990,000",94,243,"10,500","4,100",C:B
+511,Nicaragua,Managua,"Managua, Nicaragua","990,000",60,155,"16,500","6,400",C:B
+511,Norway,Oslo,"Oslo, Norway","990,000",112,290,"8,300","3,200",A:A
+511,South Korea,Changwon,"Changwon, South Korea","990,000",40,104,"24,800","9,600",C:B
+515,Congo,Pointe Noire,"Pointe Noire, Congo","980,000",39,101,"25,100","9,700",D:B
+515,Viet Nam,Da Nang,"Da Nang, Viet Nam","980,000",25,65,"39,200","15,100",D:B
+517,China,Bengbu,"Bengbu, China","975,000",65,168,"15,000","5,800",C:B
+517,China,Yancheng,"Yancheng, China","975,000",80,207,"12,200","4,700",C:B
+515,Japan,Hamamatsu,"Hamamatsu, Japan","975,000",100,259,"9,800","3,800",C:B
+505,France,Nice,"Nice, France","970,000",287,744,"3,400","1,300",C:B
+520,India,Jalandhar,"Jalandhar, India","970,000",22,57,"44,100","17,000",A:B
+520,Russia,Perm,"Perm, Russia","970,000",130,337,"7,500","2,900",D:B
+523,China,Guilin,"Guilin, China","965,000",41,106,"23,500","9,100",C:B
+523,China,Rizhao,"Rizhao, China","965,000",57,148,"16,900","6,500",C:B
+523,Morocco,Tanger,"Tanger, Morocco","965,000",37,96,"26,100","10,100",D:B
+523,United States,Hartford,"Hartford, United States","965,000",516,"1,336","1,800",700,A:A
+527,Brazil,Teresina,"Teresina, Brazil","960,000",85,220,"11,300","4,400",D:B
+528,China,Fuxin,"Fuxin, China","955,000",48,124,"19,900","7,700",C:B
+528,France,Toulouse,"Toulouse, France","955,000",313,811,"3,100","1,200",C:B
+530,France,Bordeaux,"Bordeaux, France","950,000",314,812,"3,000","1,200",C:B
+530,Mexico,Mexicali,"Mexicali, Mexico","950,000",78,202,"12,200","4,700",C:B
+530,Pakistan,Bahawalpur,"Bahawalpur, Pakistan","950,000",23,60,"41,300","15,900",D:B
+533,China,Kashi,"Kashi, China","945,000",50,130,"18,900","7,300",C:B
+534,Brazil,Florianopolis,"Florianopolis, Brazil","940,000",70,181,"13,400","5,200",C:B
+534,China,Jinzhou,"Jinzhou, China","940,000",30,78,"31,300","12,100",C:B
+534,Malawi,Lilongwe,"Lilongwe, Malawi","940,000",27,70,"34,800","13,400",D:B
+534,Ukraine,Dnipropetrovsk,"Dnipropetrovsk, Ukraine","940,000",125,324,"7,500","2,900",C:B
+538,China,Mudanjiang,"Mudanjiang, China","935,000",42,109,"22,300","8,600",C:B
+538,Turkey,Diyarbakir,"Diyarbakir, Turkey","935,000",24,62,"39,000","15,000",D:B
+540,United States,Oklahoma City,"Oklahoma City, United States","930,000",411,"1,064","2,100",800,A:A
+540,Venezuela,Barquisimeto,"Barquisimeto, Venezuela","930,000",75,194,"12,400","4,800",C:B
+542,Indonesia,Bandar Lampung,"Bandar Lampung, Indonesia","925,000",41,106,"22,600","8,700",C:B
+542,Ukraine,Donetsk,"Donetsk, Ukraine","925,000",174,451,"5,300","2,100",D:B
+542,United States,New Orleans,"New Orleans, United States","925,000",251,650,"3,600","1,400",A:A
+545,Argentina,Tucuman,"Tucuman, Argentina","920,000",44,114,"20,900","8,100",D:B
+545,China,Weihai,"Weihai, China","920,000",65,168,"14,200","5,500",C:B
+545,United States,Buffalo,"Buffalo, United States","920,000",380,984,"2,500","1,000",A:A
+548,Turkey,Kayseri,"Kayseri, Turkey","915,000",39,101,"23,500","9,100",D:B
+548,United States,Tucson,"Tucson, United States","915,000",353,914,"2,400",900,A:A
+550,Iraq,Najaf,"Najaf, Iraq","910,000",34,88,"26,800","10,300",D:B
+550,Yemen,Aden,"Aden, Yemen","910,000",19,49,"47,900","18,500",D:B
+552,China,Fuqing (Fuzhou),"Fuqing (Fuzhou), China","905,000",85,220,"10,600","4,100",C:B
+552,China,Kaifeng,"Kaifeng, China","905,000",90,233,"10,100","3,900",C:B
+552,Iran,Kermanshah,"Kermanshah, Iran","905,000",40,104,"22,600","8,700",C:B
+552,South Korea,Ulsan,"Ulsan, South Korea","905,000",40,104,"22,600","8,700",D:B
+556,China,Benxi,"Benxi, China","900,000",45,117,"20,000","7,700",C:B
+556,Philippines,Angeles City,"Angeles City, Philippines","900,000",72,186,"12,500","4,800",C:B
+556,Russia,Voronezh,"Voronezh, Russia","900,000",61,158,"14,800","5,700",C:B
+559,China,Tongliao,"Tongliao, China","895,000",65,168,"13,800","5,300",C:B
+550,France,Nantes,"Nantes, France","890,000",453,"1,173","1,900",700,A:A
+560,Indonesia,Padang,"Padang, Indonesia","890,000",39,101,"22,800","8,800",C:B
+560,Mauritania,Nouakchott,"Nouakchott, Mauritania","890,000",33,85,"27,000","10,400",W:B
+560,Nigeria,Ilorin,"Ilorin, Nigeria","890,000",32,83,"27,800","10,700",W:B
+560,United Kingdom,Southampton,"Southampton, United Kingdom","890,000",74,192,"11,500","4,500",A:A
+565,Chile,Valparaiso,"Valparaiso, Chile","880,000",62,161,"14,200","5,500",C:B
+565,China,Baoji,"Baoji, China","880,000",64,166,"13,800","5,300",D:B
+565,China,Jiaozuo,"Jiaozuo, China","880,000",95,246,"9,300","3,600",C:B
+565,China,Linfen,"Linfen, China","880,000",48,124,"18,300","7,100",C:B
+565,Congo (Dem. Rep.),Bukavu,"Bukavu, Congo (Dem. Rep.)","880,000",17,44,"51,800","20,000",D:B
+565,Tanzania,Mwanza,"Mwanza, Tanzania","880,000",44,114,"20,000","7,700",D:B
+565,United Kingdom,Liverpool,"Liverpool, United Kingdom","880,000",77,200,"11,200","4,300",A:A
+565,United States,El Paso,"El Paso, United States","880,000",251,650,"3,200","1,200",A:A
+573,Turkey,Mersin,"Mersin, Turkey","875,000",29,75,"30,200","11,600",D:B
+574,Congo (Dem. Rep.),Goma,"Goma, Congo (Dem. Rep.)","870,000",21,54,"41,400","16,000",F:B
+575,China,Chifeng,"Chifeng, China","865,000",65,168,"13,300","5,100",C:B
+575,India,Warangal,"Warangal, India","865,000",34,88,"25,400","9,800",A:B
+575,Senegal,Touba,"Touba, Senegal","865,000",55,142,"15,700","6,100",W:B
+578,Kyrgyzstan,Bishkek,"Bishkek, Kyrgyzstan","860,000",70,181,"12,300","4,700",D:B
+578,Peru,Arequipa,"Arequipa, Peru","860,000",75,194,"11,500","4,400",D:B
+578,United States,McAllen,"McAllen, United States","860,000",358,927,"2,000",800,A:A
+581,China,Jiaxing,"Jiaxing, China","855,000",70,181,"12,200","4,700",C:B
+581,Poland,Gdansk,"Gdansk, Poland","855,000",125,324,"6,800","2,600",C:B
+583,China,Cangnan (Wenzhou),"Cangnan (Wenzhou), China","850,000",25,65,"34,000","13,100",C:B
+583,China,Maanshan,"Maanshan, China","850,000",75,194,"11,300","4,400",C:B
+583,Israel,Jerusalem,"Jerusalem, Israel","850,000",90,233,"9,400","3,600",D:B
+583,Italy,Bergamo,"Bergamo, Italy","850,000",100,259,"8,500","3,300",D:B
+581,Japan,Niigata,"Niigata, Japan","850,000",99,256,"8,600","3,300",C:B
+583,Oman,Muscat,"Muscat, Oman","850,000",80,207,"10,600","4,100",D:B
+583,Turkey,Antalya,"Antalya, Turkey","850,000",70,181,"12,100","4,700",C:B
+583,United States,Honolulu,"Honolulu, United States","850,000",170,440,"4,700","1,800",A:A
+591,Brazil,Campo Grande,"Campo Grande, Brazil","845,000",81,210,"10,400","4,000",C:B
+591,Mexico,Chihuahua,"Chihuahua, Mexico","845,000",100,259,"8,500","3,300",C:B
+591,Tajikistan,Dushanbe,"Dushanbe, Tajikistan","845,000",97,251,"8,700","3,400",D:B
+594,China,Jieyang,"Jieyang, China","840,000",75,194,"11,200","4,300",C:B
+594,India,Siliguri,"Siliguri, India","840,000",17,44,"49,400","19,100",A:B
+596,Mexico,Cuernavaca,"Cuernavaca, Mexico","835,000",80,207,"10,400","4,000",C:B
+597,China,Danyang (Zhenjiang),"Danyang (Zhenjiang), China","830,000",28,73,"29,600","11,400",C:B
+597,China,Taian,"Taian, China","830,000",45,117,"18,400","7,100",C:B
+597,China,Yichun,"Yichun, China","830,000",29,75,"28,600","11,100",C:B
+597,Indonesia,Tasikmalaya,"Tasikmalaya, Indonesia","830,000",15,39,"55,300","21,400",C:B
+597,Italy,Florence,"Florence, Italy","830,000",85,220,"9,800","3,800",C:B
+602,China,Panzhihua,"Panzhihua, China","825,000",20,52,"41,300","15,900",C:B
+602,Greece,Thessaloniki,"Thessaloniki, Greece","825,000",75,194,"11,000","4,200",C:B
+602,Malawi,Blantyre,"Blantyre, Malawi","825,000",39,101,"21,200","8,200",D:B
+602,United States,Albuquerque,"Albuquerque, United States","825,000",251,650,"3,000","1,100",A:A
+606,China,Changzhi,"Changzhi, China","820,000",40,104,"20,500","7,900",C:B
+606,China,Ganzhou,"Ganzhou, China","820,000",47,122,"17,400","6,700",C:B
+606,India,Dehradun,"Dehradun, India","820,000",44,114,"18,600","7,200",A:B
+606,Philippines,Zamboanga,"Zamboanga, Philippines","820,000",21,54,"39,000","15,100",C:B
+610,Argentina,La Plata,"La Plata, Argentina","815,000",88,228,"9,300","3,600",C:B
+610,Chile,Concepcion,"Concepcion, Chile","815,000",41,106,"19,900","7,700",C:B
+610,Mexico,Aguascalientes,"Aguascalientes, Mexico","815,000",77,199,"10,600","4,100",C:B
+610,Mexico,Hermosillo,"Hermosillo, Mexico","815,000",80,207,"10,200","3,900",C:B
+610,Viet Nam,Can Tho,"Can Tho, Viet Nam","815,000",17,44,"47,900","18,500",C:B
+615,China,Dandong,"Dandong, China","810,000",45,117,"18,000","6,900",C:B
+616,Central African Rep.,Bangui,"Bangui, Central African Rep.","805,000",43,111,"18,700","7,200",D:B
+616,Peru,Trujillo,"Trujillo, Peru","805,000",33,85,"24,400","9,400",D:B
+616,Russia,Krasnodar,"Krasnodar, Russia","805,000",70,181,"11,500","4,400",C:B
+619,United States,Birmingham,"Birmingham, United States","800,000",530,"1,373","1,400",500,A:A
+620,Burundi,Bujumbura,"Bujumbura, Burundi","795,000",30,78,"26,500","10,200",C:B
+620,Switzerland,Zurich,"Zurich, Switzerland","795,000",95,246,"8,400","3,200",C:B
+620,Syria,Lattakia,"Lattakia, Syria","795,000",16,41,"49,700","19,200",D:B
+620,United Kingdom,Newcastle upon Tyne,"Newcastle upon Tyne, United Kingdom","795,000",70,181,"11,100","4,300",A:A
+624,Brazil,Aracaju,"Aracaju, Brazil","790,000",45,117,"17,600","6,800",C:B
+624,Colombia,Cucuta,"Cucuta, Colombia","790,000",39,101,"20,300","7,800",C:B
+624,India,Saharanpur,"Saharanpur, India","790,000",15,39,"52,700","20,300",A:B
+624,Indonesia,Samarinda,"Samarinda, Indonesia","790,000",20,52,"39,500","15,300",C:B
+624,Nigeria,Jos,"Jos, Nigeria","790,000",27,70,"29,300","11,300",W:B
+629,Mexico,Veracruz,"Veracruz, Mexico","785,000",63,163,"12,500","4,800",C:B
+630,Brazil,Cuiaba,"Cuiaba, Brazil","780,000",125,324,"6,200","2,400",C:B
+630,Somalia,Hargeysa,"Hargeysa, Somalia","780,000",25,65,"31,200","12,000",D:B
+630,United States,Omaha,"Omaha, United States","780,000",271,702,"2,700","1,000",A:A
+633,Brazil,Jundiai,"Jundiai, Brazil","775,000",120,311,"6,500","2,500",C:B
+633,Saudi Arabia,Taif,"Taif, Saudi Arabia","775,000",55,142,"14,100","5,400",C:B
+635,China,Liaoyang,"Liaoyang, China","765,000",50,130,"15,300","5,900",C:B
+635,China,Xingtai,"Xingtai, China","765,000",45,117,"17,000","6,600",C:B
+635,India,Guntur,"Guntur, India","765,000",14,36,"54,600","21,100",A:B
+635,Mexico,Saltillo,"Saltillo, Mexico","765,000",105,272,"7,300","2,800",C:B
+635,Nigeria,Maiduguri,"Maiduguri, Nigeria","765,000",60,155,"12,800","4,900",W:B
+635,Russia,Saratov,"Saratov, Russia","765,000",87,225,"8,800","3,400",C:B
+635,Spain,Las Palmas,"Las Palmas, Spain","765,000",40,104,"19,100","7,400",C:B
+642,China,Jingzhou,"Jingzhou, China","760,000",60,155,"12,700","4,900",C:B
+642,India,Agartala,"Agartala, India","760,000",30,78,"25,300","9,800",A:B
+642,Poland,Krakow,"Krakow, Poland","760,000",85,220,"8,900","3,500",D:B
+642,United Kingdom,Nottingham,"Nottingham, United Kingdom","760,000",68,176,"10,700","4,100",A:A
+646,China,Quzhou,"Quzhou, China","755,000",68,176,"11,100","4,300",C:B
+646,China,Shiyan,"Shiyan, China","755,000",47,122,"16,100","6,200",C:B
+646,Mexico,Acapulco,"Acapulco, Mexico","755,000",46,119,"16,400","6,300",C:B
+646,Saudi Arabia,Hufuf,"Hufuf, Saudi Arabia","755,000",105,272,"7,200","2,800",D:B
+646,Spain,Bilbao,"Bilbao, Spain","755,000",50,130,"15,100","5,800",C:B
+646,Turkmenistan,Ashgabat,"Ashgabat, Turkmenistan","755,000",47,122,"16,100","6,200",D:B
+652,China,Yuyao (Ningbo),"Yuyao (Ningbo), China","750,000",47,122,"16,000","6,200",C:B
+652,Iran,Urmia,"Urmia, Iran","750,000",34,88,"22,100","8,500",D:B
+650,Japan,Fuji,"Fuji, Japan","750,000",130,337,"5,800","2,200",C:B
+652,Nigeria,Owerri,"Owerri, Nigeria","750,000",50,130,"15,000","5,800",W:B
+656,Kazakhstan,Shimkent,"Shimkent, Kazakhstan","745,000",52,135,"14,300","5,500",D:B
+656,Malaysia,Ipoh,"Ipoh, Malaysia","745,000",100,259,"7,500","2,900",D:B
+656,Syria,Al-Raqqa,"Al-Raqqa, Syria","745,000",12,31,"62,100","24,000",D:B
+656,Ukraine,Zaporizhzhya,"Zaporizhzhya, Ukraine","745,000",100,259,"7,500","2,900",D:B
+660,Canada,Quebec,"Quebec, Canada","740,000",258,668,"2,700","1,000",A:A
+660,India,Puducherry,"Puducherry, India","740,000",32,83,"23,100","8,900",A:B
+660,Libya,Banghazi,"Banghazi, Libya","740,000",90,233,"8,200","3,200",D:B
+660,Nigeria,Ikorodu,"Ikorodu, Nigeria","740,000",50,130,"14,800","5,700",W:B
+660,Venezuela,Barcelona,"Barcelona, Venezuela","740,000",49,127,"15,100","5,800",C:B
+665,Burkina Faso,Bobo,"Bobo, Burkina Faso","735,000",39,101,"18,800","7,300",W:B
+665,China,Chenzhou,"Chenzhou, China","735,000",42,109,"17,500","6,800",C:B
+665,China,Jinhua,"Jinhua, China","735,000",72,186,"10,200","3,900",C:B
+665,China,Panjin,"Panjin, China","735,000",115,298,"6,400","2,500",C:B
+665,China,Puyang,"Puyang, China","735,000",46,119,"16,000","6,200",C:B
+665,Germany,Dresden,"Dresden, Germany","735,000",105,272,"7,000","2,700",C:B
+665,India,Gorakhpur,"Gorakhpur, India","735,000",21,54,"35,000","13,500",A:B
+665,Kazakhstan,Astana,"Astana, Kazakhstan","735,000",70,181,"10,500","4,100",C:B
+665,Nigeria,Zaria,"Zaria, Nigeria","735,000",34,88,"21,600","8,300",W:B
+665,Sudan,Nyala,"Nyala, Sudan","735,000",41,106,"17,900","6,900",C:B
+665,United States,Dayton,"Dayton, United States","735,000",351,909,"2,100",800,A:A
+665,United States,Rochester,"Rochester, United States","735,000",324,839,"2,200",900,A:A
+677,Brazil,Sorocaba,"Sorocaba, Brazil","730,000",110,285,"6,600","2,600",D:B
+677,China,Yingkou,"Yingkou, China","730,000",24,62,"30,400","11,700",C:B
+677,Congo (Dem. Rep.),Tshikapa,"Tshikapa, Congo (Dem. Rep.)","730,000",13,34,"56,200","21,700",D:B
+677,Italy,Palermo,"Palermo, Italy","730,000",68,176,"10,700","4,100",C:B
+675,Japan,Otsu,"Otsu, Japan","730,000",90,233,"8,100","3,100",C:B
+677,Malaysia,Kuching,"Kuching, Malaysia","730,000",70,181,"10,400","4,000",C:B
+677,Moldova,Chisinau,"Chisinau, Moldova","730,000",40,104,"18,300","7,000",D:B
+677,Pakistan,Sargodha,"Sargodha, Pakistan","730,000",20,52,"36,500","14,100",D:B
+677,Spain,Zaragoza,"Zaragoza, Spain","730,000",57,148,"12,800","4,900",C:B
+677,Ukraine,Lviv,"Lviv, Ukraine","730,000",75,194,"9,700","3,800",D:B
+687,China,Shenzezhen,"Shenzezhen, China","725,000",56,145,"12,900","5,000",C:B
+687,China,Xintai,"Xintai, China","725,000",67,174,"10,800","4,200",C:B
+687,Italy,Catania,"Catania, Italy","725,000",95,246,"7,600","2,900",C:B
+687,Mexico,Cancun,"Cancun, Mexico","725,000",77,199,"9,400","3,600",C:B
+687,Saudi Arabia,Khamis Mushayt,"Khamis Mushayt, Saudi Arabia","725,000",155,401,"4,700","1,800",C:B
+687,Tunisia,Sfax,"Sfax, Tunisia","725,000",77,199,"9,400","3,600",D:B
+693,China,Ezhou,"Ezhou, China","720,000",40,104,"18,000","6,900",C:B
+693,China,Shangqiu,"Shangqiu, China","720,000",70,181,"10,300","4,000",C:B
+693,China,Yangquan,"Yangquan, China","720,000",48,124,"15,000","5,800",C:B
+693,Spain,Malaga,"Malaga, Spain","720,000",52,135,"13,800","5,300",C:B
+697,China,Nanchong,"Nanchong, China","715,000",27,70,"26,500","10,200",C:B
+697,Gabon,Libreville,"Libreville, Gabon","715,000",70,181,"10,200","3,900",D:B
+697,Germany,Hannover,"Hannover, Germany","715,000",110,285,"6,500","2,500",C:B
+697,India,Bikaner,"Bikaner, India","715,000",25,65,"28,600","11,000",A:B
+697,Nigeria,Enugu,"Enugu, Nigeria","715,000",30,78,"23,800","9,200",W:B
+697,Russia,Tolyatti,"Tolyatti, Russia","715,000",56,145,"12,800","4,900",C:B
+697,South Africa,Vereeniging,"Vereeniging, South Africa","715,000",130,337,"5,500","2,100",C:B
+697,Turkey,Eskisehir,"Eskisehir, Turkey","715,000",43,111,"16,600","6,400",D:B
+697,United States,Allentown,"Allentown, United States","715,000",346,896,"1,900",700,A:A
+697,United States,Fresno,"Fresno, United States","715,000",171,443,"3,800","1,500",A:A
+707,Brazil,Blumenau,"Blumenau, Brazil","710,000",40,104,"17,800","6,900",C:B
+707,Eritrea,Asmara,"Asmara, Eritrea","710,000",41,106,"17,300","6,700",C:B
+707,United Kingdom,Sheffield,"Sheffield, United Kingdom","710,000",65,167,"10,600","4,100",A:A
+707,United States,Tulsa,"Tulsa, United States","710,000",336,870,"1,900",800,A:A
+711,Canada,Winnipeg,"Winnipeg, Canada","705,000",174,451,"3,900","1,500",A:A
+711,China,Liupanshui,"Liupanshui, China","705,000",35,91,"20,100","7,800",C:B
+711,China,Yizing (Wuxi),"Yizing (Wuxi), China","705,000",27,70,"26,100","10,100",C:B
+711,Croatia,Zagreb,"Zagreb, Croatia","705,000",72,186,"9,800","3,800",C:B
+711,India,Amravati,"Amravati, India","705,000",17,44,"41,500","16,000",A:B
+711,Iraq,Karbala,"Karbala, Iraq","705,000",23,60,"30,700","11,800",D:B
+711,Thailand,Chon Buri,"Chon Buri, Thailand","705,000",64,166,"11,000","4,300",C:B
+718,China,Anqiu (Weifang),"Anqiu (Weifang), China","700,000",36,93,"19,400","7,500",C:B
+718,China,Dongsheng (Ordos),"Dongsheng (Ordos), China","700,000",50,130,"14,000","5,400",C:B
+718,Cote d'Ivoire,Bouake,"Bouake, Cote d'Ivoire","700,000",38,98,"18,400","7,100",W:B
+718,India,Cuttack,"Cuttack, India","700,000",20,52,"35,000","13,500",A:B
+716,Japan,Kumamoto,"Kumamoto, Japan","700,000",50,130,"14,000","5,400",C:B
+716,Japan,Nagano,"Nagano, Japan","700,000",110,285,"6,400","2,500",C:B
+718,Thailand,Phuket,"Phuket, Thailand","700,000",47,122,"14,900","5,800",C:B
+718,Yemen,Ta'izz,"Ta'izz, Yemen","700,000",17,44,"41,200","15,900",D:B
+726,China,Loudi,"Loudi, China","695,000",22,57,"31,600","12,200",C:B
+726,China,Luohe,"Luohe, China","695,000",17,44,"40,900","15,800",C:B
+726,China,Shaoguan,"Shaoguan, China","695,000",50,130,"13,900","5,400",C:B
+726,China,Shuozhou,"Shuozhou, China","695,000",37,96,"18,800","7,300",C:B
+726,Nigeria,Warri,"Warri, Nigeria","695,000",55,142,"12,600","4,900",W:B
+726,Poland,Lodz,"Lodz, Poland","695,000",70,181,"9,900","3,800",D:B
+726,Venezuela,Ciudad Guayana,"Ciudad Guayana, Venezuela","695,000",61,158,"11,400","4,400",D:B
+733,China,Kuerle,"Kuerle, China","690,000",50,130,"13,800","5,300",C:B
+733,China,Langfang,"Langfang, China","690,000",77,199,"9,000","3,500",C:B
+733,China,Nanyang,"Nanyang, China","690,000",70,181,"9,900","3,800",C:B
+733,China,Shizuishan,"Shizuishan, China","690,000",90,233,"7,700","3,000",C:B
+733,China,Xinyu,"Xinyu, China","690,000",51,132,"13,500","5,200",C:B
+733,China,Yueyang,"Yueyang, China","690,000",24,62,"28,800","11,100",C:B
+733,Philippines,Cagayan de Oro,"Cagayan de Oro, Philippines","690,000",27,70,"25,600","9,900",C:B
+733,United States,Sarasota,"Sarasota, United States","690,000",327,847,"2,000",800,A:A
+741,Brazil,Londrina,"Londrina, Brazil","685,000",70,181,"9,800","3,800",C:B
+741,Morocco,Meknes,"Meknes, Morocco","685,000",20,52,"34,300","13,200",C:B
+741,United Arab Emirates,Al Ain,"Al Ain, United Arab Emirates","685,000",180,466,"3,800","1,500",L:B
+744,Brazil,Sao Jose dos Campos,"Sao Jose dos Campos, Brazil","680,000",65,168,"10,500","4,000",C:B
+744,China,Hegang,"Hegang, China","680,000",45,117,"15,100","5,800",C:B
+744,China,Shaoyang,"Shaoyang, China","680,000",41,106,"16,600","6,400",C:B
+744,India,Jammu,"Jammu, India","680,000",27,70,"25,200","9,700",A:B
+742,Japan,Okayama,"Okayama, Japan","680,000",75,194,"9,100","3,500",C:B
+742,Japan,Shizuoka,"Shizuoka, Japan","680,000",50,130,"13,600","5,300",C:B
+744,Libya,Misratah,"Misratah, Libya","680,000",85,220,"8,000","3,100",D:B
+744,Netherlands,Utrecht,"Utrecht, Netherlands","680,000",110,285,"6,200","2,400",C:B
+744,Nigeria,Osogbo,"Osogbo, Nigeria","680,000",40,104,"17,000","6,600",W:B
+744,Ukraine,Krivoi Rog,"Krivoi Rog, Ukraine","680,000",64,166,"10,600","4,100",D:B
+754,China,Binzhou,"Binzhou, China","675,000",80,207,"8,400","3,300",C:B
+754,China,Haicheng (Anshan),"Haicheng (Anshan), China","675,000",21,54,"32,100","12,400",C:B
+754,Germany,Nuremberg,"Nuremberg, Germany","675,000",90,233,"7,500","2,900",C:B
+754,India,Malegaon,"Malegaon, India","675,000",12,31,"56,300","21,700",A:B
+752,Japan,Utsunomiya,"Utsunomiya, Japan","675,000",85,220,"7,900","3,100",C:B
+754,South Korea,Jeonju,"Jeonju, South Korea","675,000",33,85,"20,500","7,900",D:B
+760,China,Tongxiang (Jiaxing),"Tongxiang (Jiaxing), China","670,000",37,96,"18,100","7,000",C:B
+760,India,Belgaum,"Belgaum, India","670,000",18,47,"37,200","14,400",A:B
+760,India,Mangalore,"Mangalore, India","670,000",25,65,"26,800","10,300",A:B
+760,Indonesia,Banjarmasin,"Banjarmasin, Indonesia","670,000",20,52,"33,500","12,900",C:B
+760,United States,Cape Coral,"Cape Coral, United States","670,000",330,855,"1,600",600,A:A
+765,Iraq,Kirkuk,"Kirkuk, Iraq","665,000",32,83,"20,800","8,000",D:B
+765,United States,Baton Rouge,"Baton Rouge, United States","665,000",367,951,"1,600",600,A:A
+767,Brazil,Ribeirao Preto,"Ribeirao Preto, Brazil","660,000",43,111,"15,300","5,900",C:B
+767,Egypt,Port Said,"Port Said, Egypt","660,000",14,36,"47,100","18,200",D:B
+767,Germany,Bremen,"Bremen, Germany","660,000",105,272,"6,300","2,400",C:B
+767,India,Bhavnagar,"Bhavnagar, India","660,000",13,34,"50,800","19,600",A:B
+767,Tanzania,Zanzibar,"Zanzibar, Tanzania","660,000",25,65,"26,400","10,200",C:B
+772,China: Macau SAR,Macau,"Macau, China: Macau SAR","655,000",10,26,"65,500","25,300",A:B
+772,India,Nellore,"Nellore, India","655,000",16,41,"40,900","15,800",A:B
+772,South Korea,Cheongju,"Cheongju, South Korea","655,000",22,57,"29,800","11,500",C:B
+772,South Sudan,Juba,"Juba, South Sudan","655,000",56,145,"11,700","4,500",F:B
+772,United Kingdom,Bristol,"Bristol, United Kingdom","655,000",56,144,"11,100","4,300",A:A
+777,China,Guigang,"Guigang, China","650,000",36,93,"18,100","7,000",C:B
+775,Japan,Mito,"Mito, Japan","650,000",125,324,"5,200","2,000",C:B
+777,United States,Springfield,"Springfield, United States","650,000",349,904,"1,800",700,A:A
+780,China,Changde,"Changde, China","645,000",50,130,"12,900","5,000",C:B
+780,China,Chuzhou,"Chuzhou, China","645,000",64,166,"10,100","3,900",L:B
+780,China,Lufeng (Shanwei),"Lufeng (Shanwei), China","645,000",18,47,"35,800","13,800",C:B
+780,Dominican Republic,Santiago,"Santiago, Dominican Republic","645,000",40,104,"16,100","6,200",C:B
+780,United States,Knoxville,"Knoxville, United States","645,000",438,"1,134","1,300",500,A:A
+785,China,Bozhou,"Bozhou, China","640,000",32,83,"20,000","7,700",C:B
+785,China,Maoming,"Maoming, China","640,000",23,60,"27,800","10,700",C:B
+785,Iran,Yazd,"Yazd, Iran","640,000",80,207,"8,000","3,100",C:B
+785,Palestine,Gaza,"Gaza, Palestine","640,000",17,44,"37,600","14,500",D:B
+785,Russia,Makhachkala,"Makhachkala, Russia","640,000",53,137,"12,100","4,700",C:B
+790,Albania,Tirana,"Tirana, Albania","635,000",33,85,"19,200","7,400",C:B
+790,Brazil,Uberlandia,"Uberlandia, Brazil","635,000",51,132,"12,500","4,800",C:B
+790,China,Qingyuan,"Qingyuan, China","635,000",65,168,"9,800","3,800",C:B
+790,China,Suizhou,"Suizhou, China","635,000",39,101,"16,300","6,300",C:B
+794,Bangladesh,Sylhet,"Sylhet, Bangladesh","630,000",19,49,"33,200","12,800",C:B
+794,China,Fuyang (Hangzhou),"Fuyang (Hangzhou), China","630,000",44,114,"14,300","5,500",C:B
+794,China,Jining,"Jining, China","630,000",29,75,"21,700","8,400",C:B
+794,China,Liaocheng,"Liaocheng, China","630,000",50,130,"12,600","4,900",C:B
+794,India,Durgapur,"Durgapur, India","630,000",19,49,"33,200","12,800",A:B
+794,India,Jamnagar,"Jamnagar, India","630,000",18,47,"35,000","13,500",A:B
+794,North Korea,Chongjin,"Chongjin, North Korea","630,000",30,78,"21,000","8,100",D:B
+794,Russia,Tyumen,"Tyumen, Russia","630,000",47,122,"13,400","5,200",D:B
+794,Spain,Palma,"Palma, Spain","630,000",65,168,"9,700","3,700",C:B
+794,United States,Columbia,"Columbia, United States","630,000",380,984,"1,400",600,A:A
+794,Zambia,Kitwe,"Kitwe, Zambia","630,000",46,119,"13,700","5,300",C:B
+805,China,Leshan,"Leshan, China","625,000",30,78,"20,800","8,000",C:B
+805,India,Hubli,"Hubli, India","625,000",20,52,"31,300","12,100",F:B
+805,Iran,Rasht,"Rasht, Iran","625,000",24,62,"26,000","10,100",C:B
+805,Mozambique,Nampula,"Nampula, Mozambique","625,000",25,65,"25,000","9,700",D:B
+805,United States,Charleston,"Charleston, United States","625,000",293,759,"1,900",700,A:A
+805,United States,Ogden,"Ogden, United States","625,000",218,565,"2,500","1,000",A:A
+811,Argentina,Mar del Plata,"Mar del Plata, Argentina","620,000",42,109,"14,800","5,700",C:B
+811,China,Qujing,"Qujing, China","620,000",52,135,"11,900","4,600",C:B
+811,Poland,Wroc?aw,"Wroc?aw, Poland","620,000",48,124,"12,900","5,000",C:B
+814,Angola,Lubango,"Lubango, Angola","615,000",84,218,"7,300","2,800",C:B
+814,China,Akesu,"Akesu, China","615,000",35,91,"17,600","6,800",C:B
+814,China,Fuyang,"Fuyang, China","615,000",36,93,"17,100","6,600",C:B
+814,China,Yongkang (Jinhua),"Yongkang (Jinhua), China","615,000",86,223,"7,200","2,800",C:B
+814,China,Zhoushan,"Zhoushan, China","615,000",50,130,"12,300","4,700",C:B
+814,Italy,Genoa,"Genoa, Italy","615,000",30,78,"20,500","7,900",C:B
+814,United States,Albany,"Albany, United States","615,000",296,767,"2,000",800,A:A
+814,United States,Colorado Springs,"Colorado Springs, United States","615,000",188,487,"3,000","1,100",A:A
+822,China,Huludao,"Huludao, China","610,000",49,127,"12,400","4,800",C:B
+822,China,Yangjiang,"Yangjiang, China","610,000",38,98,"16,100","6,200",C:B
+822,Indonesia,Pontianak,"Pontianak, Indonesia","610,000",24,62,"25,400","9,800",D:B
+822,Latvia,Riga,"Riga, Latvia","610,000",100,259,"6,100","2,400",D:B
+822,Russia,Barnaul,"Barnaul, Russia","610,000",43,111,"14,200","5,500",C:B
+822,Russia,Izhevsk,"Izhevsk, Russia","610,000",55,142,"11,100","4,300",C:B
+822,United States,Murrieta,"Murrieta, United States","610,000",162,420,"2,700","1,100",A:A
+822,United States,Provo,"Provo, United States","610,000",169,438,"2,900","1,100",A:A
+830,Australia,Gold Coast,"Gold Coast, Australia","605,000",235,609,"2,300",900,A:A
+830,China,Tianmen,"Tianmen, China","605,000",19,49,"31,800","12,300",C:B
+830,Italy,Padova,"Padova, Italy","605,000",72,186,"8,400","3,200",D:B
+830,Mexico,Reynosa,"Reynosa, Mexico","605,000",70,181,"8,600","3,300",C:B
+830,Morocco,Agadir,"Agadir, Morocco","605,000",35,91,"17,300","6,700",C:B
+830,Saudi Arabia,Taif,"Taif, Saudi Arabia","605,000",70,181,"8,600","3,300",D:B
+830,Switzerland,Geneva,"Geneva, Switzerland","605,000",70,181,"8,600","3,300",C:B
+830,United Kingdom,Belfast,"Belfast, United Kingdom","605,000",62,161,"9,700","3,700",D:A
+830,United States,Bakersfield,"Bakersfield, United States","605,000",138,357,"3,800","1,500",A:A
+839,China,Heze,"Heze, China","600,000",48,124,"12,500","4,800",C:B
+839,China,Wanzhou,"Wanzhou, China","600,000",16,41,"37,500","14,500",C:B
+839,Germany,Leipzig,"Leipzig, Germany","600,000",95,246,"6,300","2,400",C:B
+839,India,Bokaro Steel City,"Bokaro Steel City, India","600,000",19,49,"31,600","12,200",A:B
+839,India,Gulbarga,"Gulbarga, India","600,000",15,39,"40,000","15,400",A:B
+839,India,Jhansi,"Jhansi, India","600,000",16,41,"37,500","14,500",A:B
+839,India,Kolhapur,"Kolhapur, India","600,000",16,41,"37,500","14,500",A:B
+839,Indonesia,Balikpapan,"Balikpapan, Indonesia","600,000",22,57,"27,300","10,500",A:B
+847,China,Laiwu,"Laiwu, China","595,000",58,150,"10,300","4,000",C:B
+847,China,Mianyang,"Mianyang, China","595,000",25,65,"23,800","9,200",C:B
+847,China,Pizhou (Xuxhou),"Pizhou (Xuxhou), China","595,000",31,80,"19,200","7,400",C:B
+847,China,Siping,"Siping, China","595,000",41,106,"14,500","5,600",C:B
+847,Colombia,Ibague,"Ibague, Colombia","595,000",13,34,"45,800","17,700",C:B
+847,India,Cherthala,"Cherthala, India","595,000",20,52,"29,800","11,500",A:B
+847,India,Erode,"Erode, India","595,000",20,52,"29,800","11,500",A:B
+847,India,Muzaffarnagar,"Muzaffarnagar, India","595,000",11,28,"54,100","20,900",A:B
+847,India,Raurkela,"Raurkela, India","595,000",33,85,"18,000","7,000",A:B
+847,Mexico,Tuxtla Gutierrez,"Tuxtla Gutierrez, Mexico","595,000",54,140,"11,000","4,300",C:B
+847,Sweden,Goteborg,"Goteborg, Sweden","595,000",79,205,"6,900","2,700",A:A
+858,Algeria,Constantine,"Constantine, Algeria","590,000",46,119,"12,800","5,000",C:B
+858,Angola,Huambo,"Huambo, Angola","590,000",50,130,"11,800","4,600",C:B
+858,Brazil,Luziana,"Luziana, Brazil","590,000",100,259,"5,900","2,300",C:B
+858,Egypt,Suez,"Suez, Egypt","590,000",28,73,"21,100","8,100",D:B
+858,India,Ajmer,"Ajmer, India","590,000",12,31,"49,200","19,000",A:B
+858,Russia,Ulyanovsk,"Ulyanovsk, Russia","590,000",35,91,"16,900","6,500",C:B
+858,United States,Grand Rapids,"Grand Rapids, United States","590,000",281,728,"2,000",800,A:A
+865,Bangladesh,Bogra,"Bogra, Bangladesh","585,000",15,39,"39,000","15,100",D:B
+865,China,Xiantao,"Xiantao, China","585,000",35,91,"16,700","6,500",C:B
+865,India,Firozabad,"Firozabad, India","585,000",11,28,"53,200","20,500",A:B
+865,Nigeria,Akure,"Akure, Nigeria","585,000",45,117,"13,000","5,000",W:B
+865,Pakistan,Sukkur,"Sukkur, Pakistan","585,000",17,44,"34,400","13,300",D:B
+865,Russia,Vladivostok,"Vladivostok, Russia","585,000",35,91,"16,700","6,500",C:B
+865,Syria,Al-Hasakah,"Al-Hasakah, Syria","585,000",15,39,"39,000","15,100",D:B
+872,Argentina,Santa Fe,"Santa Fe, Argentina","580,000",45,117,"12,900","5,000",C:B
+872,China,Deyang,"Deyang, China","580,000",48,124,"12,100","4,700",C:B
+872,China,Dezhou,"Dezhou, China","580,000",68,176,"8,500","3,300",C:B
+872,China,Huaihua,"Huaihua, China","580,000",25,65,"23,200","9,000",C:B
+872,China,Pingxiang,"Pingxiang, China","580,000",25,65,"23,200","9,000",C:B
+872,China,Taixing (Taizhou),"Taixing (Taizhou), China","580,000",34,88,"17,100","6,600",C:B
+872,China,Wuhai,"Wuhai, China","580,000",80,207,"7,300","2,800",C:B
+872,China,Zhoukou,"Zhoukou, China","580,000",39,101,"14,900","5,700",C:B
+872,Colombia,Pereira,"Pereira, Colombia","580,000",17,44,"34,100","13,200",C:B
+859,France,Toulon,"Toulon, France","580,000",295,764,"1,900",700,A:A
+872,Guinea-Bissau,Bissau,"Bissau, Guinea-Bissau","580,000",27,70,"21,500","8,300",W:B
+872,Indonesia,Jambi,"Jambi, Indonesia","580,000",30,78,"19,300","7,500",C:B
+872,Israel,Beer Sheba,"Beer Sheba, Israel","580,000",21,54,"27,600","10,700",D:B
+872,Jamaica,Kingston,"Kingston, Jamaica","580,000",40,104,"14,500","5,600",D:B
+870,Japan,Kagoshima,"Kagoshima, Japan","580,000",46,119,"12,600","4,900",C:B
+872,Nigeria,Sokoto,"Sokoto, Nigeria","580,000",34,88,"17,100","6,600",W:B
+872,Pakistan,Sialkot,"Sialkot, Pakistan","580,000",20,52,"29,000","11,200",D:B
+872,Peru,Chiclayo,"Chiclayo, Peru","580,000",20,52,"29,000","11,200",C:B
+872,Philippines,Bacolod,"Bacolod, Philippines","580,000",32,83,"18,100","7,000",C:B
+872,South Korea,Cheonan,"Cheonan, South Korea","580,000",22,57,"26,400","10,200",C:B
+892,Brazil,Feira de Santana,"Feira de Santana, Brazil","575,000",30,78,"19,200","7,400",C:B
+892,China,Anqing,"Anqing, China","575,000",40,104,"14,400","5,600",C:B
+892,China,Taizhou,"Taizhou, China","575,000",45,117,"12,800","4,900",C:B
+892,China,Xinyang,"Xinyang, China","575,000",29,75,"19,800","7,700",C:B
+892,China,Zhaoqing,"Zhaoqing, China","575,000",25,65,"23,000","8,900",C:B
+892,China,Zhuji (Shaoxing),"Zhuji (Shaoxing), China","575,000",45,117,"12,800","4,900",C:B
+892,India,Kurnool,"Kurnool, India","575,000",12,31,"47,900","18,500",A:B
+892,Iran,Kerman,"Kerman, Iran","575,000",45,117,"12,800","4,900",C:B
+892,Malaysia,Seremban,"Seremban, Malaysia","575,000",60,155,"9,600","3,700",C:B
+892,Saudi Arabia,Buraydah,"Buraydah, Saudi Arabia","575,000",80,207,"7,200","2,800",D:B
+892,Turkey,Samsun,"Samsun, Turkey","575,000",26,67,"22,100","8,500",D:B
+903,Argentina,Salta,"Salta, Argentina","570,000",42,109,"13,600","5,200",C:B
+903,China,Jiujiang,"Jiujiang, China","570,000",42,109,"13,600","5,200",C:B
+903,China,Suqian,"Suqian, China","570,000",95,246,"6,000","2,300",C:B
+903,China,Yibin,"Yibin, China","570,000",22,57,"25,900","10,000",C:B
+903,India,Tirunelveli,"Tirunelveli, India","570,000",20,52,"28,500","11,000",A:B
+903,Indonesia,Serang,"Serang, Indonesia","570,000",25,65,"22,800","8,800",C:B
+903,Iran,Hamadan,"Hamadan, Iran","570,000",22,57,"25,900","10,000",D:B
+903,Mexico,Oaxaca,"Oaxaca, Mexico","570,000",84,218,"6,800","2,600",C:B
+903,Mexico,Villahermosa,"Villahermosa, Mexico","570,000",44,114,"13,000","5,000",C:B
+903,Russia,Irkutsk,"Irkutsk, Russia","570,000",55,142,"10,400","4,000",C:B
+903,United States,Akron,"Akron, United States","570,000",325,842,"1,800",700,A:A
+914,China,Jixi,"Jixi, China","565,000",53,137,"10,700","4,100",C:B
+914,China,Jiyuan,"Jiyuan, China","565,000",100,259,"5,700","2,200",C:B
+914,China,Liyang (Changzhou),"Liyang (Changzhou), China","565,000",31,80,"18,200","7,000",C:B
+914,China,Xuchang,"Xuchang, China","565,000",26,67,"21,700","8,400",C:B
+914,China,Yiyang,"Yiyang, China","565,000",20,52,"28,300","10,900",C:B
+914,Iran,Zahedan,"Zahedan, Iran","565,000",35,91,"16,100","6,200",C:B
+914,Yemen,Al-Hudaydah,"Al-Hudaydah, Yemen","565,000",12,31,"47,100","18,200",D:B
+921,Belgium,Liege,"Liege, Belgium","560,000",110,285,"5,100","2,000",C:B
+921,China,Songyuan,"Songyuan, China","560,000",36,93,"15,600","6,000",C:B
+921,Germany,Mannheim,"Mannheim, Germany","560,000",85,220,"6,600","2,500",C:B
+921,India,Nanded Waghala,"Nanded Waghala, India","560,000",17,44,"32,900","12,700",A:B
+921,Russia,Khabarovsk,"Khabarovsk, Russia","560,000",75,194,"7,500","2,900",C:B
+921,Saudi Arabia,Tabuk,"Tabuk, Saudi Arabia","560,000",70,181,"8,000","3,100",C:B
+921,Turkey,Urfa,"Urfa, Turkey","560,000",16,41,"35,000","13,500",D:B
+928,Angola,Benguela,"Benguela, Angola","555,000",40,104,"13,900","5,400",C:B
+928,China,Anshun,"Anshun, China","555,000",16,41,"34,700","13,400",C:B
+928,India,Sangali,"Sangali, India","555,000",18,47,"30,800","11,900",A:B
+928,India,Tirupati,"Tirupati, India","555,000",23,60,"24,100","9,300",A:B
+928,Philippines,Iolio City,"Iolio City, Philippines","555,000",25,65,"22,200","8,600",C:B
+928,Russia,Yaroslavl,"Yaroslavl, Russia","555,000",90,233,"6,200","2,400",C:B
+934,Bangladesh,Rajshahi,"Rajshahi, Bangladesh","550,000",12,31,"45,800","17,700",C:B
+934,Brazil,Joinville,"Joinville, Brazil","550,000",70,181,"7,900","3,000",C:B
+934,Germany,Aachen,"Aachen, Germany","550,000",105,272,"5,200","2,000",C:B
+937,China,Qitaihe,"Qitaihe, China","545,000",46,119,"11,800","4,600",C:B
+937,China,Renqiu (Cangzhou),"Renqiu (Cangzhou), China","545,000",26,67,"21,000","8,100",C:B
+937,Gambia,Banjul,"Banjul, Gambia","545,000",115,298,"4,700","1,800",C:B
+937,Germany,Saarbrucken,"Saarbrucken, Germany","545,000",90,233,"6,100","2,300",C:B
+937,India,Ujjain,"Ujjain, India","545,000",16,41,"34,100","13,200",A:B
+937,North Korea,Hamhung,"Hamhung, North Korea","545,000",19,49,"28,700","11,100",D:B
+937,Thailand,Udon Thani,"Udon Thani, Thailand","545,000",28,73,"19,500","7,500",D:B
+944,China,Cangzhou,"Cangzhou, China","540,000",50,130,"10,800","4,200",C:B
+944,China,Chaoyang,"Chaoyang, China","540,000",49,127,"11,000","4,300",C:B
+944,Djibouti,Djibouti,"Djibouti, Djibouti","540,000",15,39,"36,000","13,900",D:B
+944,Iran,Ardabil,"Ardabil, Iran","540,000",24,62,"22,500","8,700",C:B
+942,Japan,Matsuyama,"Matsuyama, Japan","540,000",45,117,"12,000","4,600",C:B
+944,Pakistan,Sheikhupura,"Sheikhupura, Pakistan","540,000",16,41,"33,800","13,000",D:B
+944,Poland,Poznan,"Poznan, Poland","540,000",85,220,"6,400","2,500",D:B
+944,Russia,Khabarovsk,"Khabarovsk, Russia","540,000",110,285,"4,900","1,900",C:B
+944,Russia,Novokuznetsk,"Novokuznetsk, Russia","540,000",41,106,"13,200","5,100",D:B
+944,Russia,Tomsk,"Tomsk, Russia","540,000",40,104,"13,500","5,200",C:B
+944,Spain,Santa Cruz de Tenerife,"Santa Cruz de Tenerife, Spain","540,000",42,109,"12,900","5,000",C:B
+944,United Kingdom,Leicester,"Leicester, United Kingdom","540,000",42,109,"12,100","4,700",A:A
+956,India,Kayamkulam,"Kayamkulam, India","535,000",16,41,"33,400","12,900",A:B
+956,India,Mathura,"Mathura, India","535,000",18,47,"29,700","11,500",A:B
+956,Russia,Orenburg,"Orenburg, Russia","535,000",26,67,"20,600","7,900",C:B
+956,Zimbabwe,Bulawayo,"Bulawayo, Zimbabwe","535,000",90,233,"5,900","2,300",C:B
+960,Brazil,Juiz de Fora,"Juiz de Fora, Brazil","530,000",40,104,"13,300","5,100",D:B
+960,China: Taiwan,Hsinchu,"Hsinchu, China: Taiwan","530,000",45,117,"11,800","4,500",C:B
+960,Mexico,Durango,"Durango, Mexico","530,000",49,127,"10,800","4,200",D:B
+960,Morocco,Tetouan,"Tetouan, Morocco","530,000",20,52,"26,500","10,200",D:B
+960,Russia,Kemerovo,"Kemerovo, Russia","530,000",41,106,"12,900","5,000",C:B
+960,Turkey,Denizli,"Denizli, Turkey","530,000",37,96,"14,300","5,500",D:B
+960,Uzbekistan,Namangan,"Namangan, Uzbekistan","530,000",55,142,"9,600","3,700",F:B
+967,Afghanistan,Kandahar,"Kandahar, Afghanistan","525,000",25,65,"21,000","8,100",C:B
+967,India,Bilaspur,"Bilaspur, India","525,000",22,57,"23,900","9,200",A:B
+967,India,Udaipur,"Udaipur, India","525,000",28,73,"18,800","7,200",A:B
+967,India,Vellore,"Vellore, India","525,000",18,47,"29,200","11,300",A:B
+967,Iran,Arak,"Arak, Iran","525,000",23,60,"22,800","8,800",C:B
+967,Italy,Bologna,"Bologna, Italy","525,000",60,155,"8,800","3,400",C:B
+967,Mexico,Tampico,"Tampico, Mexico","525,000",85,220,"6,200","2,400",C:B
+967,Russia,Astrakhan,"Astrakhan, Russia","525,000",46,119,"11,400","4,400",C:B
+967,South Korea,Pohang,"Pohang, South Korea","525,000",35,91,"15,500","5,800",C:B
+967,Switzerland,Basel,"Basel, Switzerland","525,000",77,199,"6,800","2,600",C:B
+967,Trinidad & Tobago,Port of Spain,"Port of Spain, Trinidad & Tobago","525,000",110,285,"4,800","1,800",F:B
+978,India,Imphal,"Imphal, India","520,000",25,65,"20,800","8,000",A:B
+978,Mexico,Culiacan,"Culiacan, Mexico","520,000",68,176,"7,600","3,000",C:B
+978,Nigeria,Abeokuta,"Abeokuta, Nigeria","520,000",24,62,"21,700","8,400",W:B
+974,Nigeria,Bauchi,"Bauchi, Nigeria","520,000",34,88,"15,300","5,900",W:B
+978,Pakistan,Larkana,"Larkana, Pakistan","520,000",10,26,"52,000","20,100",D:B
+978,Russia,Ryazan,"Ryazan, Russia","520,000",50,130,"10,400","4,000",C:B
+978,United States,Worcester,"Worcester, United States","520,000",304,787,"1,600",600,A:A
+985,China,Sanya,"Sanya, China","515,000",59,153,"8,700","3,400",C:B
+985,Congo (Dem. Rep.),Likasi,"Likasi, Congo (Dem. Rep.)","515,000",25,65,"20,600","8,000",D:B
+970,France,Grenoble,"Grenoble, France","515,000",198,513,"2,600","1,000",A:A
+985,Ghana,Sekondi Takoradi,"Sekondi Takoradi, Ghana","515,000",35,91,"14,700","5,700",W:B
+985,India,Gaya,"Gaya, India","515,000",12,31,"42,900","16,600",A:B
+985,India,Jalgaon,"Jalgaon, India","515,000",15,39,"34,300","13,300",A:B
+985,India,Patiala,"Patiala, India","515,000",35,91,"14,700","5,700",A:B
+985,India,Rajahmundry,"Rajahmundry, India","515,000",21,54,"24,500","9,500",A:B
+985,India,Thoothukkudi,"Thoothukkudi, India","515,000",50,130,"10,300","4,000",A:B
+985,Iraq,Hillah,"Hillah, Iraq","515,000",19,49,"27,100","10,500",D:B
+985,Iraq,Nasiriyah,"Nasiriyah, Iraq","515,000",22,57,"23,400","9,000",D:B
+985,Macedonia,Skopje,"Skopje, Macedonia","515,000",35,91,"14,700","5,700",C:B
+985,Russia,Tula,"Tula, Russia","515,000",50,130,"10,300","4,000",C:B
+985,United States,Toledo,"Toledo, United States","515,000",240,622,"2,100",800,A:A
+999,China,Bayan Nur,"Bayan Nur, China","510,000",52,135,"9,800","3,800",C:B
+999,Egypt,Al Mahallah al Kubra,"Al Mahallah al Kubra, Egypt","510,000",10,26,"51,000","19,700",C:B
+999,Egypt,Al Mansurah,"Al Mansurah, Egypt","510,000",13,34,"39,200","15,100",D:B
+984,France,Douai,"Douai, France","510,000",187,484,"2,700","1,000",A:A
+996,Japan,Kanazawa,"Kanazawa, Japan","510,000",53,137,"9,600","3,700",C:B
+999,Lithuania,Vilnius,"Vilnius, Lithuania","510,000",85,220,"6,000","2,300",D:B
+999,Mexico,Xalapa,"Xalapa, Mexico","510,000",29,75,"17,600","6,800",C:B
+999,Russia,Naberezhnye Tchelny,"Naberezhnye Tchelny, Russia","510,000",50,130,"10,200","3,900",C:B
+999,South Africa,Bloemfontein,"Bloemfontein, South Africa","510,000",68,176,"7,500","2,900",D:B
+999,Spain,Murcia,"Murcia, Spain","510,000",38,98,"13,400","5,200",C:B
+1009,Brazil,Maringa,"Maringa, Brazil","505,000",60,155,"8,400","3,200",C:B
+1009,China,Feicheng (Taian),"Feicheng (Taian), China","505,000",26,67,"19,400","7,500",C:B
+1009,China,Qianjiang,"Qianjiang, China","505,000",24,62,"21,000","8,100",C:B
+1009,Colombia,Santa Marta,"Santa Marta, Colombia","505,000",11,28,"45,900","17,700",C:B
+1009,Congo (Dem. Rep.),Kolwezi,"Kolwezi, Congo (Dem. Rep.)","505,000",19,49,"26,600","10,300",D:B
+1009,Kazakhstan,Karagandy,"Karagandy, Kazakhstan","505,000",113,293,"4,500","1,700",D:B
+1009,Russia,Penza,"Penza, Russia","505,000",47,122,"10,700","4,100",C:B
+1009,Zambia,Ndola,"Ndola, Zambia","505,000",36,93,"14,000","5,400",C:B
+1017,Benin,Porto Novo,"Porto Novo, Benin","500,000",39,101,"12,800","5,000",W:B
+1017,China,Lhasa,"Lhasa, China","500,000",40,104,"12,500","4,800",C:B
+1017,Russia,Lipetsk,"Lipetsk, Russia","500,000",41,106,"12,200","4,700",C:B
+1017,United Kingdom,Edinburgh,"Edinburgh, United Kingdom","500,000",46,120,"9,800","3,800",A:A
+1017,United States,Des Moines,"Des Moines, United States","500,000",201,521,"2,200",900,A:A
+1017,United States,Wichita,"Wichita, United States","500,000",215,557,"2,200",800,A:A
