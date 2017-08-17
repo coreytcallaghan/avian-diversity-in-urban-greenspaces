@@ -1,4 +1,4 @@
-## setwd('H:/Dissertation/Dissertation Chapters/Data Chapters/Relationship between avian diversity and urban environments/Github work/avian diversity in greenspaces')
+## setwd('H:/Dissertation/Dissertation Chapters/Data Chapters/Relationship between avian diversity and urban environments/Analysis/avian diversity in greenspaces')
 
 
 ## Necessary packages 
@@ -21,16 +21,17 @@ ebird_db <- src_sqlite("D:/All eBird Data/ebird.sqlite", create=FALSE)
 all_ebird <- tbl(ebird_db, "ebird")
 
 
-### return the locality_ids that have greater than 1000 checklists total
+### return the locality_ids that have greater than 250 checklists total throughout the three year period
 localities <- all_ebird %>%
   select(LOCALITY_ID, OBSERVATION_DATE, LATITUDE, LONGITUDE, SAMPLING_EVENT_IDENTIFIER) %>%
   distinct() %>%
-  filter(OBSERVATION_DATE > "2013-06-01") %>%
+  filter(OBSERVATION_DATE > "2013-01-01") %>%
+  filter(OBSERVATION_DATE < "2016-12-31") %>%
   group_by(LOCALITY_ID) %>%
   summarise(LATITUDE=mean(LATITUDE),
             LONGITUDE=mean(LONGITUDE),
             Number_of_checklists=n(SAMPLING_EVENT_IDENTIFIER)) %>%
-  filter(Number_of_checklists>500) %>%
+  filter(Number_of_checklists > 250) %>%
   collect(n=Inf) 
   
 
@@ -48,7 +49,7 @@ localities_names <- all_ebird %>%
 localities <- merge(localities, localities_names, by="LOCALITY_ID")
 
 ### read in dataframe of top cities
-top_cities <- read_csv("Data/ALL top urban areas.csv")
+top_cities <- read_csv("Data/Top_cities/ALL top urban areas.csv")
 
 
 
@@ -84,13 +85,14 @@ setDT(locality_closest_city)[, distance.km := distGeo(matrix(c(lon, lat), ncol=2
                                                        matrix(c(LONGITUDE, LATITUDE), ncol=2))/1000]
 
 
+### filter data
+locality_closest_city <- locality_closest_city %>%
+  filter(distance.km <= 20) %>%
+  filter(LOCALITY_TYPE == 'H')
 
-## remove all object besides dataframes necessary
-rm(list=setdiff(ls(), c("locality_closest_city")))
+### write out csv to be used to select study sites
+write.csv(locality_closest_city, "Data/Potential_study_sites/locality_closest_city.csv", row.names=FALSE)
 
-
-## save df as Rdata file
-save.image("Data/locality_closest_city.RData")
 
 
 

@@ -1,0 +1,1023 @@
+"LOCALITY_ID","LOCALITY","Number_of_checklists","LATITUDE","LONGITUDE","city_country","lon","lat","Country","Urban_area","LOCALITY_TYPE","distance.km"
+"L1000889","Dubai Pivot Fields (historical)",279,25.1698635,55.4327737999997,"Dubai, United Arab Emirates",55.2707828,25.2048493,"United Arab Emirates","Dubai","H",16.7817630160604
+"L1003731","North Park--Arboretum area",285,40.5938815999998,-79.9934291999998,"Pittsburgh, United States",-79.9958864,40.4406248,"United States","Pittsburgh","H",17.0196123131767
+"L1004802","Presidio--Crissy Field Lagoon",1057,37.8047657999996,-122.456231100002,"San Francisco, United States",-122.4194155,37.7749295,"United States","San Francisco","H",4.6349273879531
+"L1007610","Sherwood Arboretum",304,-27.5316399000001,152.974405300001,"Brisbane, Australia",153.0251235,-27.4697707,"Australia","Brisbane","H",8.49221728377873
+"L1009187","Eloise Butler Wildflower Garden and Bird Sanctuary",256,44.9749396999998,-93.3206782999997,"Minneapolis, United States",-93.2650108,44.977753,"United States","Minneapolis","H",4.4021279760479
+"L1009656","Ottawa--Shirley's Bay (Dyke)",799,45.3746843000003,-75.8909582999991,"Ottawa, Canada",-75.6971931,45.4215296,"Canada","Ottawa","H",16.0400645369352
+"L1014322","Lafayette Park (SF Co.)",694,37.7914727999997,-122.427349100001,"San Francisco, United States",-122.4194155,37.7749295,"United States","San Francisco","H",1.96468385711012
+"L1014398","Ojibway Prairie Complex (general location)",253,42.2647333000003,-83.074944,"Detroit, United States",-83.0457538,42.331427,"United States","Detroit","H",7.78952571645839
+"L1022599","Ocean Beach--seawatch across from Oceanside Water Polution Plant",387,37.7294017000003,-122.506903399999,"San Francisco, United States",-122.4194155,37.7749295,"United States","San Francisco","H",9.21846278737586
+"L1025768","Franklin Delano Roosevelt (FDR) Park",488,39.9027901000005,-75.1819753999999,"Philadelphia, United States",-75.1652215,39.9525839,"United States","Philadelphia","H",5.7112545244421
+"L1026132","Bayfront Park--Millbrae (SM Co.)",285,37.6050226000001,-122.3765385,"San Francisco, United States",-122.4194155,37.7749295,"United States","San Francisco","H",19.2335330300387
+"L1026441","UW Seattle Campus",357,47.6572653000002,-122.3072076,"Seattle, United States",-122.3320708,47.6062095,"United States","Seattle","H",5.9761855810811
+"L1027749","Heron Lakes Golf Club--Force Lake",693,45.6049109999994,-122.695355400001,"Portland, United States",-122.6764815,45.5230622,"United States","Portland","H",9.21546552464932
+"L1029158","Ensley Bottoms--TVA Lake/Allen Fossil (Steam) Plant Ash Ponds",296,35.0720146000002,-90.1377796999996,"Memphis, United States",-90.0489801,35.1495343,"United States","Memphis","H",11.8110019518898
+"L1032814","Alfred Cove Nature Reserve",312,-32.0259057999999,115.8133221,"Perth, Australia",115.8604572,-31.9505269,"Australia","Perth","H",9.47139767785273
+"L1037685","Tanque Verde Wash--Tanque Verde Loop Rd.",501,32.2412452000003,-110.755405399999,"Tucson, United States",-110.926479,32.2217429,"United States","Tucson","H",16.2689125054394
+"L1038314","University of Minnesota--St. Paul campus",338,44.9844909000002,-93.1819882000009,"Minneapolis, United States",-93.2650108,44.977753,"United States","Minneapolis","H",6.59089153265877
+"L1040056","Sanibel Beach",275,26.4447544000002,-82.0266723999996,"Cape Coral, United States",-81.9495331,26.5628537,"United States","Cape Coral","H",15.1771934819829
+"L1048491","Mission Nature Park",345,26.1922195999998,-98.3378935,"McAllen, United States",-98.2300124,26.2034071,"United States","McAllen","H",10.8536611792322
+"L105600","LaBagh Woods Forest Preserve",1107,41.9803902999994,-87.7412753999998,"Chicago, United States",-87.6297982,41.8781136,"United States","Chicago","H",14.647292416191
+"L1059455","Prospect Park--Prospect Lake",502,40.6553787,-73.9686421000004,"New York, United States",-74.0059413,40.7127837,"United States","New York","H",7.11188431994894
+"L1069194","Philadelphia Naval Yard (restricted access)",298,39.8876082000001,-75.1659142999998,"Philadelphia, United States",-75.1652215,39.9525839,"United States","Philadelphia","H",7.21469636093155
+"L1070558","Mushrif Palace Gardens",333,24.4497840000001,54.3803329999997,"Abu Dhabi, United Arab Emirates",54.3773438,24.453884,"United Arab Emirates","Abu Dhabi","H",0.545985092794303
+"L1071411","Sutro Baths--ruins and freshwater pond",254,37.7799751999999,-122.5133193,"San Francisco, United States",-122.4194155,37.7749295,"United States","San Francisco","H",8.29159858581502
+"L1074046","East Portal Park",650,38.5639721000004,-121.441626500002,"Sacramento, United States",-121.4943996,38.5815719,"United States","Sacramento","H",4.99669135939275
+"L1078564","Brunot Island--Doerr St.",282,40.4691841000002,-80.0419664000001,"Pittsburgh, United States",-79.9958864,40.4406248,"United States","Pittsburgh","H",5.03341976148447
+"L108460","Douglas Park, Chicago",409,41.8633212999997,-87.6991555999995,"Chicago, United States",-87.6297982,41.8781136,"United States","Chicago","H",5.98775246016357
+"L108479","Columbus Park, Chicago",558,41.8751828999996,-87.7698144000004,"Chicago, United States",-87.6297982,41.8781136,"United States","Chicago","H",11.6273816502437
+"L1085740","Golden Gate Park--San Francisco Botanical Garden",1411,37.7675937000005,-122.468805300003,"San Francisco, United States",-122.4194155,37.7749295,"United States","San Francisco","H",4.42698707134842
+"L109051","Corte Madera Marsh",290,37.9383677,-122.5100899,"San Francisco, United States",-122.4194155,37.7749295,"United States","San Francisco","H",19.818086898122
+"L109138","Braddock Bay Park--Hawk Watch",318,43.3036499999999,-77.7163027999996,"Rochester, United States",-77.6109219,43.16103,"United States","Rochester","H",18.0092970688033
+"L109144","Jamaica Bay Wildlife Refuge--East Pond",784,40.6226854000006,-73.8220096000004,"New York, United States",-74.0059413,40.7127837,"United States","New York","H",18.4928715841513
+"L109145","Jamaica Bay Wildlife Refuge--West Pond",581,40.6161111000001,-73.8302777999998,"New York, United States",-74.0059413,40.7127837,"United States","New York","H",18.3273534150266
+"L109160","Station 43",361,41.8338915000003,-72.6233195999996,"Hartford, United States",-72.6850932,41.7637111,"United States","Hartford","H",9.33376298060638
+"L109439","Golden Gate Park",257,37.7696460999998,-122.4841261,"San Francisco, United States",-122.4194155,37.7749295,"United States","San Francisco","H",5.73130027678342
+"L109516","Prospect Park",6744,40.660284100005,-73.9689533999916,"New York, United States",-74.0059413,40.7127837,"United States","New York","H",6.61548598700089
+"L109518","Central Park--The Ramble",5291,40.7771162000048,-73.969573899992,"New York, United States",-74.0059413,40.7127837,"United States","New York","H",7.77637072456155
+"L1096830","Poggi Creek greenbelt",284,32.5939737,-117.041977600001,"Tijuana, Mexico",-117.0382471,32.5149469,"Mexico","Tijuana","H",8.7708010598242
+"L11","Toronto--High Park",1197,43.6446469000002,-79.4625379000015,"Toronto, Canada",-79.3831843,43.653226,"Canada","Toronto","H",6.47262760876899
+"L1116112","Monroe Harbor, Chicago",317,41.8753448999998,-87.6152371999997,"Chicago, United States",-87.6297982,41.8781136,"United States","Chicago","H",1.24722206725929
+"L1127099","Parque da Paz",278,38.6660106,-9.16472199999999,"Lisbon, Portugal",-9.1393366,38.7222524,"Portugal","Lisbon","H",6.62247833542145
+"L1129017","Battelle Darby Creek Metro Park--Wet Prairie Teal and Harrier Trails",1362,39.9176361999998,-83.2083892999984,"Columbus, United States",-82.9987942,39.9611755,"United States","Columbus","H",18.5547796536055
+"L1130760","North Park Lake",341,40.5966188999997,-79.9981498999996,"Pittsburgh, United States",-79.9958864,40.4406248,"United States","Pittsburgh","H",17.3233668425308
+"L1135300","Squantum--Marshes",448,42.2941991000003,-71.0211181999993,"Boston, United States",-71.0588801,42.3600825,"United States","Boston","H",7.95269737148637
+"L1136752","Duck Hollow",1160,40.4144763000004,-79.916385400002,"Pittsburgh, United States",-79.9958864,40.4406248,"United States","Pittsburgh","H",7.34468316302267
+"L1138317","Glen Echo Park",504,40.0187412,-82.9989624000007,"Columbus, United States",-82.9987942,39.9611755,"United States","Columbus","H",6.3917913840878
+"L1138695","Récré-O-Parc",1022,45.4085741000011,-73.5719204000001,"Montreal, Canada",-73.567256,45.5016889,"Canada","Montreal","H",10.3552708512515
+"L1143291","City Park--Couturie Forest",649,30.0045692999996,-90.0935962000003,"New Orleans, United States",-90.0715323,29.9510658,"United States","New Orleans","H",6.30162865536238
+"L1143505","Millennium Park (Kent Co.)",680,42.9410461000005,-85.7443321000009,"Grand Rapids, United States",-85.6680863,42.9633599,"United States","Grand Rapids","H",6.69759612410377
+"L1147781","Rose Lake",374,35.5357186000001,-97.7066516999993,"Oklahoma City, United States",-97.5164276,35.4675602,"United States","Oklahoma City","H",18.8426163260903
+"L1148883","Toronto--ravine west of High Park",329,43.6505471,-79.4740248000005,"Toronto, Canada",-79.3831843,43.653226,"Canada","Toronto","H",7.33447663119081
+"L1150366","Ohio State University--Mirror Lake and Browning Amphitheatre",423,39.9979755000002,-83.0137789,"Columbus, United States",-82.9987942,39.9611755,"United States","Columbus","H",4.28185025592198
+"L1152431","Eagle Creek Park--Ice Skating Pond",277,39.8644913000001,-86.2897967999998,"Indianapolis, United States",-86.158068,39.768403,"United States","Indianapolis","H",15.5253459950149
+"L1159562","Pearson Metropark",706,41.6408480999999,-83.4384047999994,"Toledo, United States",-83.555212,41.6639383,"United States","Toledo","H",10.0623488779438
+"L1160385","Holt Park",333,39.3518611,-76.5158272000005,"Baltimore, United States",-76.6121893,39.2903848,"United States","Baltimore","H",10.7532971469864
+"L1161669","Minca--pueblo",318,11.1436242,-74.1168701999996,"Santa Marta, Colombia",-74.2110227,11.2403547,"Colombia","Santa Marta","H",14.8401025608974
+"L1161906","Dallas--Joppa Preserve /Lemmon Lake",412,32.7059331,-96.7376198999993,"Dallas, United States",-96.7969879,32.7766642,"United States","Dallas","H",9.61719617165607
+"L1161973","Minnippi Parklands",502,-27.4831850999999,153.1149273,"Brisbane, Australia",153.0251235,-27.4697707,"Australia","Brisbane","H",8.99920489629919
+"L1163678","Veterans Memorial Park",717,44.8874686000008,-93.2629394999985,"Minneapolis, United States",-93.2650108,44.977753,"United States","Minneapolis","H",10.0346791386978
+"L1164339","Battelle Darby Creek Metro Park--Cedar Ridge Hawthorn Trail",373,39.9001315999998,-83.2108033000004,"Columbus, United States",-82.9987942,39.9611755,"United States","Columbus","H",19.3485785832804
+"L1174771","Bentsen-Rio Grande Val. SP--HQ Buildings area",651,26.1856055000003,-98.3799397999989,"McAllen, United States",-98.2300124,26.2034071,"United States","McAllen","H",15.114810084553
+"L1176744","Kedron Brook Wetlands Reserve",314,-27.4014134,153.0789685,"Brisbane, Australia",153.0251235,-27.4697707,"Australia","Brisbane","H",9.25835583038209
+"L1176818","Kent State University--Kent Wetlands",298,41.1422086999998,-81.3318139000002,"Akron, United States",-81.5190053,41.0814447,"United States","Akron","H",17.1097211046189
+"L1180204","Central Park--Turtle Pond",804,40.7795360999996,-73.9678895999988,"New York, United States",-74.0059413,40.7127837,"United States","New York","H",8.07945085350538
+"L1180735","Austin--Laguna Gloria",1553,30.310717699999,-97.7749300000016,"Austin, United States",-97.7430608,30.267153,"United States","Austin","H",5.72049478290722
+"L1188136","Riverwinds--Nature Trail",285,39.8510256999998,-75.1946889999999,"Philadelphia, United States",-75.1652215,39.9525839,"United States","Philadelphia","H",11.5544249525308
+"L1206404","Banksia Park (St Lucia)",603,-27.4988979000004,153.0035985,"Brisbane, Australia",153.0251235,-27.4697707,"Australia","Brisbane","H",3.86557181336079
+"L1210076","McAllen--Parakeet roost (10th Str. b/w Dove & Trenton)",373,26.2667101,-98.2192432999994,"McAllen, United States",-98.2300124,26.2034071,"United States","McAllen","H",7.0955041906542
+"L1215121","Carondelet Park",662,38.5615895000001,-90.2653885000016,"St. Louis, United States",-90.1994042,38.6270025,"United States","St. Louis","H",9.26132961453969
+"L1241076","Celery Fields--South Cell",722,27.3213252999997,-82.4393892000006,"Sarasota, United States",-82.5306527,27.3364347,"United States","Sarasota","H",9.18571689059232
+"L124352","Swan Point Cemetery",367,41.8524969999999,-71.3861099999997,"Providence, United States",-71.4128343,41.8239891,"United States","Providence","H",3.86692757951242
+"L1263899","Mid Pines Rd.",812,35.7250538000005,-78.693695100001,"Raleigh, United States",-78.6381787,35.7795897,"United States","Raleigh","H",7.86299651371196
+"L126616","Fort Smallwood Park",1532,39.1630000000004,-76.479999999999,"Baltimore, United States",-76.6121893,39.2903848,"United States","Baltimore","H",18.1739491042369
+"L126626","Fort Howard Park",261,39.199,-76.4399999999999,"Baltimore, United States",-76.6121893,39.2903848,"United States","Baltimore","H",17.9969226213222
+"L127291","Theodore Roosevelt Area",400,30.3696999999999,-81.482,"Jacksonville, United States",-81.655651,30.3321838,"United States","Jacksonville","H",17.2058871664942
+"L127330","Weedon Island  Preserve",342,27.8450999999999,-82.6012000000002,"Tampa, United States",-82.4571776,27.950575,"United States","Tampa","H",18.3761686932156
+"L127337","Lettuce Lake County Park",757,28.0724999999998,-82.375399999999,"Tampa, United States",-82.4571776,27.950575,"United States","Tampa","H",15.7243269115951
+"L127348","Ackerman Park",408,27.3340000000001,-82.4432999999997,"Sarasota, United States",-82.5306527,27.3364347,"United States","Sarasota","H",8.64853461561987
+"L127350","Oscar Scherer SP",522,27.1734149000002,-82.4663829999996,"Sarasota, United States",-82.5306527,27.3364347,"United States","Sarasota","H",19.1522909531042
+"L127353","Mead Botanical Gardens",1922,28.5835999999997,-81.3586000000038,"Orlando, United States",-81.3792365,28.5383355,"United States","Orlando","H",5.40773339066643
+"L127398","Point Ybel Lighthouse Beach Park",977,26.4520608999995,-82.0151280999999,"Cape Coral, United States",-81.9495331,26.5628537,"United States","Cape Coral","H",13.9082765473407
+"L127399","J. N. Ding Darling NWR--Bailey Tract",1536,26.4276000000003,-82.0819000000017,"Cape Coral, United States",-81.9495331,26.5628537,"United States","Cape Coral","H",19.9676157897356
+"L127422","Crandon Park",737,25.7089712,-80.153632200001,"Miami, United States",-80.1917902,25.7616798,"United States","Miami","H",6.98260961781747
+"L127423","Bill Baggs Cape Florida SP",1106,25.6732999999995,-80.1582000000009,"Miami, United States",-80.1917902,25.7616798,"United States","Miami","H",10.3550923940828
+"L127425","Matheson Hammock Park",1174,25.6806538999998,-80.2726363999983,"Miami, United States",-80.1917902,25.7616798,"United States","Miami","H",12.0995067071812
+"L127426","Fairchild Tropical Botanic Garden",303,25.6764000000001,-80.2713000000003,"Miami, United States",-80.1917902,25.7616798,"United States","Miami","H",12.3662709807275
+"L1284799","Ferry / Sue Bierman Parks",330,37.7959300000002,-122.396468,"San Francisco, United States",-122.4194155,37.7749295,"United States","San Francisco","H",3.0853055904005
+"L128530","Discovery Park",2326,47.6638680000022,-122.421531700004,"Seattle, United States",-122.3320708,47.6062095,"United States","Seattle","H",9.28952380692568
+"L128870","Agua Caliente Park",1057,32.2806014999996,-110.730300900002,"Tucson, United States",-110.926479,32.2217429,"United States","Tucson","H",19.6051277382341
+"L128890","Bentsen-Rio Grande Val. SP WBC (Mission) (LTC 069)",3446,26.1720180999986,-98.3829035999963,"Reynosa, Mexico",-98.2978951,26.0508406,"Mexico","Reynosa","H",15.8913266813912
+"L128990","Hermann Park (UTC 091)",343,29.7168676000001,-95.3921521000004,"Houston, United States",-95.3698028,29.7604267,"United States","Houston","H",5.2903887773378
+"L129072","Sabino Canyon Recreation Area",550,32.3300526,-110.794430100001,"Tucson, United States",-110.926479,32.2217429,"United States","Tucson","H",17.2920251882999
+"L129085","Santa Ana NWR (LTC 059)",3312,26.0813002999985,-98.1351399000037,"McAllen, United States",-98.2300124,26.2034071,"United States","McAllen","H",16.5231686428617
+"L129106","Tanque Verde Wash--Wentworth Rd.",491,32.2400761999998,-110.720897500001,"Tucson, United States",-110.926479,32.2217429,"United States","Tucson","H",19.4835521051154
+"L129113","Tucson Mountain Park",838,32.2300828000004,-111.129241000001,"Tucson, United States",-110.926479,32.2217429,"United States","Tucson","H",19.134850652502
+"L1293732","Randalls Island",339,40.7887807999997,-73.9219680999997,"New York, United States",-74.0059413,40.7127837,"United States","New York","H",11.0233856246995
+"L1294852","Reserva Ribera Norte",267,-34.4693445,-58.4949660000002,"Buenos Aires, Argentina",-58.3815591,-34.6036844,"Argentina","Buenos Aires","H",18.178867476025
+"L1295310","Bufferlands--Upper Beach Lake",801,38.4505639999996,-121.485958100001,"Sacramento, United States",-121.4943996,38.5815719,"United States","Sacramento","H",14.5613207078585
+"L1298387","Ottawa--Deschenes Rapids Lookout",310,45.3788218000004,-75.7799684999994,"Ottawa, Canada",-75.6971931,45.4215296,"Canada","Ottawa","H",8.0332254587951
+"L1300380","Causeway Islands Park",543,26.4797156999998,-82.0228100000002,"Cape Coral, United States",-81.9495331,26.5628537,"United States","Cape Coral","H",11.7555191524572
+"L130597","Babel Slough",482,38.4795150999999,-121.551979099999,"Sacramento, United States",-121.4943996,38.5815719,"United States","Sacramento","H",12.3916501005725
+"L130674","Fountain Creek Regional Park--Nature Center/Cattail Marsh area",282,38.7133979999999,-104.7170105,"Colorado Springs, United States",-104.8213634,38.8338816,"United States","Colorado Springs","H",16.1594539327105
+"L130766","Hornsby Bend (HOTE 037)",4783,30.218198799997,-97.6458053999944,"Austin, United States",-97.7430608,30.267153,"United States","Austin","H",10.8202372444356
+"L130783","Mohawk Park--Mary K. Oxley Nature Center",517,36.2235555000003,-95.900505799999,"Tulsa, United States",-95.992775,36.1539816,"United States","Tulsa","H",11.3349396578205
+"L1309950","Lake Park--Linnwood Water Treatment Plant to Bradford Beach",266,43.0695148,-87.865777,"Milwaukee, United States",-87.9064736,43.0389025,"United States","Milwaukee","H",4.74956523945151
+"L131149","Irondequoit Bay Outlet (Pier and Marine Park)",1098,43.2345313999997,-77.5347137000009,"Rochester, United States",-77.6109219,43.16103,"United States","Rochester","H",10.2492282604659
+"L131388","Garden of the Gods Park",729,38.8768686000003,-104.882762399998,"Colorado Springs, United States",-104.8213634,38.8338816,"United States","Colorado Springs","H",7.15384162730771
+"L131389","Fountain Creek Regional Park",543,38.7071991,-104.716400099999,"Colorado Springs, United States",-104.8213634,38.8338816,"United States","Colorado Springs","H",16.7624977163757
+"L131646","Radnor Lake State Natural Area",1739,36.0602989000016,-86.801696799999,"Nashville, United States",-86.7816016,36.1626638,"United States","Nashville","H",11.5017183560252
+"L1320362","Bells Bend--Old Hickory Blvd",265,36.1468668999999,-86.9058036999998,"Nashville, United States",-86.7816016,36.1626638,"United States","Nashville","H",11.3132141158059
+"L132066","Shelby Park and Bottoms (Nashville)",371,36.1753719999998,-86.7088651999993,"Nashville, United States",-86.7816016,36.1626638,"United States","Nashville","H",6.69436211613008
+"L1322059","Santa Ana NWR--Willow Lakes",287,26.0799512000001,-98.1399678999996,"McAllen, United States",-98.2300124,26.2034071,"United States","McAllen","H",16.3754445329302
+"L132236","CBBT--South Thimble Island (#1)",1492,36.9645003999994,-76.1134032999988,"Virginia Beach, United States",-75.977985,36.8529263,"United States","Virginia Beach","H",17.2903528936723
+"L1325399","Ra's al-Khor Wildlife Sanctuary--Mangrove Hide",263,25.1860999999999,55.3289999999998,"Dubai, United Arab Emirates",55.2707828,25.2048493,"United Arab Emirates","Dubai","H",6.22444316056292
+"L1331912","Santa Ana NWR--Entry and Parking lot",272,26.0826692,-98.1356089000001,"McAllen, United States",-98.2300124,26.2034071,"United States","McAllen","H",16.3721119815039
+"L1341892","Erie Basin Marina",591,42.8814376,-78.8885872000004,"Buffalo, United States",-78.8783689,42.8864468,"United States","Buffalo","H",1.00325253181821
+"L1342167","Milwaukee Lake Express Ferry Terminal",396,43.0030315999998,-87.8870905000003,"Milwaukee, United States",-87.9064736,43.0389025,"United States","Milwaukee","H",4.28679919725383
+"L1343240","Universidad El Salvador Campus",420,13.719298,-89.2035093000007,"San Salvador, El Salvador",-89.2181911,13.6929403,"El Salvador","San Salvador","H",3.32053467941283
+"L1352077","Black Dog Lake--West Outflow",273,44.8012294,-93.2852953000001,"Minneapolis, United States",-93.2650108,44.977753,"United States","Minneapolis","H",19.6823398865618
+"L1356513","Toronto--Sunnyside Beach",279,43.6342951999997,-79.4672893999997,"Toronto, Canada",-79.3831843,43.653226,"Canada","Toronto","H",7.10446684134431
+"L1358545","Crum Creek Reservoir",266,39.9268023999999,-75.3669358000003,"Philadelphia, United States",-75.1652215,39.9525839,"United States","Philadelphia","H",17.4763421315493
+"L1374253","Parque del Bicentenario (ANP El Espino-Bosque Los Pericos)",255,13.693303,-89.2542646000001,"San Salvador, El Salvador",-89.2181911,13.6929403,"El Salvador","San Salvador","H",3.90248638345317
+"L139567","Rodeo Lagoon",1717,37.8304863000008,-122.532951400002,"San Francisco, United States",-122.4194155,37.7749295,"United States","San Francisco","H",11.7473555070417
+"L1396997","Reserva Yanacocha",381,-0.111787300000001,-78.5848817000004,"Quito, Ecuador",-78.4678382,-0.1806532,"Ecuador","Quito","H",15.0912116873435
+"L139734","Springfield Lake",399,41.0230675000002,-81.4393539000004,"Akron, United States",-81.5190053,41.0814447,"United States","Akron","H",9.32036502458692
+"L1400591","Rio Vista Natural Resource Park",415,32.2800719000002,-110.932650199999,"Tucson, United States",-110.926479,32.2217429,"United States","Tucson","H",6.49426350078331
+"L140218","Miller Meadows Forest Preserve",479,41.8556480000004,-87.8284149000002,"Chicago, United States",-87.6297982,41.8781136,"United States","Chicago","H",16.6775191521603
+"L1402306","Leyton Flats",363,51.5806061000002,0.0156413999999999,"London, United Kingdom",-0.1277583,51.5073509,"United Kingdom","London","H",12.8605143738244
+"L140437","Ontario Beach and Charlotte Pier",677,43.2580187999995,-77.6071545000009,"Rochester, United States",-77.6109219,43.16103,"United States","Rochester","H",10.779495634681
+"L140438","Lasalle Landing Park",395,43.1763487000003,-77.5259312999996,"Rochester, United States",-77.6109219,43.16103,"United States","Rochester","H",7.11767772878107
+"L140445","Cobbs Hill Park",257,43.1404990999999,-77.5682983000003,"Rochester, United States",-77.6109219,43.16103,"United States","Rochester","H",4.15005806625335
+"L140447","BHI--World's End, Hingham (TTOR)",474,42.2713012999996,-70.8806991999998,"Boston, United States",-71.0588801,42.3600825,"United States","Boston","H",17.6925887592109
+"L140459","Wheat Ridge Greenbelt",490,39.7742003999996,-105.127601599999,"Denver, United States",-104.990251,39.7392358,"United States","Denver","H",12.3940902982963
+"L140460","Big Johnson Reservoir",1223,38.7490005,-104.698997500002,"Colorado Springs, United States",-104.8213634,38.8338816,"United States","Colorado Springs","H",14.2059977131787
+"L140473","Cherry Creek SP",2255,39.640264600001,-104.853858899996,"Denver, United States",-104.990251,39.7392358,"United States","Denver","H",16.0508705556382
+"L1404918","Cibola NF -- Sandia Crest House",456,35.2101346,-106.449167500001,"Albuquerque, United States",-106.6055534,35.0853336,"United States","Albuquerque","H",19.8691446634314
+"L1405638","Fish Creek PP--Votier's Flats",294,50.9336108000002,-114.0848091,"Calgary, Canada",-114.0708459,51.0486151,"Canada","Calgary","H",12.8315172320022
+"L1409960","Calgary--Confederation Park",480,51.0739337999996,-114.087551299999,"Calgary, Canada",-114.0708459,51.0486151,"Canada","Calgary","H",3.05046026849303
+"L141172","Cibola NF -- Sandia Crest",464,35.2103004,-106.448700000001,"Albuquerque, United States",-106.6055534,35.0853336,"United States","Albuquerque","H",19.9125130041432
+"L1413967","Whitaker Ponds Nature Park",354,45.5733691999998,-122.611371899999,"Portland, United States",-122.6764815,45.5230622,"United States","Portland","H",7.5573874866607
+"L1415142","Lake Roland--Boardwalk",306,39.3798437,-76.6436839000004,"Baltimore, United States",-76.6121893,39.2903848,"United States","Baltimore","H",10.2963905634916
+"L1426627","Big Cottonwood Park",429,40.6711286999999,-111.8480671,"Salt Lake City, United States",-111.8910474,40.7607793,"United States","Salt Lake City","H",10.5972587086739
+"L1429286","Scarborough--Rosetta McClain Gardens",326,43.6957638000002,-79.2552365000002,"Toronto, Canada",-79.3831843,43.653226,"Canada","Toronto","H",11.3490538207
+"L1433708","SFF Otún Quimbaya",283,4.72228470000002,-75.5766678,"Pereira, Colombia",-75.690601,4.8087174,"Colombia","Pereira","H",15.8464070930498
+"L1434128","Lake Hefner--Lakeshore Park/Prairie Dog Point",629,35.5606340000002,-97.6117857999998,"Oklahoma City, United States",-97.5164276,35.4675602,"United States","Oklahoma City","H",13.4708839771249
+"L143490","Thatcher Woods Forest Preserve",455,41.8935698999997,-87.8297881999998,"Chicago, United States",-87.6297982,41.8781136,"United States","Chicago","H",16.6874434129858
+"L1437376","Toronto--Downsview Park",538,43.7437382999997,-79.4830565999998,"Toronto, Canada",-79.3831843,43.653226,"Canada","Toronto","H",12.8821140725017
+"L1438036","Ottawa--Shirley's Bay (Hilda Road feeders)",367,45.3630185000002,-75.8797129000005,"Ottawa, Canada",-75.6971931,45.4215296,"Canada","Ottawa","H",15.7023901511686
+"L1438140","Rotary Park -- Environmental Center",321,26.5467024999999,-81.9806343999998,"Cape Coral, United States",-81.9495331,26.5628537,"United States","Cape Coral","H",3.57857878072725
+"L1440594","Mission Bay--entrance channel",382,32.7587473000002,-117.247284800001,"San Diego, United States",-117.1610838,32.715738,"United States","San Diego","H",9.38240016589591
+"L1448462","Calgary--Egerts Park",372,51.1057911999998,-114.081204200001,"Calgary, Canada",-114.0708459,51.0486151,"Canada","Calgary","H",6.40211550139722
+"L1455050","Lake Hiawatha Park",410,44.9209669999998,-93.2347698999996,"Minneapolis, United States",-93.2650108,44.977753,"United States","Minneapolis","H",6.74684863906394
+"L1465889","Bear Creek Park (Denver)",271,39.6513211000001,-105.0451708,"Denver, United States",-104.990251,39.7392358,"United States","Denver","H",10.8382660078681
+"L148354","Wyandotte Co. Lake",953,39.1655385000002,-94.7822285000002,"Kansas City, United States",-94.5785667,39.0997265,"United States","Kansas City","H",19.0650645156425
+"L148362","Lake Lotus Park",256,28.6447926000001,-81.4251632999999,"Orlando, United States",-81.3792365,28.5383355,"United States","Orlando","H",12.6249122693902
+"L1484444","Bothell--Storm Water Pond and Cow Farm",283,47.7565343999999,-122.221203100001,"Seattle, United States",-122.3320708,47.6062095,"United States","Seattle","H",18.6720085797129
+"L1487217","Santa Ana NWR--Pintail Lakes Trail",316,26.0787993000001,-98.1330502999997,"McAllen, United States",-98.2300124,26.2034071,"United States","McAllen","H",16.8700651986321
+"L1496108","Ottawa--Shirley's Bay (boat launch)",260,45.3664604,-75.8820573999998,"Ottawa, Canada",-75.6971931,45.4215296,"Canada","Ottawa","H",15.7164006696932
+"L1502128","Natural History Museum Nature Gardens",264,34.0177304,-118.2884504,"Los Angeles, United States",-118.2436849,34.0522342,"United States","Los Angeles","H",5.63360853383034
+"L152123","Wood Lake Nature Center",762,44.8773731,-93.2931088999995,"Minneapolis, United States",-93.2650108,44.977753,"United States","Minneapolis","H",11.3736656880725
+"L152135","Descanso Gardens",876,34.2016399999995,-118.212289999999,"Los Angeles, United States",-118.2436849,34.0522342,"United States","Los Angeles","H",16.8239328517287
+"L152149","Bette Davis Picnic Area",441,34.1576843000002,-118.297861599999,"Los Angeles, United States",-118.2436849,34.0522342,"United States","Los Angeles","H",12.7204023006664
+"L1522006","Clinton-Como Park",260,40.0252853999998,-83.0222144,"Columbus, United States",-82.9987942,39.9611755,"United States","Columbus","H",7.3940737427504
+"L152687","Grant Park, Chicago--Museum Campus",1296,41.8663999999994,-87.6153999999985,"Chicago, United States",-87.6297982,41.8781136,"United States","Chicago","H",1.76675066223825
+"L152691","Lincoln Park, Chicago--North Pond",3050,41.9282999999996,-87.6369999999947,"Chicago, United States",-87.6297982,41.8781136,"United States","Chicago","H",5.60621344954371
+"L152740","Jackson Park, Chicago--Wooded Island/Bobolink Meadow area",1319,41.7857130999988,-87.5829648999974,"Chicago, United States",-87.6297982,41.8781136,"United States","Chicago","H",10.9755455349944
+"L152773","Floyd Bennett Field",2014,40.5923452999996,-73.8914327999997,"New York, United States",-74.0059413,40.7127837,"United States","New York","H",16.5125594249819
+"L1533435","University of Central Florida",433,28.5997117000001,-81.1932444000003,"Orlando, United States",-81.3792365,28.5383355,"United States","Orlando","H",19.4273125934945
+"L1535778","Ottawa--Britannia Conservation Area (Britannia Ridge)",642,45.3737174999996,-75.7972460000001,"Ottawa, Canada",-75.6971931,45.4215296,"Canada","Ottawa","H",9.46624185689315
+"L1544161","Central Park--The Lake",444,40.7765867,-73.9722392000003,"New York, United States",-74.0059413,40.7127837,"United States","New York","H",7.63564860738058
+"L1550553","Calgary--North Glenmore Park",341,50.9856366000002,-114.121240100001,"Calgary, Canada",-114.0708459,51.0486151,"Canada","Calgary","H",7.84811463114236
+"L157178","Fort Harrison SP",537,39.8716060000003,-86.0251808000006,"Indianapolis, United States",-86.158068,39.768403,"United States","Indianapolis","H",16.1477583125619
+"L157179","Eagle Creek Park",1482,39.8750999999991,-86.3037000000012,"Indianapolis, United States",-86.158068,39.768403,"United States","Indianapolis","H",17.1989504900124
+"L159604","Smith and Bybee Lakes Wetlands Natural Area",943,45.6203000000001,-122.745599999998,"Portland, United States",-122.6764815,45.5230622,"United States","Portland","H",12.0791959124932
+"L160294","Clark County Wetlands Park",580,36.1006946999999,-115.022462000001,"Las Vegas, United States",-115.1398296,36.1699412,"United States","Las Vegas","H",13.0629705238498
+"L160490","San Antonio--Brackenridge Park (Avenue A)",688,29.4561119999999,-98.4761100000015,"San Antonio, United States",-98.4936282,29.4241219,"United States","San Antonio","H",3.93219508692565
+"L160563","Mitchell Lake Audubon Center (HOTE 103)",2966,29.3040461000004,-98.4919047000003,"San Antonio, United States",-98.4936282,29.4241219,"United States","San Antonio","H",13.3104693118694
+"L160720","Palmyra Cove Nature Park",1369,40.0024449999988,-75.0454560000025,"Philadelphia, United States",-75.1652215,39.9525839,"United States","Philadelphia","H",11.6325169037388
+"L160935","Ballona Freshwater Marsh",1648,33.9701284999991,-118.430557299997,"Los Angeles, United States",-118.2436849,34.0522342,"United States","Los Angeles","H",19.5171065823048
+"L161083","MLK Jr. Regional Shoreline--Arrowhead Marsh",1065,37.7421628000005,-122.211227399998,"San Francisco, United States",-122.4194155,37.7749295,"United States","San Francisco","H",18.7024727158488
+"L161173","Calgary--South Glenmore Park",365,50.9744449999999,-114.121544000001,"Calgary, Canada",-114.0708459,51.0486151,"Canada","Calgary","H",8.98574174194298
+"L161180","Montrose Point, Lincoln Park, Chicago",6324,41.9633832999975,-87.6344204000087,"Chicago, United States",-87.6297982,41.8781136,"United States","Chicago","H",9.47881255750449
+"L161199","Calgary--Inglewood Bird Sanctuary",1254,51.0303540000008,-114.009919999999,"Calgary, Canada",-114.0708459,51.0486151,"Canada","Calgary","H",4.73155037611293
+"L1620006","Wychwood Park",532,43.6780440000002,-79.4197239999996,"Toronto, Canada",-79.3831843,43.653226,"Canada","Toronto","H",4.035948697094
+"L162766","Union Bay Natural Area (Montlake Fill)",2272,47.6542400000024,-122.291369999997,"Seattle, United States",-122.3320708,47.6062095,"United States","Seattle","H",6.15424427362175
+"L163354","Green Lake",1106,47.6817969999993,-122.339529999998,"Seattle, United States",-122.3320708,47.6062095,"United States","Seattle","H",8.42274258447
+"L163665","San Antonio Botanical Garden",1104,29.4601112999997,-98.4572897000024,"San Antonio, United States",-98.4936282,29.4241219,"United States","San Antonio","H",5.32385793854588
+"L164543","North Vancouver--Maplewood Conservation Area",2047,49.3058429999985,-123.000339999999,"Vancouver, Canada",-123.1207375,49.2827291,"Canada","Vancouver","H",9.12716090283787
+"L164552","Blendon Woods Metro Park",2478,40.0730853999995,-82.8726196000039,"Columbus, United States",-82.9987942,39.9611755,"United States","Columbus","H",16.4449305144726
+"L164553","Green Lawn Cemetery, Columbus",750,39.9400979999994,-83.0327099999996,"Columbus, United States",-82.9987942,39.9611755,"United States","Columbus","H",3.72520070449245
+"L164725","Lincoln Park, Chicago--Jarvis Bird Sanctuary",976,41.9489939999992,-87.6407000000022,"Chicago, United States",-87.6297982,41.8781136,"United States","Chicago","H",7.92458170690153
+"L164930","Ile des Soeurs",268,45.4617108999998,-73.5463858000002,"Montreal, Canada",-73.567256,45.5016889,"Canada","Montreal","H",4.73333943545951
+"L165056","Jardin botanique de Montréal (accès restreint)",1153,45.5596561999993,-73.5626078000006,"Montreal, Canada",-73.567256,45.5016889,"Canada","Montreal","H",6.45283396158146
+"L165143","Jamaica Bay Wildlife Refuge",1629,40.6170295999987,-73.8244561000019,"New York, United States",-74.0059413,40.7127837,"United States","New York","H",18.6702026474636
+"L165740","Washington Park Arboretum, Seattle",525,47.6370819000003,-122.295740000001,"Seattle, United States",-122.3320708,47.6062095,"United States","Seattle","H",4.38635497375082
+"L1658613","Parc de l'Île Charron",406,45.5795290999998,-73.4890992,"Montreal, Canada",-73.567256,45.5016889,"Canada","Montreal","H",10.5880520888586
+"L166295","Shaker Lakes--Nature Center",285,41.4846304999998,-81.5746021000003,"Cleveland, United States",-81.6943605,41.49932,"United States","Cleveland","H",10.1328032502368
+"L1664748","National Centre for Biological Sciences, GKVK Campus",399,13.0713427,77.5798160999993,"Bangalore, India",77.5945627,12.9715987,"India","Bangalore","H",11.1500881757652
+"L167923","Bluff Lake Nature Center",604,39.759744,-104.8595881,"Denver, United States",-104.990251,39.7392358,"United States","Denver","H",11.4276268747823
+"L167924","Rocky Mountain Arsenal NWR",1212,39.8226444999989,-104.8691368,"Denver, United States",-104.990251,39.7392358,"United States","Denver","H",13.9072933257251
+"L168559","Provo Airport Dike",653,40.2208859999994,-111.712290000001,"Provo, United States",-111.6585337,40.2338438,"United States","Provo","H",4.79610563508003
+"L169814","Dead Horse Point",269,40.5795940000001,-73.8946600000003,"New York, United States",-74.0059413,40.7127837,"United States","New York","H",17.5313976105319
+"L1743685","Belmar Park",1013,39.7044793,-105.085773500002,"Denver, United States",-104.990251,39.7392358,"United States","Denver","H",9.05364272686441
+"L1744260","Ottawa--Stony Swamp (Sarsaparilla Trail)",274,45.3035579000002,-75.8323956999997,"Ottawa, Canada",-75.6971931,45.4215296,"Canada","Ottawa","H",16.8556526047347
+"L1758107","Water Works Park",620,41.5647252999998,-93.6672927000016,"Des Moines, United States",-93.6091064,41.6005448,"United States","Des Moines","H",6.27457118515427
+"L1762713","Sedgefield Park",287,35.1985851000001,-80.8580240000001,"Charlotte, United States",-80.8431267,35.2270869,"United States","Charlotte","H",3.44076319801831
+"L1763593","Eagle Creek Park--Ornithology Center (this location only)",366,39.8738549999998,-86.2968183000004,"Indianapolis, United States",-86.158068,39.768403,"United States","Indianapolis","H",16.6794855695116
+"L1773406","Bear Creek Greenbelt from S. Kipling Pkwy to S. Wadsworth Blvd",357,39.6662648000001,-105.090438899999,"Denver, United States",-104.990251,39.7392358,"United States","Denver","H",11.8097486969632
+"L1778306","Valle de Oro NWR",1512,34.9789826999991,-106.675449200003,"Albuquerque, United States",-106.6055534,35.0853336,"United States","Albuquerque","H",13.4123104230554
+"L1788977","Sandy Camp Road Wetlands",791,-27.4345099999995,153.148448399999,"Brisbane, Australia",153.0251235,-27.4697707,"Australia","Brisbane","H",12.8020930232045
+"L1793719","Schmidt's Woods",276,40.8002448999998,-74.0497180999995,"New York, United States",-74.0059413,40.7127837,"United States","New York","H",10.3922133727436
+"L1795397","Ottawa--Britannia Conservation Area (Mud Lake)",674,45.3717546000005,-75.7948727999993,"Ottawa, Canada",-75.6971931,45.4215296,"Canada","Ottawa","H",9.43932607054915
+"L1797346","Hoover Reservoir (Franklin Co.)",388,40.1125747000002,-82.8816517000005,"Columbus, United States",-82.9987942,39.9611755,"United States","Columbus","H",19.559026047749
+"L1802495","Maumee Bay SP--Campground",263,41.6840075,-83.3952447,"Toledo, United States",-83.555212,41.6639383,"United States","Toledo","H",13.5060546074463
+"L1803035","Jackson Park, Chicago--Inner/Outer Harbors",581,41.7759989000003,-87.5751830000007,"Chicago, United States",-87.6297982,41.8781136,"United States","Chicago","H",12.2157156109992
+"L1804663","Disposal Rd.",505,40.789933,-74.1129144000004,"New York, United States",-74.0059413,40.7127837,"United States","New York","H",12.4503680960816
+"L1808269","Austin--Circle Acres",261,30.2414336000001,-97.6969823,"Austin, United States",-97.7430608,30.267153,"United States","Austin","H",5.27205105566332
+"L1826362","RNL Estuário do Douro--área geral",333,41.1367384000001,-8.66247710000003,"Porto, Portugal",-8.6291053,41.1579438,"Portugal","Porto","H",3.65982685226903
+"L1834087","Jackson Park, Chicago--Jackson Park Golf Course",382,41.7756293999996,-87.5832726000006,"Chicago, United States",-87.6297982,41.8781136,"United States","Chicago","H",12.0212216211926
+"L1857862","Perdue Pond Wildlife Area",486,30.4753134000001,-81.6148526999997,"Jacksonville, United States",-81.655651,30.3321838,"United States","Jacksonville","H",16.3443961610071
+"L1860797","United American Cemetery",307,39.1664833,-84.4136973999996,"Cincinnati, United States",-84.5120196,39.1031182,"United States","Cincinnati","H",11.0342869329572
+"L1864984","Eliza Howell Park",346,42.3916496999996,-83.2697544000002,"Detroit, United States",-83.0457538,42.331427,"United States","Detroit","H",19.6283055989145
+"L1871151","Tres Rios Overbank Wetlands (permit required)",981,33.3894020000005,-112.259765299998,"Phoenix, United States",-112.0740373,33.4483771,"United States","Phoenix","H",18.4713255277754
+"L1877656","Pinecraft Park",1193,27.3189745999996,-82.5037765000013,"Sarasota, United States",-82.5306527,27.3364347,"United States","Sarasota","H",3.2890448404907
+"L1887640","Dairy Mart Rd.--south pond (aka ""stick pond"")",322,32.5517127999999,-117.063415199999,"Tijuana, Mexico",-117.0382471,32.5149469,"Mexico","Tijuana","H",4.71313747627376
+"L1889331","Camino al Parque Natural La Estanzuela",332,25.5655468000002,-100.258022599999,"Monterrey, Mexico",-100.3161126,25.6866142,"Mexico","Monterrey","H",14.6260753692671
+"L189035","Liberty SP",1602,40.7025697999998,-74.0493535999995,"New York, United States",-74.0059413,40.7127837,"United States","New York","H",3.83992877201282
+"L189097","FortWhyte Alive",573,49.8201999999993,-97.2249999999991,"Winnipeg, Canada",-97.1383744,49.895136,"Canada","Winnipeg","H",10.4053002990435
+"L1895139","Delta Park West--Columbia Slough Trail",258,45.5952502,-122.7029564,"Portland, United States",-122.6764815,45.5230622,"United States","Portland","H",8.28516628099453
+"L1896576","Dowse Lagoon (Sandgate)",766,-27.3159014999997,153.062258999999,"Brisbane, Australia",153.0251235,-27.4697707,"Australia","Brisbane","H",17.4413385817435
+"L1901783","Clement Park and Johnson Reservoir",293,39.6063312000001,-105.082820299999,"Denver, United States",-104.990251,39.7392358,"United States","Denver","H",16.7579011470909
+"L1902982","Brooklyn Bridge Park",766,40.7017014999993,-73.9962660000003,"New York, United States",-74.0059413,40.7127837,"United States","New York","H",1.47750837035403
+"L190706","Frick Park",580,40.4307000000005,-79.9133999999997,"Pittsburgh, United States",-79.9958864,40.4406248,"United States","Pittsburgh","H",7.08510124706901
+"L191106","Central Park",6405,40.7715481999968,-73.9724819000074,"New York, United States",-74.0059413,40.7127837,"United States","New York","H",7.11138480482562
+"L191107","Central Park--Reservoir",1237,40.7860030000006,-73.9619600000005,"New York, United States",-74.0059413,40.7127837,"United States","New York","H",8.93915707651784
+"L1912153","Rue Higgins, Châteauguay",375,45.3952869999997,-73.7490810000007,"Montreal, Canada",-73.567256,45.5016889,"Canada","Montreal","H",18.4977580097006
+"L1914672","terrenos envolventes de Caneças",292,38.8204762,-9.22324780000005,"Lisbon, Portugal",-9.1393366,38.7222524,"Portugal","Lisbon","H",13.1176526087454
+"L1918109","Maria B. Greenwald/Pennypacker Park",253,39.9064443000001,-75.0263642999999,"Philadelphia, United States",-75.1652215,39.9525839,"United States","Philadelphia","H",12.9281089131015
+"L1929879","South Platte Park--South Platte Reservoir (Arapahoe Co)",703,39.5718387999995,-105.048426399999,"Denver, United States",-104.990251,39.7392358,"United States","Denver","H",19.2446699188601
+"L1933730","Resurrection Cemetery, Toledo",725,41.6353797000003,-83.6821209999995,"Toledo, United States",-83.555212,41.6639383,"United States","Toledo","H",11.037562146709
+"L1955544","Canara Bank Layout",1007,13.0689753000002,77.5780462999986,"Bangalore, India",77.5945627,12.9715987,"India","Bangalore","H",10.9208044765318
+"L195645","Seward Park",258,47.5538089000001,-122.2501301,"Seattle, United States",-122.3320708,47.6062095,"United States","Seattle","H",8.48181712008856
+"L196159","Vancouver--Trout Lake (John Hendry Park)",1294,49.2559580000011,-123.062325000003,"Vancouver, Canada",-123.1207375,49.2827291,"Canada","Vancouver","H",5.18999436161129
+"L196306","Rio Grande Nature Center SP",1889,35.1299999999989,-106.682999999998,"Albuquerque, United States",-106.6055534,35.0853336,"United States","Albuquerque","H",8.62608236843706
+"L1967999","Curzon Road, Dalanwala, Dehradun",321,30.3122598000001,78.0516011,"Dehradun, India",78.0321918,30.3164945,"India","Dehradun","H",1.92492230726779
+"L198791","Hahamongna Watershed Park (formerly Oak Grove Park)",1666,34.193398900001,-118.175833199997,"Los Angeles, United States",-118.2436849,34.0522342,"United States","Los Angeles","H",16.8633736560018
+"L1990251","Pleasure House Point Natural Area",1474,36.9032260000005,-76.0994303000011,"Virginia Beach, United States",-75.977985,36.8529263,"United States","Virginia Beach","H",12.1815059868435
+"L200506","Effie Yeaw Nature Center",441,38.6173314999998,-121.311807600001,"Sacramento, United States",-121.4943996,38.5815719,"United States","Sacramento","H",16.3939308534446
+"L200627","Horseshoe Lake State Park",979,38.7039503000002,-90.072439800001,"St. Louis, United States",-90.1994042,38.6270025,"United States","St. Louis","H",13.9666799595762
+"L200830","A. D. Barnes Park",1525,25.7340827000005,-80.3108552000018,"Miami, United States",-80.1917902,25.7616798,"United States","Miami","H",12.3308725766014
+"L2025478","<U+53F0><U+5317><U+83EF><U+6C5F>IBA--<U+83EF><U+6C5F><U+96C1><U+9D28><U+516C><U+5712>(<U+83EF><U+6C5F><U+6A4B><U+81F3><U+4E2D><U+8208><U+6A4B>)(Huajiang IBA--Huajiang Wild Duck Nature Park (Huajiang to Zhongxing Bridge))",412,25.0385603000001,121.491107900001,"Taipei, China: Taiwan",121.5654177,25.0329694,"China: Taiwan","Taipei","H",7.52493725888641
+"L2034608","Great Miami Wetland Mitigation Bank",570,39.7776718999997,-84.3374062000002,"Dayton, United States",-84.1916069,39.7589478,"United States","Dayton","H",12.6641440797851
+"L2036486","Unity Island (aka Squaw Is.)--North End",262,42.9321075000001,-78.9062976999997,"Buffalo, United States",-78.8783689,42.8864468,"United States","Buffalo","H",5.56162840643256
+"L2036586","Pointe de Maizerets",1077,46.8390880000005,-71.1960840000004,"Quebec, Canada",-71.2079809,46.8138783,"Canada","Quebec","H",2.94584737635509
+"L2041660","Karkarook Park",973,-37.9423192,145.081093300001,"Melbourne, Australia",144.9630576,-37.8136276,"Australia","Melbourne","H",17.6598779331303
+"L2057479","Montrose Harbor, Chicago",494,41.9614366999997,-87.6386045999996,"Chicago, United States",-87.6297982,41.8781136,"United States","Chicago","H",9.28362811721849
+"L207180","Dutch Gap Conservation Area/Henricus Historical Park",753,37.3745950999993,-77.362895600001,"Richmond, United States",-77.4360481,37.5407246,"United States","Richmond","H",19.5410415666771
+"L207348","Belle Isle Marsh Reservation",959,42.3910639,-70.9930194999995,"Boston, United States",-71.0588801,42.3600825,"United States","Boston","H",6.42398110128415
+"L207370","Fresh Pond",1311,42.3830000000011,-71.149999999999,"Boston, United States",-71.0588801,42.3600825,"United States","Boston","H",7.92525829805114
+"L207381","Longmeadow Flats",256,42.0450000000001,-72.6000000000001,"Springfield, United States",-72.589811,42.1014831,"United States","Springfield","H",6.33025254328635
+"L207382","Lynnfield Marsh--IBA",626,42.5279999999995,-71.0509999999996,"Boston, United States",-71.0588801,42.3600825,"United States","Boston","H",18.6638605671493
+"L207386","Middlesex Fells Reservation",399,42.4521798999998,-71.1098195000005,"Boston, United States",-71.0588801,42.3600825,"United States","Boston","H",11.0563822110818
+"L207391","Mt. Auburn Cemetery",3625,42.3710000000014,-71.1460000000023,"Boston, United States",-71.0588801,42.3600825,"United States","Boston","H",7.27823721079576
+"L207424","Boston Nature Center Wildlife Sanctuary",298,42.2883500000002,-71.0999100000005,"Boston, United States",-71.0588801,42.3600825,"United States","Boston","H",8.65606875042377
+"L207425","Broad Meadow Brook Wildlife Sanctuary",321,42.2315699999999,-71.7659099999996,"Worcester, United States",-71.8022934,42.2625932,"United States","Worcester","H",4.57068097006086
+"L2076736","Tommy Thompson Park--Wet Woods",447,43.6498640000002,-79.3231773000005,"Toronto, Canada",-79.3831843,43.653226,"Canada","Toronto","H",4.85540120318026
+"L207674","Amherst SP (formerly Glen Park)",540,42.9703531000002,-78.7483285999994,"Buffalo, United States",-78.8783689,42.8864468,"United States","Buffalo","H",14.1274033603987
+"L207765","Tifft Nature Preserve",1121,42.8462509,-78.8594553000002,"Buffalo, United States",-78.8783689,42.8864468,"United States","Buffalo","H",4.72528323799815
+"L208146","Mission Trails Regional Park--northeast region",463,32.8402394000003,-117.043348300001,"San Diego, United States",-117.1610838,32.715738,"United States","San Diego","H",17.6721994550745
+"L2083060","Baie, Beauport",409,46.8525788000003,-71.1809293000004,"Quebec, Canada",-71.2079809,46.8138783,"Canada","Quebec","H",4.77165290044886
+"L208659","Hiram M. Chittenden Ballard Locks",271,47.6653578999999,-122.3974647,"Seattle, United States",-122.3320708,47.6062095,"United States","Seattle","H",8.20963554284894
+"L208678","Vischer Ferry Nature & Historic Preserve",507,42.7860030999996,-73.802371500001,"Albany, United States",-73.7562317,42.6525793,"United States","Albany","H",15.295945318485
+"L208734","Edith L. Moore Nature Sanctuary (UTC 094)",1362,29.7717944999997,-95.5695571999977,"Houston, United States",-95.3698028,29.7604267,"United States","Houston","H",19.3596448893092
+"L208775","Port Credit--J. C. Saddington Park",427,43.5471294000001,-79.5821225000001,"Toronto, Canada",-79.3831843,43.653226,"Canada","Toronto","H",19.9240198555273
+"L208776","Sharp's Ridge",760,36.0049121000003,-83.9397192999986,"Knoxville, United States",-83.9207392,35.9606384,"United States","Knoxville","H",5.20221452836695
+"L208778","Mississauga--Lakefront Promenade Park",348,43.5648067999996,-79.5580168000005,"Toronto, Canada",-79.3831843,43.653226,"Canada","Toronto","H",17.1965953613779
+"L208918","Sweetwater Wetlands",5214,32.2785490000006,-111.022494999998,"Tucson, United States",-110.926479,32.2217429,"United States","Tucson","H",11.0249652215421
+"L208956","Schlitz Audubon Nature Center",3094,43.1756879000013,-87.8904210999966,"Milwaukee, United States",-87.9064736,43.0389025,"United States","Milwaukee","H",15.2522238938371
+"L209342","Henderson Bird Viewing Preserve",1585,36.0749790999996,-115.002141600001,"Las Vegas, United States",-115.1398296,36.1699412,"United States","Las Vegas","H",16.2687603698508
+"L2095268","Murphey Candler Park",492,33.9102079000003,-84.3223428999996,"Atlanta, United States",-84.3879824,33.7489954,"United States","Atlanta","H",18.8857275955639
+"L209928","Boston Public Garden",834,42.3536409000006,-71.0705434999997,"Boston, United States",-71.0588801,42.3600825,"United States","Boston","H",1.19805057849527
+"L210015","Desert Botanical Garden",1053,33.4618164999995,-111.943634900002,"Phoenix, United States",-112.0740373,33.4483771,"United States","Phoenix","H",12.214865519147
+"L2106520","Calle al sur de El Tizatillo (transecto de 9 kms)",429,13.9757992000001,-87.1901608000001,"Tegucigalpa, Honduras",-87.192136,14.0722751,"Honduras","Tegucigalpa","H",10.6761786996991
+"L2107980","DoubleTree Hotel Pond",324,38.7934296999998,-104.7983694,"Colorado Springs, United States",-104.8213634,38.8338816,"United States","Colorado Springs","H",4.91470169791948
+"L211383","Ottawa--Britannia Conservation Area (Woods)",446,45.3718273000001,-75.7983907999996,"Ottawa, Canada",-75.6971931,45.4215296,"Canada","Ottawa","H",9.65924680530244
+"L211930","Cromwell Valley Park",2065,39.417000000001,-76.5470000000006,"Baltimore, United States",-76.6121893,39.2903848,"United States","Baltimore","H",15.1384957278579
+"L212323","Lee Kay Ponds",1576,40.7397136,-112.043724099999,"Salt Lake City, United States",-111.8910474,40.7607793,"United States","Salt Lake City","H",13.1043397658077
+"L213077","Forest Park",906,38.6389067999996,-90.2853806000003,"St. Louis, United States",-90.1994042,38.6270025,"United States","St. Louis","H",7.60189303905918
+"L213239","Five Rivers EEC",1399,42.6099952000004,-73.8907677999994,"Albany, United States",-73.7562317,42.6525793,"United States","Albany","H",12.0067144678745
+"L2132447","Huffman Prairie Flying Field",383,39.8065084999999,-84.0630591000006,"Dayton, United States",-84.1916069,39.7589478,"United States","Dayton","H",12.2126019505637
+"L2133572","San Antonio--Denman Park",261,29.5098735000001,-98.5596799999996,"San Antonio, United States",-98.4936282,29.4241219,"United States","San Antonio","H",11.4626868986108
+"L2135892","Westerly Creek Park",314,39.7559994999998,-104.8790717,"Denver, United States",-104.990251,39.7392358,"United States","Denver","H",9.70896764222274
+"L214134","Pickerington Ponds",356,39.8866949000002,-82.8006076999993,"Columbus, United States",-82.9987942,39.9611755,"United States","Columbus","H",18.8532174186291
+"L2142833","Acacia Reservation",260,41.5070347000001,-81.4910888999998,"Cleveland, United States",-81.6943605,41.49932,"United States","Cleveland","H",16.9931811620475
+"L2161102","Loring Park",341,44.9694130999998,-93.2855129000009,"Minneapolis, United States",-93.2650108,44.977753,"United States","Minneapolis","H",1.86401685910853
+"L2163488","Hills and Dales MetroPark",374,39.7147138,-84.1834258999996,"Dayton, United States",-84.1916069,39.7589478,"United States","Dayton","H",4.96109775150379
+"L2168247","St. Armands Circle",295,27.3199321000001,-82.5768524000002,"Sarasota, United States",-82.5306527,27.3364347,"United States","Sarasota","H",4.92428015192183
+"L2169184","Jardín Botánico del Instituto de Biología UNAM",296,19.3186821,-99.1934847999993,"Mexico City, Mexico",-99.133208,19.4326077,"Mexico","Mexico City","H",14.111683799169
+"L2170004","River Barge Park",363,40.8076452000001,-74.0572888999996,"New York, United States",-74.0059413,40.7127837,"United States","New York","H",11.3916759703395
+"L2180760","Private estate near Green Mubazzarah",335,24.1198809999998,55.7354909999998,"Al Ain, United Arab Emirates",55.8023118,24.1301619,"United Arab Emirates","Al Ain","H",6.88733669657999
+"L219714","Pitt Street Causeway",999,32.7708558000006,-79.8628964000001,"Charleston, United States",-79.9310512,32.7764749,"United States","Charleston","H",6.41583263762594
+"L2197371","CWA lagoon",257,26.4048773000001,-81.8964779000002,"Cape Coral, United States",-81.9495331,26.5628537,"United States","Cape Coral","H",18.2849523371714
+"L2200229","Parc Brébeuf",270,45.4180539999999,-75.7431577,"Ottawa, Canada",-75.6971931,45.4215296,"Canada","Ottawa","H",3.61827944675913
+"L2200800","Baie Simard",264,45.385922,-75.7966704999999,"Ottawa, Canada",-75.6971931,45.4215296,"Canada","Ottawa","H",8.73597142713445
+"L2205467","Pet Solitera bus stop, Belgrade",854,44.7595561000004,20.4731995000002,"Belgrade, Serbia",20.4489216,44.786568,"Serbia","Belgrade","H",3.56423811137822
+"L2205485","Bajfordova šuma (Byford's Forest), Voždovac",289,44.7655969999998,20.4764128,"Belgrade, Serbia",20.4489216,44.786568,"Serbia","Belgrade","H",3.18842804743186
+"L2205505","Naselje Banjica, Voždovac",385,44.7557667000001,20.4799532999998,"Belgrade, Serbia",20.4489216,44.786568,"Serbia","Belgrade","H",4.21310534588603
+"L2205525","Ada Ciganlija--eastern side",265,44.7910945000002,20.4168034000001,"Belgrade, Serbia",20.4489216,44.786568,"Serbia","Belgrade","H",2.59100047400825
+"L2205740","Lake Crabtree Nature Trail--Southport Entrance",283,35.8332876000002,-78.8107185000005,"Raleigh, United States",-78.6381787,35.7795897,"United States","Raleigh","H",16.6941547059368
+"L2207343","Dorcolski kej--combined eastern and western part",312,44.8300469000001,20.4499984000001,"Belgrade, Serbia",20.4489216,44.786568,"Serbia","Belgrade","H",4.83247542720511
+"L2217792","Cimetière de Laval/Mt. Pleasant",1590,45.6434271999992,-73.6591860000013,"Montreal, Canada",-73.567256,45.5016889,"Canada","Montreal","H",17.3105834845492
+"L224081","Hawk Hill",398,37.8281456000003,-122.499141100001,"San Francisco, United States",-122.4194155,37.7749295,"United States","San Francisco","H",9.1753426618411
+"L225489","CRNRA--Cochran Shoals Unit",841,33.9118817999996,-84.4485999000012,"Atlanta, United States",-84.3879824,33.7489954,"United States","Atlanta","H",18.918547866182
+"L225811","American River Parkway--Ancil Hoffman Park",393,38.6151267999998,-121.309318500001,"Sacramento, United States",-121.4943996,38.5815719,"United States","Sacramento","H",16.54783058205
+"L2261149","Lakefront Reservation--Edgewater Marina",267,41.4943549,-81.7276703999997,"Cleveland, United States",-81.6943605,41.49932,"United States","Cleveland","H",2.83552224844758
+"L226555","Riverside Park (Urban Ecology Center)",640,43.0679668000003,-87.892685899999,"Milwaukee, United States",-87.9064736,43.0389025,"United States","Milwaukee","H",3.41867380213403
+"L227274","Reid Park",1574,32.2102865999991,-110.923590699997,"Tucson, United States",-110.926479,32.2217429,"United States","Tucson","H",1.29924737310543
+"L2281232","Lockheed",310,28.44427,-81.4633700000003,"Orlando, United States",-81.3792365,28.5383355,"United States","Orlando","H",13.2868698311739
+"L2287993","Joe Creason Park",272,38.2104799999999,-85.7060799999999,"Louisville, United States",-85.7584557,38.2526647,"United States","Louisville","H",6.55404961565054
+"L2295109","Lullwater Preserve (Emory President's Estate)",267,33.7981711000001,-84.3170105999998,"Atlanta, United States",-84.3879824,33.7489954,"United States","Atlanta","H",8.54222789492693
+"L2296155","American River Parkway--Spanos Ct. access",552,38.5798652999997,-121.418532700001,"Sacramento, United States",-121.4943996,38.5815719,"United States","Sacramento","H",6.61340089638889
+"L229841","Roger Road WRF (closed 2014)",333,32.2804254000001,-111.025605800001,"Tucson, United States",-110.926479,32.2217429,"United States","Tucson","H",11.3843605757315
+"L230540","Bradford Beach/North Point",840,43.0584549999993,-87.8760850000011,"Milwaukee, United States",-87.9064736,43.0389025,"United States","Milwaukee","H",3.29372854575521
+"L230931","Huntington Botanical Gardens",503,34.1288700999998,-118.114461999999,"Los Angeles, United States",-118.2436849,34.0522342,"United States","Los Angeles","H",14.6451893464603
+"L2314029","<U+53F0><U+5317>--<U+53F0><U+5317><U+690D><U+7269><U+5712>(Taipei--Taipei Botanical Garden)",327,25.0319890999999,121.509346999999,"Taipei, China: Taiwan",121.5654177,25.0329694,"China: Taiwan","Taipei","H",5.6598950999066
+"L2322258","Colorado School of Mines",280,39.7500397000002,-105.222888,"Denver, United States",-104.990251,39.7392358,"United States","Denver","H",19.9756175048384
+"L2323162","Carillon Historical Park",255,39.7319893000002,-84.2008602999997,"Dayton, United States",-84.1916069,39.7589478,"United States","Dayton","H",3.09648855940059
+"L2323838","Sheffield Regional Park",280,30.4687129000001,-81.5630721999998,"Jacksonville, United States",-81.655651,30.3321838,"United States","Jacksonville","H",17.5565180606657
+"L232479","Juanita Bay Park",942,47.6981685999999,-122.210187799999,"Seattle, United States",-122.3320708,47.6062095,"United States","Seattle","H",13.7251248760701
+"L232994","Denver Botanic Gardens and Cheesman Park",507,39.7318118999999,-104.963550599999,"Denver, United States",-104.990251,39.7392358,"United States","Denver","H",2.43272104477708
+"L2334657","Stanley Park--Lost Lagoon",699,49.2966815000002,-123.141202900001,"Vancouver, Canada",-123.1207375,49.2827291,"Canada","Vancouver","H",2.15042335776635
+"L233548","Point La Jolla--seawatch",871,32.8509297999998,-117.273523199999,"San Diego, United States",-117.1610838,32.715738,"United States","San Diego","H",18.3231733978995
+"L233664","Rocky River Park",268,41.4875392,-81.8464779999997,"Cleveland, United States",-81.6943605,41.49932,"United States","Cleveland","H",12.7697190237292
+"L2340416","Lincoln Park, Chicago--Marovitz Golf Course",374,41.9572040999997,-87.6425958,"Chicago, United States",-87.6297982,41.8781136,"United States","Chicago","H",8.84863457105301
+"L234146","Celery Fields",2293,27.3282172999988,-82.434024799996,"Sarasota, United States",-82.5306527,27.3364347,"United States","Sarasota","H",9.605692266884
+"L2341719","Golden Gate Park--Big Rec Ball Fields",691,37.7681449999993,-122.465565199998,"San Francisco, United States",-122.4194155,37.7749295,"United States","San Francisco","H",4.13512734557473
+"L2345696","Vina Vieja Park",536,34.1574452999997,-118.086335200001,"Los Angeles, United States",-118.2436849,34.0522342,"United States","Los Angeles","H",18.6278330533649
+"L2347037","Kumbartcho Sanctuary",270,-27.3475453000001,152.9423583,"Brisbane, Australia",153.0251235,-27.4697707,"Australia","Brisbane","H",15.8249070250708
+"L234718","Lake Murray",346,32.7867855999999,-117.0431489,"San Diego, United States",-117.1610838,32.715738,"United States","San Diego","H",13.5732443215453
+"L2348198","Wildlife Institute of India Campus",935,30.2824949999997,77.9735059000003,"Dehradun, India",78.0321918,30.3164945,"India","Dehradun","H",6.78789886439649
+"L2348679","National Park--Dredge Spoils",471,39.8636512999999,-75.1887882000004,"Philadelphia, United States",-75.1652215,39.9525839,"United States","Philadelphia","H",10.0779664627593
+"L2351134","Marston Reservoir Complex--Marston Reservoir West End",430,39.6324483999998,-105.079979900001,"Denver, United States",-104.990251,39.7392358,"United States","Denver","H",14.1359060004632
+"L235257","South Platte River--88th Ave. area",379,39.8557781,-104.9389493,"Denver, United States",-104.990251,39.7392358,"United States","Denver","H",13.6653939695687
+"L235486","Tecolote Canyon Natural Park",581,32.7751237999998,-117.189001500001,"San Diego, United States",-117.1610838,32.715738,"United States","San Diego","H",7.08658765876169
+"L2379405","Battelle Darby Creek Metro Park--Kuhlwein Rd. Wetlands South",417,39.9282208000003,-83.2063292999996,"Columbus, United States",-82.9987942,39.9611755,"United States","Columbus","H",18.1100112024543
+"L2382129","Dolphin Mall",408,25.7835849999999,-80.3782081999998,"Miami, United States",-80.1917902,25.7616798,"United States","Miami","H",18.8563336199854
+"L2387909","Zakher Lake",395,24.0878391,55.6278241,"Al Ain, United Arab Emirates",55.8023118,24.1301619,"United Arab Emirates","Al Ain","H",18.3483546476711
+"L2389286","Rue Horatio Walker, Ste-Pétronille",732,46.8508513000005,-71.1413937999991,"Quebec, Canada",-71.2079809,46.8138783,"Canada","Quebec","H",6.53466274646888
+"L2390329","Calgary--Union Cemetery",345,51.0292262000002,-114.056848,"Calgary, Canada",-114.0708459,51.0486151,"Canada","Calgary","H",2.36992810849819
+"L2402250","MLK Jr. Regional Shoreline",330,37.7392951999997,-122.209339100001,"San Francisco, United States",-122.4194155,37.7749295,"United States","San Francisco","H",18.9300024200061
+"L2407941","Valley School",474,12.8536944,77.5094715999997,"Bangalore, India",77.5945627,12.9715987,"India","Bangalore","H",15.9815849751836
+"L241743","Fort Rosecrans National Cemetery",1528,32.6858199999993,-117.244993200002,"San Diego, United States",-117.1610838,32.715738,"United States","San Diego","H",8.53892259740278
+"L241804","Russ Pittman Park (Bellaire) (UTC 092)",1241,29.6995224999994,-95.4516546999981,"Houston, United States",-95.3698028,29.7604267,"United States","Houston","H",10.4060565546934
+"L242207","Masonville Cove",361,39.2444443999998,-76.5944444000005,"Baltimore, United States",-76.6121893,39.2903848,"United States","Baltimore","H",5.32526755529531
+"L2423815","Parc régional de la Pointe-De la Martinière",274,46.8282620000003,-71.1072779999998,"Quebec, Canada",-71.2079809,46.8138783,"Canada","Quebec","H",7.84918647188271
+"L2438992","Märchenwiese Leipzig",288,51.3058063000003,12.3963653999999,"Leipzig, Germany",12.3730747,51.3396955,"Germany","Leipzig","H",4.10504202767777
+"L2440695","Steelworkers Park (#523, including IL portion of breakwater and Lake Michigan)",360,41.7394891999998,-87.5297499000005,"Chicago, United States",-87.6297982,41.8781136,"United States","Chicago","H",17.4981729053682
+"L2445748","Yung Shue O",403,22.4272146000001,114.2938453,"Hong Kong, China: Hong Kong SAR",114.109497,22.396428,"China: Hong Kong SAR","Hong Kong","H",19.2844834116181
+"L245447","Fort Lowell Park and Pantano Wash",599,32.2605631000003,-110.872762799999,"Tucson, United States",-110.926479,32.2217429,"United States","Tucson","H",6.64530922128937
+"L246035","Famosa Slough",1007,32.7509578999998,-117.228116600002,"San Diego, United States",-117.1610838,32.715738,"United States","San Diego","H",7.39828055049904
+"L246727","Anzalduas Park (LTC 068)",1895,26.138410500001,-98.3327865999986,"Reynosa, Mexico",-98.2978951,26.0508406,"Mexico","Reynosa","H",10.3106055241183
+"L2468319","Parc Angrignon",455,45.4445135999998,-73.6017310999997,"Montreal, Canada",-73.567256,45.5016889,"Canada","Montreal","H",6.90269667460102
+"L246858","Parque Ecológico de Xochimilco",256,19.2919773,-99.0963364000006,"Mexico City, Mexico",-99.133208,19.4326077,"Mexico","Mexico City","H",16.0420289223681
+"L2468828","Tufts University",703,42.4043034999997,-71.1182087999992,"Boston, United States",-71.0588801,42.3600825,"United States","Boston","H",6.92826012595379
+"L247053","Tualatin Hills Nature Park",347,45.5006923000001,-122.8423405,"Portland, United States",-122.6764815,45.5230622,"United States","Portland","H",13.1968041213778
+"L247085","Dairy Mart Rd.--sod farms",342,32.5492399,-117.0589399,"Tijuana, Mexico",-117.0382471,32.5149469,"Mexico","Tijuana","H",4.27100311754602
+"L2471625","Palmer Lake",308,27.3135761000001,-82.3976111000002,"Sarasota, United States",-82.5306527,27.3364347,"United States","Sarasota","H",13.4082729490743
+"L247197","John Heinz NWR--wetlands (Delaware Co.)",411,39.8757573000002,-75.2945637999992,"Philadelphia, United States",-75.1652215,39.9525839,"United States","Philadelphia","H",13.9665301680495
+"L247929","Presidio--Crissy Field",372,37.8041272999999,-122.464263299999,"San Francisco, United States",-122.4194155,37.7749295,"United States","San Francisco","H",5.10954334080593
+"L247968","San Bruno Mountain Park",293,37.6990544,-122.4356181,"San Francisco, United States",-122.4194155,37.7749295,"United States","San Francisco","H",8.54173418186629
+"L248222","Olmsted Park--Leverett Pond",602,42.3287148999998,-71.114128599999,"Boston, United States",-71.0588801,42.3600825,"United States","Boston","H",5.73295174740785
+"L248372","Eastwood MetroPark",580,39.7829568000003,-84.1329392999997,"Dayton, United States",-84.1916069,39.7589478,"United States","Dayton","H",5.68966653927997
+"L248470","Vancouver--Jericho Park",694,49.2715915000006,-123.194376900001,"Vancouver, Canada",-123.1207375,49.2827291,"Canada","Vancouver","H",5.49967093293768
+"L248960","Aullwood Audubon Center",255,39.8757384,-84.2739675999997,"Dayton, United States",-84.1916069,39.7589478,"United States","Dayton","H",14.7607958350163
+"L2498310","Yolo Bypass Wildlife Area--Auto Tour Route",414,38.5483667999998,-121.626634599999,"Sacramento, United States",-121.4943996,38.5815719,"United States","Sacramento","H",12.0999545193012
+"L249887","Quinta Mazatlan WBC (LTC 063)",1683,26.1764799999999,-98.2294093999976,"McAllen, United States",-98.2300124,26.2034071,"United States","McAllen","H",2.98388673093221
+"L249889","Edinburg Scenic Wetlands WBC (LTC 061)",1907,26.2905822000007,-98.1351909000001,"McAllen, United States",-98.2300124,26.2034071,"United States","McAllen","H",13.5287550918254
+"L250145","Sam Lena Park and KERP",918,32.1811999999998,-110.932000000001,"Tucson, United States",-110.926479,32.2217429,"United States","Tucson","H",4.52585204027441
+"L2501522","stakeout Burrowing Owls, Lisa Frank Ave. (2012-2015)",432,32.1278333999999,-110.922330000001,"Tucson, United States",-110.926479,32.2217429,"United States","Tucson","H",10.4209618748902
+"L2509177","Westside Industrial Park",343,30.3740230000002,-81.7898762000004,"Jacksonville, United States",-81.655651,30.3321838,"United States","Jacksonville","H",13.7130183408598
+"L250958","Lakeside Park",721,32.1861205999997,-110.816226299999,"Tucson, United States",-110.926479,32.2217429,"United States","Tucson","H",11.1202443426312
+"L251003","Horn Pond Recreation Area",1231,42.4680852000002,-71.158239600001,"Boston, United States",-71.0588801,42.3600825,"United States","Boston","H",14.5195237672408
+"L251012","Kendall-- Baptist Hospital Area",773,25.6876499999999,-80.3386400000013,"Miami, United States",-80.1917902,25.7616798,"United States","Miami","H",16.8648113040349
+"L2514993","Vellayani - Punchakkari Paddy fields",350,8.44817670000005,76.9793128999999,"Thiruvananthapuram, India",76.9366376,8.5241391,"India","Thiruvananthapuram","H",9.62611717994369
+"L251651","Meadowlands IBA--Valley Brook Ave.",310,40.7931649999997,-74.0943718000004,"New York, United States",-74.0059413,40.7127837,"United States","New York","H",11.6381587215845
+"L2517351","Kole Wetlands--Adat",273,10.5363390000001,76.1277579999999,"Thrissur, India",76.2144349,10.5276416,"India","Thrissur","H",9.53598664826119
+"L2519055","Jawbone Flora and Fauna Reserve",266,-37.860833,144.875,"Melbourne, Australia",144.9630576,-37.8136276,"Australia","Melbourne","H",9.35607291974742
+"L252263","Havenwoods SF",314,43.1282499999999,-87.9714600000004,"Milwaukee, United States",-87.9064736,43.0389025,"United States","Milwaukee","H",11.2485277309149
+"L2524505","Berge du Vieux-Moulin",344,45.6662567999997,-73.5708261,"Montreal, Canada",-73.567256,45.5016889,"Canada","Montreal","H",18.2927232578702
+"L2525709","GKVK Campus, Bangalore",704,13.0857317999999,77.5713300999997,"Bangalore, India",77.5945627,12.9715987,"India","Bangalore","H",12.8756595263492
+"L252795","Powell Butte Nature Park",552,45.4870000000001,-122.502999999999,"Portland, United States",-122.6764815,45.5230622,"United States","Portland","H",14.1377935806241
+"L2530954","Pallikaranai Marshland (<U+0BAA><U+0BB3><U+0BCD><U+0BB3><U+0BBF><U+0B95><U+0BCD><U+0B95><U+0BB0><U+0BA3><U+0BC8> <U+0B9A><U+0BA4><U+0BC1><U+0BAA><U+0BCD><U+0BAA><U+0BC1> <U+0BA8><U+0BBF><U+0BB2><U+0BAE><U+0BCD>)",251,12.9550443,80.2222537999999,"Chennai, India",80.2707184,13.0826802,"India","Chennai","H",15.067375135895
+"L2531682","Huntingdale Wetlands",381,-37.8930700000001,145.108619999999,"Melbourne, Australia",144.9630576,-37.8136276,"Australia","Melbourne","H",15.5518342065133
+"L2531687","Stanley Ave Reserve, Mt Waverley",260,-37.8917799999999,145.11626,"Melbourne, Australia",144.9630576,-37.8136276,"Australia","Melbourne","H",16.0323784008977
+"L253234","Lake Park--general",1087,43.0710450999997,-87.869402700001,"Milwaukee, United States",-87.9064736,43.0389025,"United States","Milwaukee","H",4.6767438894296
+"L253477","Clyde Shepherd Nature Preserve",1093,33.8062778999999,-84.2842999999994,"Atlanta, United States",-84.3879824,33.7489954,"United States","Atlanta","H",11.5151061531789
+"L253857","Alcatraz Island",291,37.8259410999999,-122.422198,"San Francisco, United States",-122.4194155,37.7749295,"United States","San Francisco","H",5.66721605172305
+"L2549194","Lantrak Quarry, Heatherton (restricted access)",327,-37.9506000000001,145.101799999999,"Melbourne, Australia",144.9630576,-37.8136276,"Australia","Melbourne","H",19.4964454398103
+"L2556412","M&M Dairy",490,30.4508888,-81.5630391000007,"Jacksonville, United States",-81.655651,30.3321838,"United States","Jacksonville","H",15.8868437250653
+"L256089","Firehouse Woods",383,43.2905919999998,-77.6757646000004,"Rochester, United States",-77.6109219,43.16103,"United States","Rochester","H",15.3276667803951
+"L2575534","Indian Institute of Technology (IIT) Madras",767,12.9934334000001,80.2380896000013,"Chennai, India",80.2707184,13.0826802,"India","Chennai","H",10.4886021767559
+"L2578688","Scranton Flats",313,41.4911372000001,-81.6940676999996,"Cleveland, United States",-81.6943605,41.49932,"United States","Cleveland","H",0.909139163107163
+"L2597324","Mélézin (historique - accès interdit)",270,46.8784990000002,-71.2223911000001,"Quebec, Canada",-71.2079809,46.8138783,"Canada","Quebec","H",7.26734099017071
+"L2604129","Kannankurichi (Mookaneri) Lake, Salem",474,11.6875401,78.1803417,"Salem, India",78.1460142,11.664325,"India","Salem","H",4.53906832714059
+"L2604813","Harriman Lake Park",559,39.6363496999997,-105.1162004,"Denver, United States",-104.990251,39.7392358,"United States","Denver","H",15.7232602711245
+"L2609314","Indian Institute of Science (IISc) Campus",469,13.0212203000001,77.5708364999997,"Bangalore, India",77.5945627,12.9715987,"India","Bangalore","H",6.06314111254313
+"L261851","Iona Island (general)",1663,49.2213298999996,-123.211099700004,"Vancouver, Canada",-123.1207375,49.2827291,"Canada","Vancouver","H",9.48184602296881
+"L2620642","Jawaharlal Nehru University (JNU) Campus",595,28.5413298999997,77.1594071,"Delhi, India",77.1024902,28.7040592,"India","Delhi","H",18.8745524239031
+"L262836","Austin--Northwest Hills",337,30.3600972999999,-97.7662673000006,"Austin, United States",-97.7430608,30.267153,"United States","Austin","H",10.5425830366808
+"L2637918","Rajiv Gandhi Nagar, Bangalore",463,13.0705283,77.5829601000003,"Bangalore, India",77.5945627,12.9715987,"India","Bangalore","H",11.0167771926659
+"L2637931","Soor Sarovar Bird Sanctuary",269,27.2534087000001,77.8422546000001,"Agra, India",78.0080745,27.1766701,"India","Agra","H",18.4973114133545
+"L265942","Jackson Park, Chicago",571,41.7812010000004,-87.5813341000007,"Chicago, United States",-87.6297982,41.8781136,"United States","Chicago","H",11.4923415150036
+"L267156","Christopher Columbus Park",810,32.2856814000004,-111.0346556,"Tucson, United States",-110.926479,32.2217429,"United States","Tucson","H",12.4170325400822
+"L267189","Crosby Farm Regional Park",572,44.9011069000005,-93.1539190999992,"Minneapolis, United States",-93.2650108,44.977753,"United States","Minneapolis","H",12.2244579286965
+"L2676130","GKVK Campus--Botanic Garden, Bangalore",414,13.0802174999999,77.5750743999998,"Bangalore, India",77.5945627,12.9715987,"India","Bangalore","H",12.2011027264582
+"L267671","Calgary--Weaselhead Natural Area",897,50.9904591000008,-114.146397699999,"Calgary, Canada",-114.0708459,51.0486151,"Canada","Calgary","H",8.36433663369256
+"L267805","Ensley Bottoms--Maxson Wastewater Lagoons (The Pits)/Earth Complex",597,35.0595799999999,-90.1410198000008,"Memphis, United States",-90.0489801,35.1495343,"United States","Memphis","H",13.0388501751501
+"L2678116","Kalamassery--HMT Estate Area",464,10.0517897999999,76.3393700000007,"Kochi, India",76.2673041,9.9312328,"India","Kochi","H",15.4997710049064
+"L268122","Lake Merritt",540,37.8035450999997,-122.256717700001,"San Francisco, United States",-122.4194155,37.7749295,"United States","San Francisco","H",14.6786838778496
+"L268126","River Lane",267,40.1662735000002,-111.737139000001,"Provo, United States",-111.6585337,40.2338438,"United States","Provo","H",10.0541951279005
+"L268263","James River Park--42nd St",283,37.5240932999999,-77.4749851000002,"Richmond, United States",-77.4360481,37.5407246,"United States","Richmond","H",3.90530153732441
+"L268530","Tower Grove Park",713,38.6066357999997,-90.2582139000005,"St. Louis, United States",-90.1994042,38.6270025,"United States","St. Louis","H",5.59863730805792
+"L269461","Magnuson Park",2346,47.6815336,-122.250545299998,"Seattle, United States",-122.3320708,47.6062095,"United States","Seattle","H",10.3759483778357
+"L2698117","Austin--MetCenter Disc Golf Course",310,30.2038197999999,-97.7057505000004,"Austin, United States",-97.7430608,30.267153,"United States","Austin","H",7.88613278596711
+"L270177","Fort Washington SP--Militia Hill",775,40.1206219999995,-75.2225380000013,"Philadelphia, United States",-75.1652215,39.9525839,"United States","Philadelphia","H",19.288791017197
+"L270564","Crescent Power Plant",442,42.8052177999998,-73.7234753999992,"Albany, United States",-73.7562317,42.6525793,"United States","Albany","H",17.1671289305367
+"L270567","White Rock Lake & Old Fish Hatchery (PPW-W 086)",1398,32.8156276000007,-96.7264652000006,"Dallas, United States",-96.7969879,32.7766642,"United States","Dallas","H",7.89346408494716
+"L2708499","Byron Lake (SW of 68th & Burlingame)",270,42.8403529000001,-85.7048178000004,"Grand Rapids, United States",-85.6680863,42.9633599,"United States","Grand Rapids","H",13.9903583716526
+"L271279","Schenley Park",284,40.4353843000002,-79.9402845000003,"Pittsburgh, United States",-79.9958864,40.4406248,"United States","Pittsburgh","H",4.75333956242504
+"L271501","Falls of the Ohio National Wildlife Conservation Area (KY)",681,38.2733354000002,-85.7657962000008,"Louisville, United States",-85.7584557,38.2526647,"United States","Louisville","H",2.38271658028897
+"L2715036","Nature Refuge Hawkesbury Road",261,-27.5310310000002,152.866644900001,"Brisbane, Australia",153.0251235,-27.4697707,"Australia","Brisbane","H",17.067603809521
+"L271518","Falls of the Ohio (IN)",421,38.2735599999997,-85.7602799999997,"Louisville, United States",-85.7584557,38.2526647,"United States","Louisville","H",2.32489746238761
+"L2717813","Blendon Woods Metro Park--Thoreau Pond",328,40.0742188999998,-82.8705274999996,"Columbus, United States",-82.9987942,39.9611755,"United States","Columbus","H",16.6570464098019
+"L2723411","Eastwood MetroPark--Eastwood Lake",552,39.7869183000002,-84.1361332000009,"Dayton, United States",-84.1916069,39.7589478,"United States","Dayton","H",5.67744369265916
+"L272736","Kennedy Park",1785,32.1805717000008,-111.007413599997,"Tucson, United States",-110.926479,32.2217429,"United States","Tucson","H",8.89247709511286
+"L2734840","Baum's Lake",295,35.9261974000001,-84.0117967000003,"Knoxville, United States",-83.9207392,35.9606384,"United States","Knoxville","H",9.0612116645075
+"L273495","Stanton Pond",298,42.5094164000002,-73.9012973,"Albany, United States",-73.7562317,42.6525793,"United States","Albany","H",19.8678583615998
+"L2745443","Saylorville Reservoir--dam pullouts",283,41.7038702000003,-93.6826086000001,"Des Moines, United States",-93.6091064,41.6005448,"United States","Des Moines","H",13.00717502482
+"L274774","Forest Park",527,40.7013226000004,-73.8513367999993,"New York, United States",-74.0059413,40.7127837,"United States","New York","H",13.1269430766548
+"L275138","Muir Woods NM",334,37.892151,-122.5694604,"San Francisco, United States",-122.4194155,37.7749295,"United States","San Francisco","H",18.5404023282649
+"L275336","Doctors Park (Fox Point)",292,43.1684874999998,-87.8832041999997,"Milwaukee, United States",-87.9064736,43.0389025,"United States","Milwaukee","H",14.5202970459086
+"L275577","Belle Isle",515,42.3400860000001,-82.9775443999996,"Detroit, United States",-83.0457538,42.331427,"United States","Detroit","H",5.70308911619173
+"L2756926","Lyndale Rd, Pullenvale",327,-27.5150000000001,152.8883333,"Brisbane, Australia",153.0251235,-27.4697707,"Australia","Brisbane","H",14.4166942021608
+"L275701","Stanley Park, Vancouver",654,49.3029687999995,-123.1432629,"Vancouver, Canada",-123.1207375,49.2827291,"Canada","Vancouver","H",2.78418040397257
+"L275794","Summerville Pier",323,43.2565900000003,-77.6021499999998,"Rochester, United States",-77.6109219,43.16103,"United States","Rochester","H",10.6403158269021
+"L275836","Vancouver--Queen Elizabeth Park",871,49.2419436999995,-123.112205900001,"Vancouver, Canada",-123.1207375,49.2827291,"Canada","Vancouver","H",4.57825121928913
+"L276257","Tualatin Valley Academy--Bird Blind",1366,45.5177477999987,-122.902653500001,"Portland, United States",-122.6764815,45.5230622,"United States","Portland","H",17.6806420842195
+"L2762915","Santa Clara",291,-25.2941666999998,-57.6331666999999,"Asuncion, Paraguay",-57.575926,-25.2637399,"Paraguay","Asuncion","H",6.67832447744531
+"L276635","Kletzsch Park",329,43.1401463000002,-87.9264590999994,"Milwaukee, United States",-87.9064736,43.0389025,"United States","Milwaukee","H",11.3647315767842
+"L2775370","Kettle Lakes",263,38.9631461999999,-104.81148,"Colorado Springs, United States",-104.8213634,38.8338816,"United States","Colorado Springs","H",14.3757120378017
+"L277539","South Platte Park",448,39.5799337000002,-105.031804099999,"Denver, United States",-104.990251,39.7392358,"United States","Denver","H",18.0428981853062
+"L2777415","SGPGI campus, Lucknow",621,26.7520103000002,80.9334682999997,"Lucknow, India",80.946166,26.8466937,"India","Lucknow","H",10.5666531060993
+"L277988","Central Park--The Ravine (incl. The Loch)",283,40.7949559999998,-73.9572221999999,"New York, United States",-74.0059413,40.7127837,"United States","New York","H",10.0097583141121
+"L278127","Central Park--Harlem Meer",302,40.7971185000001,-73.9523133000002,"New York, United States",-74.0059413,40.7127837,"United States","New York","H",10.4027822449093
+"L2789585","NM State Land Office - bosque south",284,34.9681946,-106.6847992,"Albuquerque, United States",-106.6055534,35.0853336,"United States","Albuquerque","H",14.8722309596191
+"L279420","Red Bank Battlefield Park",323,39.8690540000001,-75.1909979000002,"Philadelphia, United States",-75.1652215,39.9525839,"United States","Philadelphia","H",9.53285203338268
+"L279421","Riverwinds",291,39.8608105000002,-75.2064076999996,"Philadelphia, United States",-75.1652215,39.9525839,"United States","Philadelphia","H",10.7813058062785
+"L279423","Big Timber Creek--River Dr.",317,39.8769580999998,-75.1317215000005,"Philadelphia, United States",-75.1652215,39.9525839,"United States","Philadelphia","H",8.87202528314207
+"L2796260","Changaram Wetlands -- Ezhupunna",2259,9.79944130000021,76.2885140000033,"Cherthala, India",76.3365377,9.6836368,"India","Cherthala","H",13.8502284010851
+"L280327","Tohono Chul Park",348,32.3393130000002,-110.9812742,"Tucson, United States",-110.926479,32.2217429,"United States","Tucson","H",14.0222466728913
+"L280562","Cabrillo NM",306,32.6736536999999,-117.2411588,"San Diego, United States",-117.1610838,32.715738,"United States","San Diego","H",8.8411516435895
+"L2807001","Woodman Fen",708,39.7306766000001,-84.1260480999994,"Dayton, United States",-84.1916069,39.7589478,"United States","Dayton","H",6.43640278370238
+"L280707","Fort Tilden",314,40.5632807000001,-73.8833118000002,"New York, United States",-74.0059413,40.7127837,"United States","New York","H",19.5763791714784
+"L280992","East Bay Golf Course",322,40.2048371000001,-111.6487312,"Provo, United States",-111.6585337,40.2338438,"United States","Provo","H",3.32719285313243
+"L281493","Lakefront Reservation--East 72nd St.",423,41.5382308000003,-81.6408602000004,"Cleveland, United States",-81.6943605,41.49932,"United States","Cleveland","H",6.21444280666724
+"L281767","Morris Arboretum",275,40.0881219999999,-75.2222626999999,"Philadelphia, United States",-75.1652215,39.9525839,"United States","Philadelphia","H",15.8176780226543
+"L281846","The Lakes at Castle Rock",636,32.2491071000003,-110.793304600001,"Tucson, United States",-110.926479,32.2217429,"United States","Tucson","H",12.9133909329383
+"L282140","Rio Salado Project",324,33.42175,-112.0733,"Phoenix, United States",-112.0740373,33.4483771,"United States","Phoenix","H",2.95406664801811
+"L282505","Cowan's Ford Wildlife Refuge",595,35.3714422000001,-80.9744293999995,"Charlotte, United States",-80.8431267,35.2270869,"United States","Charlotte","H",19.9781408719315
+"L2829416","Aluva--Elookkara(Madirath Padam)",276,10.0988814,76.3289522999998,"Kochi, India",76.2673041,9.9312328,"India","Kochi","H",19.7365913435396
+"L283255","Utah Lake SP",341,40.2367207999997,-111.7394114,"Provo, United States",-111.6585337,40.2338438,"United States","Provo","H",6.89010595421666
+"L283821","Cedar River mouth",564,47.5007162000001,-122.214601200001,"Seattle, United States",-122.3320708,47.6062095,"United States","Seattle","H",14.6881275637565
+"L284469","Grant Park--general",359,42.9180156000002,-87.8436497000002,"Milwaukee, United States",-87.9064736,43.0389025,"United States","Milwaukee","H",14.3741046693905
+"L284583","Burke Lakefront Airport",352,41.5204326000002,-81.6715215000003,"Cleveland, United States",-81.6943605,41.49932,"United States","Cleveland","H",3.02220515781031
+"L284586","Wendy Park, Whiskey Island",1770,41.4991725,-81.7146913000025,"Cleveland, United States",-81.6943605,41.49932,"United States","Cleveland","H",1.69764262780412
+"L285056","Rudee Inlet",666,36.8301079999995,-75.9694423999994,"Virginia Beach, United States",-75.977985,36.8529263,"United States","Virginia Beach","H",2.64440920215529
+"L285192","Deer Lake Park",356,49.2376833,-122.967857700001,"Vancouver, Canada",-123.1207375,49.2827291,"Canada","Vancouver","H",12.2037786990156
+"L285222","Toronto--Ashbridge's Bay Park",658,43.6599860999997,-79.3093552999999,"Toronto, Canada",-79.3831843,43.653226,"Canada","Toronto","H",6.00276310763488
+"L285225","Toronto--Humber Bay Park (West)",279,43.6163997000002,-79.4777574,"Toronto, Canada",-79.3831843,43.653226,"Canada","Toronto","H",8.65934341346273
+"L285281","Cesar Chavez Park",291,37.8709227,-122.3150389,"San Francisco, United States",-122.4194155,37.7749295,"United States","San Francisco","H",14.0701762879631
+"L285760","Kapiolani Park",317,21.2710538000001,-157.821587799999,"Honolulu, United States",-157.8583333,21.3069444,"United States","Honolulu","H",5.50732801190277
+"L285884","Green-Wood Cemetery, Brooklyn",1648,40.6523082999995,-73.9904281000022,"New York, United States",-74.0059413,40.7127837,"United States","New York","H",6.84251180423098
+"L286185","South Shore Yacht Club/South Shore Park",620,42.9971753999998,-87.8829057999992,"Milwaukee, United States",-87.9064736,43.0389025,"United States","Milwaukee","H",5.01793230456822
+"L286815","Englewood MetroPark",978,39.8818481000003,-84.2919355000003,"Dayton, United States",-84.1916069,39.7589478,"United States","Dayton","H",16.1242781909586
+"L2875912","Parque Rufino Tamayo",261,25.6443505999999,-100.3285217,"Monterrey, Mexico",-100.3161126,25.6866142,"Mexico","Monterrey","H",4.84500734886105
+"L288134","Camosun Bog",268,49.2562586999998,-123.197285099999,"Vancouver, Canada",-123.1207375,49.2827291,"Canada","Vancouver","H",6.30086245496177
+"L288287","Lake Temescal",528,37.8467335999997,-122.230377499998,"San Francisco, United States",-122.4194155,37.7749295,"United States","San Francisco","H",18.4557227904415
+"L2886356","Reva--Reva Lake (IBA podrucje Ušce Save u Dunav)",311,44.8474958999997,20.5332884999999,"Belgrade, Serbia",20.4489216,44.786568,"Serbia","Belgrade","H",9.50659880341523
+"L288784","West Creek Reservation",697,41.3905512999998,-81.6974044000012,"Cleveland, United States",-81.6943605,41.49932,"United States","Cleveland","H",12.0828034909923
+"L2889249","Dixie Woods",292,43.6194968,-79.5999813000004,"Toronto, Canada",-79.3831843,43.653226,"Canada","Toronto","H",17.8911816903743
+"L288997","Battelle Darby Creek Metro Park",356,39.8963160000002,-83.2027901000001,"Columbus, United States",-82.9987942,39.9611755,"United States","Columbus","H",18.8666169289801
+"L290351","New York Botanical Garden",323,40.8626638999999,-73.8765138999998,"New York, United States",-74.0059413,40.7127837,"United States","New York","H",19.9089807490672
+"L2907146","Xandari Resort & Spa",434,10.0570407,-84.2116223000002,"San Jose, Costa Rica",-84.0907246,9.9280694,"Costa Rica","San Jose","H",19.4731446502364
+"L290964","Wagner College",1326,40.6147714000013,-74.0951859000012,"New York, United States",-74.0059413,40.7127837,"United States","New York","H",13.2443726329435
+"L291976","Sutro Heights--Baths / Land's End",373,37.7813659000002,-122.5116134,"San Francisco, United States",-122.4194155,37.7749295,"United States","San Francisco","H",8.1536591678619
+"L2921290","Etang de rétention Jean-Gauvin",315,46.8073122999999,-71.4324938999999,"Quebec, Canada",-71.2079809,46.8138783,"Canada","Quebec","H",17.1513425168737
+"L2921580","Applewood Hills Park north",483,43.6139753,-79.6005902000003,"Toronto, Canada",-79.3831843,43.653226,"Canada","Toronto","H",18.0781184735727
+"L2921596","Applewood Hills Park south",521,43.6113431999997,-79.5937048999992,"Toronto, Canada",-79.3831843,43.653226,"Canada","Toronto","H",17.6147551426136
+"L293051","Braddock Bay--West Spit",418,43.3191364,-77.7141093999999,"Rochester, United States",-77.6109219,43.16103,"United States","Rochester","H",19.4622868543512
+"L294049","Viejo San Juan",355,18.4673759999999,-66.1169114000003,"San Juan, US: Puerto Rico",-66.106243,18.416193,"US: Puerto Rico","San Juan","H",5.77622433074558
+"L294151","Calgary--Carburn Park",916,50.9747222000004,-114.033888899999,"Calgary, Canada",-114.0708459,51.0486151,"Canada","Calgary","H",8.61992957597362
+"L2943792","Onion Creek Greenway--Barkley Meadows",358,30.1865230000002,-97.6260680000004,"Austin, United States",-97.7430608,30.267153,"United States","Austin","H",14.3783319893592
+"L294426","Northerly Island, Chicago",310,41.8596139000001,-87.6085683999999,"Chicago, United States",-87.6297982,41.8781136,"United States","Chicago","H",2.70712935588136
+"L2951581","Instituto Butantan",374,-23.5667407000001,-46.7186844000002,"Sao Paulo, Brazil",-46.6333094,-23.5505199,"Brazil","Sao Paulo","H",8.89963329439202
+"L2960422","Applewood Heights Park",498,43.6065909999998,-79.5932007000005,"Toronto, Canada",-79.3831843,43.653226,"Canada","Toronto","H",17.723262319355
+"L296336","Ruffner Mountain Nature Preserve",369,33.5586903000002,-86.7074615999998,"Birmingham, United States",-86.80249,33.5206608,"United States","Birmingham","H",9.78234478603107
+"L297236","Burnaby Lake Regional Park (general)",367,49.2429874000004,-122.944049799999,"Vancouver, Canada",-123.1207375,49.2827291,"Canada","Vancouver","H",13.5986985034811
+"L297713","Greenfield Park",599,43.0052271999996,-88.0618501999998,"Milwaukee, United States",-87.9064736,43.0389025,"United States","Milwaukee","H",13.2060048747723
+"L297912","Brooklyn Botanic Garden",328,40.6680222,-73.9636700000001,"New York, United States",-74.0059413,40.7127837,"United States","New York","H",6.12164767893429
+"L298015","Old Cedar Ave. Bridge",1183,44.8306235999994,-93.2436534000007,"Minneapolis, United States",-93.2650108,44.977753,"United States","Minneapolis","H",16.4372519693346
+"L298030","Carkeek Park",359,47.7126411000003,-122.377647000001,"Seattle, United States",-122.3320708,47.6062095,"United States","Seattle","H",12.3187188815225
+"L298164","Armleder Park",1430,39.1231188000004,-84.4059350000017,"Cincinnati, United States",-84.5120196,39.1031182,"United States","Cincinnati","H",9.4399304552047
+"L298629","Arnold Arboretum",823,42.3051491000004,-71.1226591000009,"Boston, United States",-71.0588801,42.3600825,"United States","Boston","H",8.05390411886781
+"L298724","Rosehill Cemetery, Chicago",461,41.9859832000002,-87.6820028000002,"Chicago, United States",-87.6297982,41.8781136,"United States","Chicago","H",12.7396360765093
+"L299578","Decker Lake",434,40.7114010999999,-111.948801600001,"Salt Lake City, United States",-111.8910474,40.7607793,"United States","Salt Lake City","H",7.33942987871739
+"L300517","Clove Lakes Park",1124,40.6203877000006,-74.1149794999993,"New York, United States",-74.0059413,40.7127837,"United States","New York","H",13.7943232419755
+"L3009743","Chuck Hollow Lane Wetland",299,35.0685142999998,-80.8488150999995,"Charlotte, United States",-80.8431267,35.2270869,"United States","Charlotte","H",17.6001995998169
+"L300995","Warnimont County Park",301,42.9467949999999,-87.8476024000002,"Milwaukee, United States",-87.9064736,43.0389025,"United States","Milwaukee","H",11.3027683403198
+"L301020","Detroit Zoo",291,42.4763714,-83.1535818999995,"Detroit, United States",-83.0457538,42.331427,"United States","Detroit","H",18.3855527464476
+"L301036","San Carlos Bay/Bunche Beach Preserve",2313,26.4761740000012,-81.967379500003,"Cape Coral, United States",-81.9495331,26.5628537,"United States","Cape Coral","H",9.76711096443641
+"L301972","Wehr Nature Center",735,42.9265556999999,-88.0345060000018,"Milwaukee, United States",-87.9064736,43.0389025,"United States","Milwaukee","H",16.2734254524277
+"L303334","Bryan Park",393,37.5943449999999,-77.4712497,"Richmond, United States",-77.4360481,37.5407246,"United States","Richmond","H",6.71481763640102
+"L303621","Lake Crabtree County Park",1146,35.8419735999997,-78.7977126000001,"Raleigh, United States",-78.6381787,35.7795897,"United States","Raleigh","H",15.9938538127697
+"L303677","Lake Hefner",370,35.5532253000001,-97.5823003,"Oklahoma City, United States",-97.5164276,35.4675602,"United States","Oklahoma City","H",11.2270504516539
+"L3041917","Dixon Meadow Preserve",326,40.1003151999998,-75.2402115000004,"Philadelphia, United States",-75.1652215,39.9525839,"United States","Philadelphia","H",17.6081195366415
+"L3046734","Centrale Rivière des Prairies (Île de la Visitation)",286,45.5885906999998,-73.6527729000005,"Montreal, Canada",-73.567256,45.5016889,"Canada","Montreal","H",11.742589372642
+"L304833","Owls Head Park",254,40.6403687000001,-74.0322153,"New York, United States",-74.0059413,40.7127837,"United States","New York","H",8.34268105165491
+"L305312","Lakes Regional Park",337,26.5258547000001,-81.8777239000002,"Cape Coral, United States",-81.9495331,26.5628537,"United States","Cape Coral","H",8.24692915221992
+"L306158","Bluebonnet Swamp NC",922,30.3696324999993,-91.1049478000005,"Baton Rouge, United States",-91.1403196,30.4582829,"United States","Baton Rouge","H",10.3988033908162
+"L3067523","Tacony Creek Park",294,40.0326124999998,-75.1118782000001,"Philadelphia, United States",-75.1652215,39.9525839,"United States","Philadelphia","H",9.98569297810167
+"L307039","Sharon Woods Metro Park (Franklin Co.)",325,40.1141922999997,-82.9527388999997,"Columbus, United States",-82.9987942,39.9611755,"United States","Columbus","H",17.4390262636405
+"L3086715","Kerala Agricultural University, Main Campus",2572,10.5479387000004,76.2845134999972,"Thrissur, India",76.2144349,10.5276416,"India","Thrissur","H",7.99221604710197
+"L3121366","Smith and Bybee Lakes--Wetland Interlakes Trail",314,45.6166759999998,-122.726640699999,"Portland, United States",-122.6764815,45.5230622,"United States","Portland","H",11.1168754607325
+"L312198","Hastings Park Sanctuary",568,49.2826730999995,-123.0417905,"Vancouver, Canada",-123.1207375,49.2827291,"Canada","Vancouver","H",5.74393226495384
+"L3137653","Trinity Church, Manhattan",460,40.7081796999996,-74.0120802999999,"New York, United States",-74.0059413,40.7127837,"United States","New York","H",0.728357508195515
+"L3148022","Fergusson College Campus",407,18.5211612000001,73.8337040000004,"Pune, India",73.8567437,18.5204303,"India","Pune","H",2.43410087262424
+"L3151880","Bush Terminal Piers Park",521,40.6541609000001,-74.0204451000002,"New York, United States",-74.0059413,40.7127837,"United States","New York","H",6.62438989192991
+"L3161220","Kadamakudy--Puthussery Pokkali Fields",320,10.0608115,76.2542151999997,"Kochi, India",76.2673041,9.9312328,"India","Kochi","H",14.4040735355919
+"L3169524","Osman Sagar Lake",251,17.3779992999999,78.3035087999998,"Hyderabad, India",78.486671,17.385044,"India","Hyderabad","H",19.4798934278843
+"L317923","Huntington Reservation",456,41.4903209999999,-81.9316929999994,"Cleveland, United States",-81.6943605,41.49932,"United States","Cleveland","H",19.843113446778
+"L318121","M.C.C. - Private (No public access)",535,38.6693779000002,-90.399576299999,"St. Louis, United States",-90.1994042,38.6270025,"United States","St. Louis","H",18.0494860465521
+"L3182108","Veterans Park, Dayton",363,39.7446693000001,-84.1929564999994,"Dayton, United States",-84.1916069,39.7589478,"United States","Dayton","H",1.58955366837466
+"L318691","Lincoln Park, Seattle",273,47.5302761999998,-122.395592100001,"Seattle, United States",-122.3320708,47.6062095,"United States","Seattle","H",9.70154399050808
+"L3187356","Calgary--St. Andrews Heights",454,51.0599413000005,-114.125280499999,"Calgary, Canada",-114.0708459,51.0486151,"Canada","Calgary","H",4.0193344998844
+"L319957","PN des Îles-de-Boucherville",381,45.6179936999999,-73.4730019000006,"Montreal, Canada",-73.567256,45.5016889,"Canada","Montreal","H",14.8743440670405
+"L320095","RN du Boisé-Papineau",437,45.6058972999999,-73.6852904000005,"Montreal, Canada",-73.567256,45.5016889,"Canada","Montreal","H",14.8015964046098
+"L320417","Parc de la Frayère (cté Longueuil)",627,45.6452895000002,-73.4433836000005,"Montreal, Canada",-73.567256,45.5016889,"Canada","Montreal","H",18.6605939656096
+"L323166","Kiwanis Riverway Park",1708,40.096543,-83.1095188000016,"Columbus, United States",-82.9987942,39.9611755,"United States","Columbus","H",17.7550839081443
+"L3239468","Tijuana Slough NWR--visitor center & adjacent trails",652,32.5741841000003,-117.126156099999,"Tijuana, Mexico",-117.0382471,32.5149469,"Mexico","Tijuana","H",10.5516678570484
+"L3253798","Swan Creek Preserve Metropark--Window on Wildlife",697,41.6173978000004,-83.6443287000002,"Toledo, United States",-83.555212,41.6639383,"United States","Toledo","H",9.04691837468514
+"L3265316","Mersey Valley",363,53.4261412,-2.28462409999998,"Manchester, United Kingdom",-2.2426305,53.4807593,"United Kingdom","Manchester","H",6.68828639010961
+"L3267897","Carrington Moss",354,53.4198655,-2.36978529999999,"Manchester, United Kingdom",-2.2426305,53.4807593,"United Kingdom","Manchester","H",10.8302372282087
+"L329082","Beechwood Farms Nature Reserve",817,40.5434792999995,-79.9062252000003,"Pittsburgh, United States",-79.9958864,40.4406248,"United States","Pittsburgh","H",13.7195990483692
+"L330361","Fannie Stebbins Wildlife Refuge",1503,42.0332033000009,-72.5975322000011,"Springfield, United States",-72.589811,42.1014831,"United States","Springfield","H",7.61102535214468
+"L3309529","Gauhati University Campus",400,26.157138,91.6673899000008,"Guwahati, India",91.7362365,26.1445169,"India","Guwahati","H",7.02451699598086
+"L3309549","Gauhati University Campus--RCC5",623,26.1507098000002,91.6572537999985,"Guwahati, India",91.7362365,26.1445169,"India","Guwahati","H",7.92740572209781
+"L3332127","Alamo Inn",293,26.1821828000001,-98.1182097999998,"McAllen, United States",-98.2300124,26.2034071,"United States","McAllen","H",11.4198037875018
+"L3334595","Costa de Caparica--área norte",282,38.6558568,-9.23990959999996,"Lisbon, Portugal",-9.1393366,38.7222524,"Portugal","Lisbon","H",11.4408188094219
+"L3357184","Gauhati University Campus--Botany Garden",296,26.1519993000001,91.6632700000001,"Guwahati, India",91.7362365,26.1445169,"India","Guwahati","H",7.34298823981198
+"L336009","National Butterfly Center--General & area North of Levee",579,26.1764000000002,-98.3657999999996,"McAllen, United States",-98.2300124,26.2034071,"United States","McAllen","H",13.8987089377558
+"L337347","Bowditch Point Park",326,26.4643877999999,-81.9668483999996,"Cape Coral, United States",-81.9495331,26.5628537,"United States","Cape Coral","H",11.0453039148439
+"L338913","West Vancouver--Ambleside Park",330,49.3239431000002,-123.1448348,"Vancouver, Canada",-123.1207375,49.2827291,"Canada","Vancouver","H",4.9072444959135
+"L339158","Belmont Harbor, Chicago",277,41.9435608000002,-87.6361939999998,"Chicago, United States",-87.6297982,41.8781136,"United States","Chicago","H",7.28866369367721
+"L339164","Humboldt Park, Chicago",371,41.9063220999998,-87.7019613999992,"Chicago, United States",-87.6297982,41.8781136,"United States","Chicago","H",6.75892120649016
+"L339165","North Diversion Channel Outfall (formerly Tramway Wetlands)",1032,35.2084325,-106.605126499999,"Albuquerque, United States",-106.6055534,35.0853336,"United States","Albuquerque","H",13.6570495073661
+"L339170","Iona Island outer pond",331,49.2191667000003,-123.2116667,"Vancouver, Canada",-123.1207375,49.2827291,"Canada","Vancouver","H",9.68481158139696
+"L339172","Iona Island inner ponds",518,49.2188888999999,-123.205555599999,"Vancouver, Canada",-123.1207375,49.2827291,"Canada","Vancouver","H",9.40961886691093
+"L339173","Iona Island--South Jetty",291,49.2058333000003,-123.2627778,"Vancouver, Canada",-123.1207375,49.2827291,"Canada","Vancouver","H",13.420170617276
+"L3393306","Albert Kelly Park",274,45.4859799999999,-122.7134362,"Portland, United States",-122.6764815,45.5230622,"United States","Portland","H",5.03256682249746
+"L339541","Maumee Bay SP--Boardwalk",1032,41.6841897999991,-83.3654425999994,"Toledo, United States",-83.555212,41.6639383,"United States","Toledo","H",15.9617872800309
+"L3398897","Sale Water Park",446,53.4339056999998,-2.30113649999999,"Manchester, United Kingdom",-2.2426305,53.4807593,"United Kingdom","Manchester","H",6.50346104904343
+"L3398900","Chorlton Water Park",252,53.4233504000002,-2.2714702,"Manchester, United Kingdom",-2.2426305,53.4807593,"United Kingdom","Manchester","H",6.67038831291266
+"L340020","ASU Main Campus",723,33.4207755999997,-111.934044499999,"Phoenix, United States",-112.0740373,33.4483771,"United States","Phoenix","H",13.3733688922331
+"L340163","Head of the Ohio River",486,40.442146,-80.0147580999991,"Pittsburgh, United States",-79.9958864,40.4406248,"United States","Pittsburgh","H",1.60998920041055
+"L340518","Carpenter's Woods",303,40.0442805999998,-75.2006316000004,"Philadelphia, United States",-75.1652215,39.9525839,"United States","Philadelphia","H",10.6210586154171
+"L340861","PN Julio Enrique Monaga",303,18.4063881000001,-66.1373289999999,"San Juan, US: Puerto Rico",-66.106243,18.416193,"US: Puerto Rico","San Juan","H",3.45909901185876
+"L342688","Bellefontaine CA",337,38.7689222000003,-90.2353805999994,"St. Louis, United States",-90.1994042,38.6270025,"United States","St. Louis","H",16.0623257986972
+"L342893","Domaine de Maizerets",1998,46.8376522000022,-71.2121548999991,"Quebec, Canada",-71.2079809,46.8138783,"Canada","Quebec","H",2.66200465554234
+"L343087","Washington Park",535,39.7015737999999,-104.971618700001,"Denver, United States",-104.990251,39.7392358,"United States","Denver","H",4.47636295527447
+"L343390","Clayton Smith Preserves (Bunker Hill/Yates Flatwoods/Caldwell Woods)",387,42.0012499999997,-87.7851391000003,"Chicago, United States",-87.6297982,41.8781136,"United States","Chicago","H",18.7886458336769
+"L3438411","Naselje Beli Potok, Voždovac",769,44.7042291,20.5186844,"Belgrade, Serbia",20.4489216,44.786568,"Serbia","Belgrade","H",10.6886794536445
+"L3440023","Discovery Park -- Visitor Center",275,47.658152,-122.406103,"Seattle, United States",-122.3320708,47.6062095,"United States","Seattle","H",8.01925140005529
+"L344388","Stanley Park--Beaver Lake",253,49.3041900000002,-123.13901,"Vancouver, Canada",-123.1207375,49.2827291,"Canada","Vancouver","H",2.73192175342096
+"L345997","Calgary--Bowmont Natural Area",314,51.0916300000004,-114.17685,"Calgary, Canada",-114.0708459,51.0486151,"Canada","Calgary","H",8.83771106449949
+"L346057","Vancouver--Celtic Slough area",286,49.2190800000003,-123.18177,"Vancouver, Canada",-123.1207375,49.2827291,"Canada","Vancouver","H",8.35773625100738
+"L3486268","Wood Duck Lake",267,38.5361226000003,-121.523366900001,"Sacramento, United States",-121.4943996,38.5815719,"United States","Sacramento","H",5.64170191772278
+"L348952","West Vancouver--Klootchman Park",369,49.3403700000001,-123.26826,"Vancouver, Canada",-123.1207375,49.2827291,"Canada","Vancouver","H",12.4965562060642
+"L349354","Hoover Reservoir--Hoover Dam Park",565,40.1072609000002,-82.8802003,"Columbus, United States",-82.9987942,39.9611755,"United States","Columbus","H",19.1197906800723
+"L349379","Calgary--Glenmore Reservoir",402,50.9807589,-114.1164323,"Calgary, Canada",-114.0708459,51.0486151,"Canada","Calgary","H",8.19877219169858
+"L349904","Salt Lake International Center",363,40.7785710999998,-112.0253868,"Salt Lake City, United States",-111.8910474,40.7607793,"United States","Salt Lake City","H",11.51272697392
+"L350111","Reed's Lake",763,42.9538729000006,-85.6082752000002,"Grand Rapids, United States",-85.6680863,42.9633599,"United States","Grand Rapids","H",4.99283034604558
+"L350679","Millennium Park",1323,42.2815635000005,-71.1854839000006,"Boston, United States",-71.0588801,42.3600825,"United States","Boston","H",13.6010447726201
+"L351189","Dreier-Offerman Park",683,40.5848761999996,-73.9945751999991,"New York, United States",-74.0059413,40.7127837,"United States","New York","H",14.2362562802436
+"L3513027","Robert A. Easton Regional Park",401,39.6054566999997,-105.141112800001,"Denver, United States",-104.990251,39.7392358,"United States","Denver","H",19.701964454106
+"L351484","Marymoor Park",2041,47.6625760000015,-122.120519999997,"Seattle, United States",-122.3320708,47.6062095,"United States","Seattle","H",17.0888916607799
+"L351551","Parc des Rapides",605,45.4277985000005,-73.5921872000009,"Montreal, Canada",-73.567256,45.5016889,"Canada","Montreal","H",8.44053359342798
+"L351701","Ottawa--Britannia Conservation Area (Filtration Plant/Point)",485,45.3752571000004,-75.7920169999998,"Ottawa, Canada",-75.6971931,45.4215296,"Canada","Ottawa","H",9.03170265444721
+"L351702","Ottawa--Central Experimental Farm Arboretum",620,45.3913099999999,-75.7040800000007,"Ottawa, Canada",-75.6971931,45.4215296,"Canada","Ottawa","H",3.40159826272327
+"L351705","Ottawa--Shirley's Bay",986,45.3646900000001,-75.8830499999992,"Ottawa, Canada",-75.6971931,45.4215296,"Canada","Ottawa","H",15.8655399022684
+"L351714","Toronto--Toronto Islands",370,43.6165142999999,-79.3821734000004,"Toronto, Canada",-79.3831843,43.653226,"Canada","Toronto","H",4.07967332524782
+"L351715","Tommy Thompson Park",2848,43.6276706000026,-79.3315838999989,"Toronto, Canada",-79.3831843,43.653226,"Canada","Toronto","H",5.03956976904765
+"L352323","Lake Hills Greenbelt",857,47.5999509999994,-122.134904000002,"Seattle, United States",-122.3320708,47.6062095,"United States","Seattle","H",14.842464919363
+"L353534","Jackson Park, Chicago--63rd St. Beach",537,41.781425,-87.5721073000003,"Chicago, United States",-87.6297982,41.8781136,"United States","Chicago","H",11.7600178556974
+"L353655","City Creek Canyon -- Above Bonneville Blvd",536,40.8046493000001,-111.864509599998,"Salt Lake City, United States",-111.8910474,40.7607793,"United States","Salt Lake City","H",5.36208066038072
+"L354238","Parc Jean-Drapeau",459,45.5160945999997,-73.5340623999992,"Montreal, Canada",-73.567256,45.5016889,"Canada","Montreal","H",3.04827145355915
+"L355448","Minnesota Valley NWR--Bass Ponds",1416,44.8447900000011,-93.230070000002,"Minneapolis, United States",-93.2650108,44.977753,"United States","Minneapolis","H",15.0315965613844
+"L355467","Arboretum Stephen-Langevin",340,45.6450681999999,-73.4412216999999,"Montreal, Canada",-73.567256,45.5016889,"Canada","Montreal","H",18.7276638618591
+"L355484","T. S. Roberts Bird Sanctuary",372,44.9283187000001,-93.2982588000006,"Minneapolis, United States",-93.2650108,44.977753,"United States","Minneapolis","H",6.08801816621342
+"L355646","Cliff House",382,37.7786269000003,-122.514113199999,"San Francisco, United States",-122.4194155,37.7749295,"United States","San Francisco","H",8.3527675462334
+"L356105","Lake Harriet",552,44.9214199999997,-93.3041400000002,"Minneapolis, United States",-93.2650108,44.977753,"United States","Minneapolis","H",6.98047110232274
+"L356720","Hyland Lake Park Reserve",350,44.8361499999996,-93.3749099999995,"Minneapolis, United States",-93.2650108,44.977753,"United States","Minneapolis","H",17.97111327906
+"L356867","Sims Park",593,41.6153120000005,-81.5224919999989,"Cleveland, United States",-81.6943605,41.49932,"United States","Cleveland","H",19.2751439129131
+"L357109","BHI--Webb Memorial SP",253,42.2592705000001,-70.9236144999998,"Boston, United States",-71.0588801,42.3600825,"United States","Boston","H",15.8042071370179
+"L357227","Dunback Meadow",1022,42.4275112999994,-71.2269402,"Boston, United States",-71.0588801,42.3600825,"United States","Boston","H",15.734786308328
+"L357634","Embudito Canyon",468,35.1336324999997,-106.4736557,"Albuquerque, United States",-106.6055534,35.0853336,"United States","Albuquerque","H",13.1645137089878
+"L357712","Calumet Park, Chicago",310,41.7171655999997,-87.5294065000006,"Chicago, United States",-87.6297982,41.8781136,"United States","Chicago","H",19.7277637742049
+"L358400","Lake Calhoun",446,44.9411696,-93.3118628999997,"Minneapolis, United States",-93.2650108,44.977753,"United States","Minneapolis","H",5.4949616588045
+"L358557","Arlington Reservoir",1068,42.4294118999994,-71.1891746999997,"Boston, United States",-71.0588801,42.3600825,"United States","Boston","H",13.2060101543996
+"L358594","Black Creek Marsh",269,42.6649307000001,-73.9674720000002,"Albany, United States",-73.7562317,42.6525793,"United States","Albany","H",17.3740098256087
+"L358647","Maumee Bay SP",1277,41.6830726999996,-83.3776688999977,"Toledo, United States",-83.555212,41.6639383,"United States","Toledo","H",14.9364929573177
+"L358766","Lakefront Reservation--Edgewater Park",342,41.4888900999999,-81.7376697,"Cleveland, United States",-81.6943605,41.49932,"United States","Cleveland","H",3.79746951740024
+"L359716","Coon Rapids Dam Regional Park (Hennepin Co.)",266,45.1411000000002,-93.3130999999996,"Minneapolis, United States",-93.2650108,44.977753,"United States","Minneapolis","H",18.5441883445673
+"L3605824","Pat Heung Catchwater, Tai Lam",254,22.4159798,114.0828145,"Hong Kong, China: Hong Kong SAR",114.109497,22.396428,"China: Hong Kong SAR","Hong Kong","H",3.49795184369243
+"L3614416","LGB Nagar",376,11.05762,76.9904999999999,"Coimbatore, India",76.9558321,11.0168445,"India","Coimbatore","H",5.89022146297091
+"L364690","Calgary--Griffith Woods Park",682,51.0099206000006,-114.207773200002,"Calgary, Canada",-114.0708459,51.0486151,"Canada","Calgary","H",10.5263689538892
+"L365781","Ohio State University--Wetlands",775,40.0196614000006,-83.0187034999995,"Columbus, United States",-82.9987942,39.9611755,"United States","Columbus","H",6.71287105201142
+"L365923","Amico Island Park",280,40.0359000000001,-74.9824999999997,"Philadelphia, United States",-75.1652215,39.9525839,"United States","Philadelphia","H",18.1406663153247
+"L366269","LSU Campus",272,30.4090329999999,-91.1761025000003,"Baton Rouge, United States",-91.1403196,30.4582829,"United States","Baton Rouge","H",6.45180848482162
+"L366370","Audubon Park",412,29.9272667999999,-90.1280594000006,"New Orleans, United States",-90.0715323,29.9510658,"United States","New Orleans","H",6.06161750761427
+"L367687","Burnaby Mountain",372,49.2833718999997,-122.935466800001,"Vancouver, Canada",-123.1207375,49.2827291,"Canada","Vancouver","H",13.4797896718913
+"L367854","Lake of the Isles",417,44.9545034999998,-93.3065414000005,"Minneapolis, United States",-93.2650108,44.977753,"United States","Minneapolis","H",4.17265876332504
+"L370624","PN Cumbres de Monterrey--Parque Natural La Estanzuela",260,25.5454616999999,-100.271358499999,"Monterrey, Mexico",-100.3161126,25.6866142,"Mexico","Monterrey","H",16.2704510857885
+"L370768","Golden Gate Park--North Lake",864,37.7700192999991,-122.502880100001,"San Francisco, United States",-122.4194155,37.7749295,"United States","San Francisco","H",7.37366061729896
+"L371379","Ottawa--Kanata (March Valley Road)",293,45.3699964000002,-75.9261703000001,"Ottawa, Canada",-75.6971931,45.4215296,"Canada","Ottawa","H",18.8219595038656
+"L372101","Monocacy Nature Center Park",592,40.6363295000001,-75.3904152000006,"Allentown, United States",-75.4901833,40.6084305,"United States","Allentown","H",8.99227296313812
+"L373235","Tempe Town Lake",735,33.4332332999996,-111.9186044,"Phoenix, United States",-112.0740373,33.4483771,"United States","Phoenix","H",14.5503123182987
+"L374281","Windsor--Ojibway Park",305,42.2668928999998,-83.0772399999997,"Detroit, United States",-83.0457538,42.331427,"United States","Detroit","H",7.62411341362714
+"L375176","Briar Bush Nature Center",271,40.1227935999997,-75.1282775,"Philadelphia, United States",-75.1652215,39.9525839,"United States","Philadelphia","H",19.1605083662952
+"L375278","Calgary--Pearce Estate Park",320,51.0415422999998,-114.0142465,"Calgary, Canada",-114.0708459,51.0486151,"Canada","Calgary","H",4.04653253376993
+"L381029","Parque Ecológico El Haya",538,19.5201582999999,-96.9438052999994,"Xalapa, Mexico",-96.9101806,19.5437751,"Mexico","Xalapa","H",4.39189091976666
+"L381965","Sondermann Park",264,38.8581235000001,-104.838709799999,"Colorado Springs, United States",-104.8213634,38.8338816,"United States","Colorado Springs","H",3.08384083128712
+"L382781","Legg Lake",1266,34.0318919999996,-118.060112000003,"Los Angeles, United States",-118.2436849,34.0522342,"United States","Los Angeles","H",17.1004984894212
+"L382807","Franklin Park",336,42.3028964999998,-71.0990953,"Boston, United States",-71.0588801,42.3600825,"United States","Boston","H",7.16494891580519
+"L384530","Toronto--Humber Bay Park (East)",1076,43.6226559999996,-79.4737350999986,"Toronto, Canada",-79.3831843,43.653226,"Canada","Toronto","H",8.05759009032283
+"L384642","Ottawa--Andrew Haydon Park",1270,45.3504563000008,-75.8188820000019,"Ottawa, Canada",-75.6971931,45.4215296,"Canada","Ottawa","H",12.378141754348
+"L385285","Encanto Park",588,33.4740415000001,-112.0898581,"Phoenix, United States",-112.0740373,33.4483771,"United States","Phoenix","H",3.20402150057817
+"L385340","Minnesota Valley NWR--Headquarters",631,44.8597018,-93.2141876000007,"Minneapolis, United States",-93.2650108,44.977753,"United States","Minneapolis","H",13.7190724821827
+"L385839","Salt Marsh Nature Center at Marine Park",2211,40.5992910000009,-73.9203070999966,"New York, United States",-74.0059413,40.7127837,"United States","New York","H",14.5356799745264
+"L386081","Sunset Cliffs",280,32.7300574000001,-117.256424800001,"San Diego, United States",-117.1610838,32.715738,"United States","San Diego","H",9.07765043297
+"L386162","Ketring Park and Lake",390,39.6064155999998,-104.998827,"Denver, United States",-104.990251,39.7392358,"United States","Denver","H",14.7651540979585
+"L386716","Lakeshore SP/Harbor Island",437,43.0316940999998,-87.8950024000004,"Milwaukee, United States",-87.9064736,43.0389025,"United States","Milwaukee","H",1.23093884849876
+"L387543","Papago Park",392,33.4563999999997,-111.95,"Phoenix, United States",-112.0740373,33.4483771,"United States","Phoenix","H",11.5664463118445
+"L387957","Pearl Harbor NWR--Honouliuli Unit (restricted access)",323,21.3567000000001,-158.019399999999,"Honolulu, United States",-157.8583333,21.3069444,"United States","Honolulu","H",17.5936279301144
+"L388949","Golden Gate Park--Lloyd Lake",397,37.7707105000004,-122.481813999999,"San Francisco, United States",-122.4194155,37.7749295,"United States","San Francisco","H",5.51738555093366
+"L389007","Richard W. DeKorte Park",3231,40.7832999999984,-74.1025166999962,"New York, United States",-74.0059413,40.7127837,"United States","New York","H",11.3068711383665
+"L389014","Meadowlands IBA--Mill Creek Marsh",483,40.7959346999997,-74.0498470999997,"New York, United States",-74.0059413,40.7127837,"United States","New York","H",9.95042806354922
+"L389015","Laurel Hill Park",356,40.7611952000002,-74.0844690999995,"New York, United States",-74.0059413,40.7127837,"United States","New York","H",8.53817322124524
+"L389569","Braddock Bay--North Marina",501,43.3178956,-77.7228239000003,"Rochester, United States",-77.6109219,43.16103,"United States","Rochester","H",19.6551300278941
+"L389606","Fort Mason Park",1591,37.8051811999992,-122.428550699997,"San Francisco, United States",-122.4194155,37.7749295,"United States","San Francisco","H",3.45278008950905
+"L389608","Telegraph Hill",454,37.8032483999997,-122.406020199999,"San Francisco, United States",-122.4194155,37.7749295,"United States","San Francisco","H",3.35734807201147
+"L390594","Hogan Point--Burger Park",258,43.3099074000001,-77.7326595999998,"Rochester, United States",-77.6109219,43.16103,"United States","Rochester","H",19.2705020106577
+"L390915","Houston--Willow Waterhole Park",310,29.6502043,-95.4725647000004,"Houston, United States",-95.3698028,29.7604267,"United States","Houston","H",15.7532559856773
+"L391117","Old Hidalgo Pumphouse (WBC) (LTC067)",552,26.0954841000001,-98.2615471000009,"Reynosa, Mexico",-98.2978951,26.0508406,"Mexico","Reynosa","H",6.1391793388383
+"L391415","St. Edwards Pk (NW Austin)",549,30.4067500000001,-97.7903332999996,"Austin, United States",-97.7430608,30.267153,"United States","Austin","H",16.1292587374281
+"L3919366","stakeout Brown Booby, Baltimore Harbor (2015)",306,39.2739392000002,-76.5859509000001,"Baltimore, United States",-76.6121893,39.2903848,"United States","Baltimore","H",2.90838954742236
+"L392029","Jamaica Pond",778,42.3171460999993,-71.1202525999995,"Boston, United States",-71.0588801,42.3600825,"United States","Boston","H",6.95178605226442
+"L404737","Normanskill Farm",273,42.6334946000001,-73.8076736999999,"Albany, United States",-73.7562317,42.6525793,"United States","Albany","H",4.7215564578529
+"L416759","Wildwood Preserve Metropark",271,41.6785533999998,-83.6675834999998,"Toledo, United States",-83.555212,41.6639383,"United States","Toledo","H",9.49757546478338
+"L416769","Cuyahoga Valley NP--Ira Rd. Beaver Marsh",1301,41.1842256000013,-81.5825629000018,"Akron, United States",-81.5190053,41.0814447,"United States","Akron","H",12.6004201444973
+"L416864","Big Creek Reservation--Lake Isaac Waterfowl Sanctuary",290,41.3570330999998,-81.8243694000002,"Cleveland, United States",-81.6943605,41.49932,"United States","Cleveland","H",19.1786767402561
+"L418711","Lake Skinner County Park",618,33.5878645,-117.042245899998,"Murrieta, United States",-117.2139232,33.5539143,"United States","Murrieta","H",16.3784234400943
+"L418748","Tijuana River mouth",385,32.5558277,-117.128784699999,"Tijuana, Mexico",-117.0382471,32.5149469,"Mexico","Tijuana","H",9.63792102647192
+"L418752","Tijuana River Valley Regional Park--Bird & Butterfly Garden",1208,32.5542929000002,-117.085794199999,"Tijuana, Mexico",-117.0382471,32.5149469,"Mexico","Tijuana","H",6.2441317621142
+"L418900","Veterans Park (Milwaukee)",264,43.0450563,-87.8892516999998,"Milwaukee, United States",-87.9064736,43.0389025,"United States","Milwaukee","H",1.56099975243166
+"L4195582","Fort Wadsworth",256,40.5998448999999,-74.0536666000004,"New York, United States",-74.0059413,40.7127837,"United States","New York","H",13.1750122830853
+"L419667","Mt. Davidson",591,37.7383703999998,-122.453398700002,"San Francisco, United States",-122.4194155,37.7749295,"United States","San Francisco","H",5.04315927024528
+"L421038","McAllen Nature Center (LTC 065)",400,26.2085461999997,-98.266698300001,"McAllen, United States",-98.2300124,26.2034071,"United States","McAllen","H",3.71042469613481
+"L421884","Toronto--Colonel Samuel Smith Park",3490,43.5910609000006,-79.5112485000008,"Toronto, Canada",-79.3831843,43.653226,"Canada","Toronto","H",12.4317244412385
+"L422442","Village Green",531,34.0201369000001,-118.3619356,"Los Angeles, United States",-118.2436849,34.0522342,"United States","Los Angeles","H",11.4856791592383
+"L422444","Franklin Canyon Park--upper",301,34.1211488000001,-118.4098935,"Los Angeles, United States",-118.2436849,34.0522342,"United States","Los Angeles","H",17.1387299843072
+"L422463","Purgatory Creek Wetlands",257,44.854226,-93.4422397999998,"Minneapolis, United States",-93.2650108,44.977753,"United States","Minneapolis","H",19.6032580555919
+"L424819","Six Mile Cypress Slough Preserve",2481,26.5716209000006,-81.8258929000003,"Cape Coral, United States",-81.9495331,26.5628537,"United States","Cape Coral","H",12.3567607628933
+"L431596","Technoparc Mtl/Éco-Campus",489,45.4779458000001,-73.7572879,"Montreal, Canada",-73.567256,45.5016889,"Canada","Montreal","H",15.0877565510083
+"L4347440","Braddock Bay--Salmon Creek",675,43.3079914000006,-77.7479182000006,"Rochester, United States",-77.6109219,43.16103,"United States","Rochester","H",19.7587638809383
+"L436433","McKinney Falls SP (HOTE 039)",416,30.1836782999999,-97.7258348999996,"Austin, United States",-97.7430608,30.267153,"United States","Austin","H",9.40110406057438
+"L438238","Rice U. Campus",526,29.7185728000003,-95.3991151000005,"Houston, United States",-95.3698028,29.7604267,"United States","Houston","H",5.43735557650507
+"L442170","Davis Wetlands",440,38.5836667999997,-121.6371918,"Sacramento, United States",-121.4943996,38.5815719,"United States","Sacramento","H",12.4440889197009
+"L443535","Yolo Bypass Wildlife Area",3170,38.5517890000015,-121.620801799993,"Sacramento, United States",-121.4943996,38.5815719,"United States","Sacramento","H",11.5016494822432
+"L444485","Plumb Beach",1450,40.5823283999998,-73.915374599998,"New York, United States",-74.0059413,40.7127837,"United States","New York","H",16.387310509872
+"L445199","Presidio--El Polin Springs",641,37.7930158999998,-122.455565900002,"San Francisco, United States",-122.4194155,37.7749295,"United States","San Francisco","H",3.7644012928359
+"L445528","Ottawa--Bruce Pit",270,45.3266667000001,-75.8036111000001,"Ottawa, Canada",-75.6971931,45.4215296,"Canada","Ottawa","H",13.4403198379401
+"L446585","Magnolia Gardens",557,32.8746855000003,-80.0863409000007,"Charleston, United States",-79.9310512,32.7764749,"United States","Charleston","H",18.1676595187913
+"L446998","Lake Roland",364,39.3846668000002,-76.6443156999996,"Baltimore, United States",-76.6121893,39.2903848,"United States","Baltimore","H",10.8276124745163
+"L447381","Mt. Tabor Park",1414,45.5114596999994,-122.594032299998,"Portland, United States",-122.6764815,45.5230622,"United States","Portland","H",6.56989546443344
+"L447392","Pittock Mansion",1300,45.5249911999999,-122.717156400001,"Portland, United States",-122.6764815,45.5230622,"United States","Portland","H",3.1849430590838
+"L447859","Nahant--Audubon Thicket",302,42.4219517000001,-70.9146451999999,"Boston, United States",-71.0588801,42.3600825,"United States","Boston","H",13.7216262312335
+"L449294","Fort McHenry NM",879,39.2625631000002,-76.5791701999991,"Baltimore, United States",-76.6121893,39.2903848,"United States","Baltimore","H",4.202180285499
+"L449889","Patriot's Point",329,32.7924696999999,-79.8951960000004,"Charleston, United States",-79.9310512,32.7764749,"United States","Charleston","H",3.7985180755331
+"L449982","Patterson Park",1007,39.2896713000004,-76.579856900002,"Baltimore, United States",-76.6121893,39.2903848,"United States","Baltimore","H",2.79049376286353
+"L449985","Milford Mill Park",299,39.3593373000002,-76.7455958999999,"Baltimore, United States",-76.6121893,39.2903848,"United States","Baltimore","H",13.8178483175189
+"L450147","Rocky Hill Meadows",613,41.6846111000004,-72.6251220999991,"Hartford, United States",-72.6850932,41.7637111,"United States","Hartford","H",10.1037192149574
+"L450425","Scarborough--Bluffers Park",358,43.7065698000002,-79.2398356999994,"Toronto, Canada",-79.3831843,43.653226,"Canada","Toronto","H",12.9899728640086
+"L450465","Teaneck Creek Conservancy",496,40.8750381000002,-74.0097427,"New York, United States",-74.0059413,40.7127837,"United States","New York","H",18.0211952047143
+"L450972","Rose Tree Park",383,39.9400473999998,-75.3923464,"Philadelphia, United States",-75.1652215,39.9525839,"United States","Philadelphia","H",19.4600933121365
+"L451044","Meadowbrook Park (Howard Co.)",370,39.2483735000001,-76.8231869000002,"Baltimore, United States",-76.6121893,39.2903848,"United States","Baltimore","H",18.7963196938467
+"L451062","Ben T. Davis Beach",325,27.9690473999999,-82.5746155000005,"Tampa, United States",-82.4571776,27.950575,"United States","Tampa","H",11.7356135862069
+"L451783","Roger Williams Park",331,41.7816810000003,-71.4147806000001,"Providence, United States",-71.4128343,41.8239891,"United States","Providence","H",4.70192063994532
+"L451787","Forest Hills Cemetery",1048,42.2940403999991,-71.1069059000001,"Boston, United States",-71.0588801,42.3600825,"United States","Boston","H",8.33581974070146
+"L452353","Castle Island & Pleasure Bay",307,42.3360561000003,-71.0123205000004,"Boston, United States",-71.0588801,42.3600825,"United States","Boston","H",4.67341219508756
+"L452823","Danehy Park, Cambridge",618,42.3892019000004,-71.1372899999993,"Boston, United States",-71.0588801,42.3600825,"United States","Boston","H",7.22283623482833
+"L452844","North Point State Park",972,39.2123636999999,-76.4231472000005,"Baltimore, United States",-76.6121893,39.2903848,"United States","Baltimore","H",18.474406961683
+"L453412","City Park, New Orleans",800,30.0013814999996,-90.0926928999992,"New Orleans, United States",-90.0715323,29.9510658,"United States","New Orleans","H",5.9397101482264
+"L453489","Davis WTP",467,38.5930928,-121.669721600001,"Sacramento, United States",-121.4943996,38.5815719,"United States","Sacramento","H",15.3287802570388
+"L453505","Parc du Mt-Royal",790,45.5055592999998,-73.5882289000001,"Montreal, Canada",-73.567256,45.5016889,"Canada","Montreal","H",1.69460195035063
+"L453924","Alewife Reservation, Cambridge",414,42.3974108000002,-71.1524390999994,"Boston, United States",-71.0588801,42.3600825,"United States","Boston","H",8.75012453128327
+"L453974","Oaks Bottom Wildlife Refuge",755,45.4776166000004,-122.655315399999,"Portland, United States",-122.6764815,45.5230622,"United States","Portland","H",5.31490513149916
+"L454170","Grant Park, Chicago",489,41.8765232000002,-87.6189333000002,"Chicago, United States",-87.6297982,41.8781136,"United States","Chicago","H",0.919028700154702
+"L454638","Canopy Tower",1311,9.07783630000023,-79.6492481000014,"Panama City, Panama",-79.5198696,8.9823792,"Panama","Panama City","H",17.714863287992
+"L454660","Costa del Este",268,9.00965829999997,-79.4691888999998,"Panama City, Panama",-79.5198696,8.9823792,"Panama","Panama City","H",6.33712267239549
+"L454666","Panamá Viejo",468,9.00671670000008,-79.4853417000002,"Panama City, Panama",-79.5198696,8.9823792,"Panama","Panama City","H",4.65406500812601
+"L454708","Parque Natural Metropolitano",626,8.99499930000002,-79.5459294000007,"Panama City, Panama",-79.5198696,8.9823792,"Panama","Panama City","H",3.18743786067204
+"L454718","Semaphore Hill Road",425,9.07311100000006,-79.6531700000005,"Panama City, Panama",-79.5198696,8.9823792,"Panama","Panama City","H",17.7626198069314
+"L455415","Sesquicentennial SP",254,34.0875685999999,-80.9082985,"Columbia, United States",-81.0348144,34.0007104,"United States","Columbia","H",15.1425414292176
+"L456128","Waltham Street Fields",388,42.4274304999999,-71.2323313999995,"Boston, United States",-71.0588801,42.3600825,"United States","Boston","H",16.1223935370287
+"L456331","Westwood Hills Nature Center",640,44.9679861000003,-93.3866215000012,"Minneapolis, United States",-93.2650108,44.977753,"United States","Minneapolis","H",9.65435038876862
+"L456488","Las Vegas - Sunset Park",388,36.0685618999998,-115.1126862,"Las Vegas, United States",-115.1398296,36.1699412,"United States","Las Vegas","H",11.511528734722
+"L457176","Henderson Park",791,33.8679569000004,-84.2283796999986,"Atlanta, United States",-84.3879824,33.7489954,"United States","Atlanta","H",19.811497499381
+"L457287","Chestnut Hill Reservoir, Boston",1132,42.3341844000004,-71.1563872999989,"Boston, United States",-71.0588801,42.3600825,"United States","Boston","H",8.53397801639541
+"L457473","Martin Park Nature Center",371,35.6072167000002,-97.6092553000005,"Oklahoma City, United States",-97.5164276,35.4675602,"United States","Oklahoma City","H",17.6340900697577
+"L458792","Kendall Indian Hammocks Park",455,25.6952999999999,-80.3734,"Miami, United States",-80.1917902,25.7616798,"United States","Miami","H",19.6517370911857
+"L458870","Nahanton Park",908,42.3013729000007,-71.2093449000008,"Boston, United States",-71.0588801,42.3600825,"United States","Boston","H",14.0115304613353
+"L459632","Univ. of Texas, RGV (Edinburg)",448,26.3050820000002,-98.1746864000009,"McAllen, United States",-98.2300124,26.2034071,"United States","McAllen","H",12.5476660791392
+"L459787","PN de l'Île-de-la-Visitation",1734,45.5770922999994,-73.6596239000027,"Montreal, Canada",-73.567256,45.5016889,"Canada","Montreal","H",11.0579584214141
+"L460918","Southwest Area Park",512,39.2361090999998,-76.626591699999,"Baltimore, United States",-76.6121893,39.2903848,"United States","Baltimore","H",6.1525831967923
+"L463418","Squantum--Squaw Rock Park",257,42.3037217000001,-71.0116768000003,"Boston, United States",-71.0588801,42.3600825,"United States","Boston","H",7.37088318784949
+"L463985","BHI--Deer Island",356,42.3516937999997,-70.9582900999997,"Boston, United States",-71.0588801,42.3600825,"United States","Boston","H",8.33958066874073
+"L464086","Fish Creek PP--Sikome Lake",280,50.8993926000002,-114.0136671,"Calgary, Canada",-114.0708459,51.0486151,"Canada","Calgary","H",17.079549146552
+"L464598","Westborough WMA",1031,42.2955958,-71.6157532000006,"Worcester, United States",-71.8022934,42.2625932,"United States","Worcester","H",15.8179322393878
+"L465864","RF Marguerite-D'Youville",1602,45.3914585000008,-73.7611770999976,"Montreal, Canada",-73.567256,45.5016889,"Canada","Montreal","H",19.4997965553768
+"L465870","Cambridge Reservoir",472,42.4010235999997,-71.2682247000004,"Boston, United States",-71.0588801,42.3600825,"United States","Boston","H",17.8303516584027
+"L467686","Moravian Cemetery",256,40.5808128000001,-74.1169131,"New York, United States",-74.0059413,40.7127837,"United States","New York","H",17.4031884222485
+"L469000","Dairy Mart Rd.--main pond",758,32.5550155999999,-117.0650527,"Tijuana, Mexico",-117.0382471,32.5149469,"Mexico","Tijuana","H",5.10738361683378
+"L469404","Cylburn Arboretum",266,39.353746,-76.6519976000003,"Baltimore, United States",-76.6121893,39.2903848,"United States","Baltimore","H",7.82735806510192
+"L472208","Reserva Ecológica Costanera Sur",1376,-34.6082039000006,-58.3539676999994,"Buenos Aires, Argentina",-58.3815591,-34.6036844,"Argentina","Buenos Aires","H",2.57996732868728
+"L473045","Bridgeway Island pond",345,38.5416454000001,-121.578548,"Sacramento, United States",-121.4943996,38.5815719,"United States","Sacramento","H",8.56941194997164
+"L475097","Squantum",307,42.2935006999998,-71.0279846000001,"Boston, United States",-71.0588801,42.3600825,"United States","Boston","H",7.82202799992486
+"L475132","Bells Bend Park",462,36.1484968000003,-86.9227766999999,"Nashville, United States",-86.7816016,36.1626638,"United States","Nashville","H",12.8007092374424
+"L475870","Fish Creek PP--Bebo Grove",478,50.9301430000003,-114.1138744,"Calgary, Canada",-114.0708459,51.0486151,"Canada","Calgary","H",13.5216312984404
+"L480399","Latta Plantation Nature Preserve",286,35.3557361999999,-80.9093285000004,"Charlotte, United States",-80.8431267,35.2270869,"United States","Charlotte","H",15.4914654157928
+"L480864","South Platte Park--C470 area",485,39.5708959999999,-105.041120100001,"Denver, United States",-104.990251,39.7392358,"United States","Denver","H",19.1935268389941
+"L483059","Concord Mills Wetland",286,35.3740045000001,-80.7166386,"Charlotte, United States",-80.8431267,35.2270869,"United States","Charlotte","H",19.9509614623553
+"L483824","Rickenbacker Causeway",268,25.7403745000001,-80.1698542000002,"Miami, United States",-80.1917902,25.7616798,"United States","Miami","H",3.22714287503119
+"L486301","William Land Park",541,38.5395055000005,-121.499111700001,"Sacramento, United States",-121.4943996,38.5815719,"United States","Sacramento","H",4.68769579843866
+"L486383","Commons Ford Pk",1432,30.3385837000002,-97.8927755000006,"Austin, United States",-97.7430608,30.267153,"United States","Austin","H",16.4348261478226
+"L486782","Ottawa--Bate Island",450,45.4095081,-75.7551955999997,"Ottawa, Canada",-75.6971931,45.4215296,"Canada","Ottawa","H",4.73264488193731
+"L486971","Yates Mill County Park",1013,35.7190698000003,-78.6884164999994,"Raleigh, United States",-78.6381787,35.7795897,"United States","Raleigh","H",8.1078778756215
+"L487899","Bear Creek Lake Park",353,39.6495503999999,-105.153665500001,"Denver, United States",-104.990251,39.7392358,"United States","Denver","H",17.1936033856952
+"L487975","Hotel Bougainvillea (Heredia)",630,9.98093890000011,-84.0789163000007,"San Jose, Costa Rica",-84.0907246,9.9280694,"Costa Rica","San Jose","H",5.98939963256307
+"L489350","Fresno WTP",369,36.7047605999998,-119.8916531,"Fresno, United States",-119.7725868,36.7468422,"United States","Fresno","H",11.6162485610399
+"L489654","Rapides Deschênes",891,45.3777800000001,-75.799720000001,"Ottawa, Canada",-75.6971931,45.4215296,"Canada","Ottawa","H",9.38526666717116
+"L491873","Kissena Park",589,40.7462409,-73.8080851999991,"New York, United States",-74.0059413,40.7127837,"United States","New York","H",17.1224790251504
+"L492576","MLK Jr. Regional Shoreline--Garretson Pt.",288,37.7506463999999,-122.211077200001,"San Francisco, United States",-122.4194155,37.7749295,"United States","San Francisco","H",18.5544461992416
+"L498314","Tualatin River NWR--Atfálat'i Unit",768,45.3817834000001,-122.831225400001,"Portland, United States",-122.6764815,45.5230622,"United States","Portland","H",19.8259808662305
+"L498572","Walnut Creek WWTP",307,30.2815651000001,-97.6520634000005,"Austin, United States",-97.7430608,30.267153,"United States","Austin","H",8.90032152089484
+"L498948","Siesta Key",1056,27.2643958000005,-82.5517844999996,"Sarasota, United States",-82.5306527,27.3364347,"United States","Sarasota","H",8.2520394166844
+"L499374","Golden Gate Park--Stow Lake",766,37.7675496000003,-122.473402599998,"San Francisco, United States",-122.4194155,37.7749295,"United States","San Francisco","H",4.82652529656027
+"L500729","Race Road",343,39.2069183999998,-76.7091393000001,"Baltimore, United States",-76.6121893,39.2903848,"United States","Baltimore","H",12.4862579099428
+"L502311","Virginia Key Ecosystem Restoration Area",301,25.7368167000002,-80.1565167000005,"Miami, United States",-80.1917902,25.7616798,"United States","Miami","H",4.48455184680968
+"L502380","Heron's Head Park",1291,37.7381243,-122.3725462,"San Francisco, United States",-122.4194155,37.7749295,"United States","San Francisco","H",5.80917979383298
+"L502669","Latta Park",264,35.2082139000001,-80.8476162000003,"Charlotte, United States",-80.8431267,35.2270869,"United States","Charlotte","H",2.13338061368041
+"L503176","Lakeshore Park",410,35.9188754000002,-83.9889121000007,"Knoxville, United States",-83.9207392,35.9606384,"United States","Knoxville","H",7.70149066787355
+"L504403","John Heinz NWR--impoundment (Philadelphia Co.)",5208,39.8893501000039,-75.260145700008,"Philadelphia, United States",-75.1652215,39.9525839,"United States","Philadelphia","H",10.7309292314646
+"L506275","San Diego River--tidal mudflats",1585,32.7567947999997,-117.239095199999,"San Diego, United States",-117.1610838,32.715738,"United States","San Diego","H",8.61378509741246
+"L509134","Elsie Roemer Bird Sanctuary",411,37.7525975000003,-122.247383599999,"San Francisco, United States",-122.4194155,37.7749295,"United States","San Francisco","H",15.359643235391
+"L510563","Carroll Park along Gwynns Falls",256,39.2722606000001,-76.6506778999999,"Baltimore, United States",-76.6121893,39.2903848,"United States","Baltimore","H",3.88292245411529
+"L511737","Lake Park",343,40.7149317000002,-111.9941998,"Salt Lake City, United States",-111.8910474,40.7607793,"United States","Salt Lake City","H",10.0915122299392
+"L511955","UM Dearborn--Rouge River Bird Observatory",830,42.3193991000005,-83.2399749999989,"Detroit, United States",-83.0457538,42.331427,"United States","Detroit","H",16.0647802246042
+"L514035","Winthrop Beach and Five Sisters",405,42.3747937999999,-70.9681878000002,"Boston, United States",-71.0588801,42.3600825,"United States","Boston","H",7.64718455163572
+"L517705","Fort Armistead Park (Baltimore City)",420,39.2094705,-76.5330899,"Baltimore, United States",-76.6121893,39.2903848,"United States","Baltimore","H",11.2834877755377
+"L5197378","Central Park--Cedar Hill",377,40.7770344,-73.9654145999996,"New York, United States",-74.0059413,40.7127837,"United States","New York","H",7.91351047802449
+"L521509","Revere Beach--pink apartments",310,42.4205103000003,-70.9857291000004,"Boston, United States",-71.0588801,42.3600825,"United States","Boston","H",9.01874487622341
+"L525710","James River Park--The Wetlands",830,37.5466698999997,-77.5098752999988,"Richmond, United States",-77.4360481,37.5407246,"United States","Richmond","H",6.55767958665909
+"L549972","Cohoes Flats",792,42.7761410999996,-73.6933063999988,"Albany, United States",-73.7562317,42.6525793,"United States","Albany","H",14.6621111051161
+"L552945","Platt Lane (Travis Co.)",460,30.2326709999999,-97.6352406000004,"Austin, United States",-97.7430608,30.267153,"United States","Austin","H",11.0586697128412
+"L553196","Albany Pine Bush Preserve--Karner Barrens East",333,42.7157160000002,-73.8589295999994,"Albany, United States",-73.7562317,42.6525793,"United States","Albany","H",10.956026059939
+"L553325","Palace of Fine Arts",289,37.8028161000002,-122.4482489,"San Francisco, United States",-122.4194155,37.7749295,"United States","San Francisco","H",4.00382571893165
+"L555894","Governors Island",367,40.6885371999998,-74.0189758999997,"New York, United States",-74.0059413,40.7127837,"United States","New York","H",2.9091690604797
+"L558364","Loch Raven Reservoir--Primary Dam",301,39.4314200000002,-76.5434647000002,"Baltimore, United States",-76.6121893,39.2903848,"United States","Baltimore","H",16.7408736582041
+"L558365","Loch Raven Reservoir--Secondary Dam",271,39.425851,-76.5414906000003,"Baltimore, United States",-76.6121893,39.2903848,"United States","Baltimore","H",16.227261030249
+"L567534","Austin--Roy Guerrero Pk",945,30.2482240999998,-97.7056861000009,"Austin, United States",-97.7430608,30.267153,"United States","Austin","H",4.16415505195338
+"L571490","Discovery Park -- West Point",312,47.6618703000003,-122.4355298,"Seattle, United States",-122.3320708,47.6062095,"United States","Seattle","H",9.93732281384261
+"L571677","Toronto--Queen's Park",370,43.6648526000004,-79.3923676000005,"Toronto, Canada",-79.3831843,43.653226,"Canada","Toronto","H",1.48910212281029
+"L572189","Edgemere Dr., 1710",512,43.2867437999997,-77.6677698999994,"Rochester, United States",-77.6109219,43.16103,"United States","Rochester","H",14.7102892609573
+"L573178","Forks of the River WMA",418,35.9557779999997,-83.8500058999998,"Knoxville, United States",-83.9207392,35.9606384,"United States","Knoxville","H",6.40368790985898
+"L578426","Miller Drive Roost (Brewer Park)",272,25.7178837000001,-80.2961968999999,"Miami, United States",-80.1917902,25.7616798,"United States","Miami","H",11.5449163367629
+"L579187","Prairie Ridge Ecostation for Wildlife Learning",932,35.8114620000006,-78.7166225999987,"Raleigh, United States",-78.6381787,35.7795897,"United States","Raleigh","H",7.92391602951678
+"L582953","Memorial Park & Prospect Lake",413,38.8260513999998,-104.797366300001,"Colorado Springs, United States",-104.8213634,38.8338816,"United States","Colorado Springs","H",2.25778665133473
+"L584308","Clay Ave. Wetland (Tessie McNamara Park)",297,40.8026676999998,-74.1024077000002,"New York, United States",-74.0059413,40.7127837,"United States","New York","H",12.8835700316364
+"L585930","Swan Creek Wetland--Cox Creek DMCF (closed Sat. and Sun.)",1898,39.1934881,-76.5353537000006,"Baltimore, United States",-76.6121893,39.2903848,"United States","Baltimore","H",12.6381794628019
+"L586477","Imperial Beach Sports Park",365,32.5752336,-117.123929900001,"Tijuana, Mexico",-117.0382471,32.5149469,"Mexico","Tijuana","H",10.4627911305781
+"L588572","Welchester Tree Grant Park",282,39.7306898000001,-105.1435375,"Denver, United States",-104.990251,39.7392358,"United States","Denver","H",13.1744045757939
+"L588687","Rose Kennedy Greenway",391,42.3558482999998,-71.0512018000006,"Boston, United States",-71.0588801,42.3600825,"United States","Boston","H",0.788268521301741
+"L589165","Summit Ponds",575,9.06162640000002,-79.6495271000002,"Panama City, Panama",-79.5198696,8.9823792,"Panama","Panama City","H",16.7348960430803
+"L590796","Glen Canyon Park",272,37.7395667000001,-122.441296600001,"San Francisco, United States",-122.4194155,37.7749295,"United States","San Francisco","H",4.37303217185394
+"L590803","Ottawa--Petrie Island",397,45.5029782,-75.4917382999995,"Ottawa, Canada",-75.6971931,45.4215296,"Canada","Ottawa","H",18.4430335265521
+"L593404","Rock Meadow, Belmont",389,42.4005799999999,-71.1965023999994,"Boston, United States",-71.0588801,42.3600825,"United States","Boston","H",12.1940597486689
+"L593834","Miller/Knox Regional Shoreline",427,37.9162035999998,-122.3865795,"San Francisco, United States",-122.4194155,37.7749295,"United States","San Francisco","H",15.9446302854534
+"L596267","Meadowlands IBA--Harrier Meadows (restricted access)",491,40.7879826999998,-74.1189194000003,"New York, United States",-74.0059413,40.7127837,"United States","New York","H",12.6795126704419
+"L596901","East Kiawah Island",282,32.6158095999999,-80.0184917000003,"Charleston, United States",-79.9310512,32.7764749,"United States","Charleston","H",19.6137589353764
+"L597003","Berkeley Aquatic Park",365,37.8558130000001,-122.2977448,"San Francisco, United States",-122.4194155,37.7749295,"United States","San Francisco","H",13.9775475831862
+"L598129","Corona Heights Park",671,37.7647440000001,-122.439022100001,"San Francisco, United States",-122.4194155,37.7749295,"United States","San Francisco","H",2.06450630167641
+"L598238","Lakeview Community Church Trail",290,43.2888115000001,-77.6760221000003,"Rochester, United States",-77.6109219,43.16103,"United States","Rochester","H",15.1493761444434
+"L600803","Trinity River Audubon Center",423,32.7038040000002,-96.7055550000004,"Dallas, United States",-96.7969879,32.7766642,"United States","Dallas","H",11.7782959356565
+"L611129","Saylorville Reservoir--overflow spillway and Bob Shetler Recreation Area",316,41.6973015999998,-93.6832952000004,"Des Moines, United States",-93.6091064,41.6005448,"United States","Des Moines","H",12.3968374967127
+"L611576","Calvin College Ecosystem Preserve",1448,42.9326652000013,-85.5839305999987,"Grand Rapids, United States",-85.6680863,42.9633599,"United States","Grand Rapids","H",7.66784951258803
+"L612510","Roselle Park",369,42.9810899999998,-85.53528,"Grand Rapids, United States",-85.6680863,42.9633599,"United States","Grand Rapids","H",11.0116218554962
+"L612612","Bayonne Golf Club",471,40.6649251000002,-74.0960830000001,"New York, United States",-74.0059413,40.7127837,"United States","New York","H",9.28998690403821
+"L612903","Erie Marsh Preserve (Gun Club)",276,41.7673429000001,-83.4563970999999,"Toledo, United States",-83.555212,41.6639383,"United States","Toledo","H",14.1253283589611
+"L613081","Bentsen-Rio Grande Val. SP--Hawk Watch",776,26.1690952000001,-98.3805352000003,"Reynosa, Mexico",-98.2978951,26.0508406,"Mexico","Reynosa","H",15.4910760566905
+"L613092","Huff Park",398,43.0058000000003,-85.6349799999997,"Grand Rapids, United States",-85.6680863,42.9633599,"United States","Grand Rapids","H",5.43324440794077
+"L613147","Colt SP",788,41.6806367999998,-71.3021921999991,"Providence, United States",-71.4128343,41.8239891,"United States","Providence","H",18.3899083579637
+"L613483","Ocean Terminal--The Peninsula",612,40.6624917000005,-74.069813499999,"New York, United States",-74.0059413,40.7127837,"United States","New York","H",7.76797584185928
+"L614792","Coney Island Creek Park",353,40.5813223999998,-74.0052687999997,"New York, United States",-74.0059413,40.7127837,"United States","New York","H",14.5985059084197
+"L616540","Lake Lynn",268,35.8820126999999,-78.7001324,"Raleigh, United States",-78.6381787,35.7795897,"United States","Raleigh","H",12.6683302842334
+"L617716","Dorney Pond",401,40.5822795000003,-75.5333500999996,"Allentown, United States",-75.4901833,40.6084305,"United States","Allentown","H",4.66738632152569
+"L617720","Lacy Park",293,34.1197632000002,-118.122167599999,"Los Angeles, United States",-118.2436849,34.0522342,"United States","Los Angeles","H",13.4864947408967
+"L618326","Quito--Parque La Carolina, Jardin Botanico",381,-0.1865151,-78.4857862999998,"Quito, Ecuador",-78.4678382,-0.1806532,"Ecuador","Quito","H",2.10047332133819
+"L618902","Cleveland Lakefront Nature Preserve",1762,41.5445933000007,-81.6327095000013,"Cleveland, United States",-81.6943605,41.49932,"United States","Cleveland","H",7.19466803788838
+"L619182","Lakefront Reservation--East 55th St. Marina",581,41.5327400999997,-81.6503048000008,"Cleveland, United States",-81.6943605,41.49932,"United States","Cleveland","H",5.22510920275692
+"L619755","Euclid Creek Reservation--Wildwood Park",259,41.5862132999998,-81.5628218999995,"Cleveland, United States",-81.6943605,41.49932,"United States","Cleveland","H",14.6151913945858
+"L619804","Cuyahoga Valley NP--Virginia Kendall Lake and Trails",308,41.2170095000001,-81.5253997,"Akron, United States",-81.5190053,41.0814447,"United States","Akron","H",15.0649579952632
+"L620877","San Diego Bay--northwest",587,32.6924679000002,-117.230558399999,"San Diego, United States",-117.1610838,32.715738,"United States","San Diego","H",7.00675460599343
+"L620970","Woodlawn Cemetery, Toledo",1331,41.6808290999996,-83.5799931999978,"Toledo, United States",-83.555212,41.6639383,"United States","Toledo","H",2.78890945959329
+"L622087","McCormick Park",738,32.2612250999995,-110.899987199999,"Tucson, United States",-110.926479,32.2217429,"United States","Tucson","H",5.04007863476714
+"L622135","Bountiful Pond",776,40.9057610999996,-111.921930299999,"Salt Lake City, United States",-111.8910474,40.7607793,"United States","Salt Lake City","H",16.3096884728385
+"L622485","Pt. Emery",279,37.8458334000001,-122.301060000001,"San Francisco, United States",-122.4194155,37.7749295,"United States","San Francisco","H",13.059696289902
+"L623432","Beaver Brook--North Reservation",341,42.4027349000002,-71.2068557999995,"Boston, United States",-71.0588801,42.3600825,"United States","Boston","H",13.0750128567425
+"L628928","Alameda Bridge & Open Space",804,35.1959747000001,-106.641645999999,"Albuquerque, United States",-106.6055534,35.0853336,"United States","Albuquerque","H",12.7079182283462
+"L631485","Pickerington Ponds--West (Franklin Co)",299,39.8861022000001,-82.8079032999997,"Columbus, United States",-82.9987942,39.9611755,"United States","Columbus","H",18.3246813449217
+"L634615","Commonwealth Lake Park",996,45.5119107999999,-122.809810599999,"Portland, United States",-122.6764815,45.5230622,"United States","Portland","H",10.4909836973207
+"L636930","Forest Grove Reservation",391,42.3589878999996,-71.2485802000002,"Boston, United States",-71.0588801,42.3600825,"United States","Boston","H",15.6284847915287
+"L646019","N. Folly Island--Lighthouse Inlet Heritage Preserve",513,32.6849696999998,-79.8875141000002,"Charleston, United States",-79.9310512,32.7764749,"United States","Charleston","H",10.9377482771114
+"L649628","Allardale Park",365,41.1931230999999,-81.6987990999995,"Akron, United States",-81.5190053,41.0814447,"United States","Akron","H",19.5371543336063
+"L654165","Huffman MetroPark",390,39.8045139000002,-84.0927886999998,"Dayton, United States",-84.1916069,39.7589478,"United States","Dayton","H",9.86187537553426
+"L654314","Schenck Forest",784,35.8189963000004,-78.7266110999994,"Raleigh, United States",-78.6381787,35.7795897,"United States","Raleigh","H",9.11122333741895
+"L656142","Folly Beach County Park",350,32.6441450000002,-79.9622726000006,"Charleston, United States",-79.9310512,32.7764749,"United States","Charleston","H",14.9643912011352
+"L657485","Rutgers University Newark Campus",528,40.7412662999996,-74.1756346999998,"New York, United States",-74.0059413,40.7127837,"United States","New York","H",14.6807009245455
+"L658435","White Rock Lake--Sunset Bay area",366,32.8337312999999,-96.7121315000001,"Dallas, United States",-96.7969879,32.7766642,"United States","Dallas","H",10.1595361949257
+"L659890","Amelia Earhart Dam",256,42.3955091999998,-71.0739899,"Boston, United States",-71.0588801,42.3600825,"United States","Boston","H",4.127293660229
+"L663110","Base de plein air, Québec (Ste-Foy)",834,46.7906724999995,-71.3303446999999,"Quebec, Canada",-71.2079809,46.8138783,"Canada","Quebec","H",9.69046218943416
+"L678659","Skipper Bay Trail",523,40.2486774999998,-111.731128699999,"Provo, United States",-111.6585337,40.2338438,"United States","Provo","H",6.39312002986921
+"L679272","UBC--Cecil Green & Museum of Anthropology grounds",255,49.2701400000001,-123.2606202,"Vancouver, Canada",-123.1207375,49.2827291,"Canada","Vancouver","H",10.274543921015
+"L679372","Ottawa--Stony Swamp (Jack Pine Trail)",543,45.2927995999999,-75.8153629000006,"Ottawa, Canada",-75.6971931,45.4215296,"Canada","Ottawa","H",17.0417326104702
+"L679560","Parc de l'Honorable-George-O'Reilly",305,45.4365715999998,-73.5832929999998,"Montreal, Canada",-73.567256,45.5016889,"Canada","Montreal","H",7.34505406927033
+"L681420","Forest Lawn Cemetery",1106,42.9277446999992,-78.8609865000021,"Buffalo, United States",-78.8783689,42.8864468,"United States","Buffalo","H",4.8024079824186
+"L681452","Mill Road Park",1097,42.8307313999996,-78.7437225999997,"Buffalo, United States",-78.8783689,42.8864468,"United States","Buffalo","H",12.6255401033146
+"L682596","Pouhala Marsh",256,21.3775786,-158.00495,"Honolulu, United States",-157.8583333,21.3069444,"United States","Honolulu","H",17.1017699315223
+"L683555","Bryant Park",1591,40.7536136999992,-73.9832328000015,"New York, United States",-74.0059413,40.7127837,"United States","New York","H",4.92321020987796
+"L684279","Saluda Shoals Park",1011,34.0486151000003,-81.1829352000004,"Columbia, United States",-81.0348144,34.0007104,"United States","Columbia","H",14.6759049210708
+"L684445","Crown Hill Regional Park",342,39.7587378000002,-105.1023388,"Denver, United States",-104.990251,39.7392358,"United States","Denver","H",9.84756879543224
+"L684740","Inwood Hill Park",704,40.8717025000003,-73.9256903999996,"New York, United States",-74.0059413,40.7127837,"United States","New York","H",18.9030014287693
+"L685342","Piedmont Park",687,33.7836416999999,-84.3774890999995,"Atlanta, United States",-84.3879824,33.7489954,"United States","Atlanta","H",3.96394108475341
+"L685423","Houston--Arboretum and Nature Center",333,29.7653925000001,-95.4520350999994,"Houston, United States",-95.3698028,29.7604267,"United States","Houston","H",7.97210715919435
+"L686184","Bear Creek Sanctuary (restricted access)",355,42.4408143,-70.9802627999998,"Boston, United States",-71.0588801,42.3600825,"United States","Boston","H",11.0595786750739
+"L687522","Pont de l'Île-d'Orléans",351,46.8763311000002,-71.1185598000002,"Quebec, Canada",-71.2079809,46.8138783,"Canada","Quebec","H",9.7325628351438
+"L689527","Sabino Dam and downstream riparian",1667,32.3131068000002,-110.811394099998,"Tucson, United States",-110.926479,32.2217429,"United States","Tucson","H",14.8397638070536
+"L692462","Bronx Zoo",1162,40.8506880999995,-73.8769962999993,"New York, United States",-74.0059413,40.7127837,"United States","New York","H",18.7882559286837
+"L692630","Casita el Barco",838,17.1437533000003,-96.7504710000009,"Oaxaca, Mexico",-96.7132304,17.0542297,"Mexico","Oaxaca","H",10.6709918104188
+"L710606","Fenway & Victory Gardens",837,42.3437644000003,-71.0928296999993,"Boston, United States",-71.0588801,42.3600825,"United States","Boston","H",3.33315158615085
+"L711719","Burnet Woods",282,39.1383157,-84.5159339999994,"Cincinnati, United States",-84.5120196,39.1031182,"United States","Cincinnati","H",3.92218392096278
+"L712035","Wapato Access Greenway SP",267,45.6597554,-122.840924299999,"Portland, United States",-122.6764815,45.5230622,"United States","Portland","H",19.8863221171076
+"L712038","Sauvie Island (Multnomah Co.)",466,45.6630067000003,-122.809295699999,"Portland, United States",-122.6764815,45.5230622,"United States","Portland","H",18.6901987680451
+"L712403","Sewickley Heights Borough Park",470,40.5717511000002,-80.1449203000005,"Pittsburgh, United States",-79.9958864,40.4406248,"United States","Pittsburgh","H",19.2766163332952
+"L714063","Vanport Wetlands",722,45.5989660000005,-122.688081300001,"Portland, United States",-122.6764815,45.5230622,"United States","Portland","H",8.48462813753356
+"L714383","Parc Chauveau",482,46.8316355999997,-71.3366119999994,"Quebec, Canada",-71.2079809,46.8138783,"Canada","Quebec","H",10.0120065364307
+"L715912","Woodlands Cemetery",325,39.9471871999999,-75.2031325999997,"Philadelphia, United States",-75.1652215,39.9525839,"United States","Philadelphia","H",3.29468922619766
+"L715915","Bartram's Garden",411,39.9325449000003,-75.2124452999997,"Philadelphia, United States",-75.1652215,39.9525839,"United States","Philadelphia","H",4.60867838097718
+"L715946","Lake Johnson Park",486,35.7593811000003,-78.7167192000003,"Raleigh, United States",-78.6381787,35.7795897,"United States","Raleigh","H",7.44760246615729
+"L716959","Seacoast Dr.--south end",470,32.5661994000002,-117.132518300001,"Tijuana, Mexico",-117.0382471,32.5149469,"Mexico","Tijuana","H",10.5224193680138
+"L717362","Off Pt. Loma (offshore species only)",444,32.6219111999999,-117.266693099999,"San Diego, United States",-117.1610838,32.715738,"United States","San Diego","H",14.3667272704318
+"L717635","Ottawa--Mer Bleue Bog",299,45.3910364999998,-75.5095053000004,"Ottawa, Canada",-75.6971931,45.4215296,"Canada","Ottawa","H",15.0793887822412
+"L717897","Erie Street Cemetery",356,41.4974729000001,-81.6828238999996,"Cleveland, United States",-81.6943605,41.49932,"United States","Cleveland","H",0.98488777746818
+"L718444","First Landing State Park",395,36.9163683999997,-76.0413444000003,"Virginia Beach, United States",-75.977985,36.8529263,"United States","Virginia Beach","H",9.02615240421552
+"L718750","Stumpy Lake Natural Area",261,36.7723,-76.1607000000003,"Virginia Beach, United States",-75.977985,36.8529263,"United States","Virginia Beach","H",18.5974044363257
+"L718956","Cabelas Field",486,41.7546340000004,-72.6201438999997,"Hartford, United States",-72.6850932,41.7637111,"United States","Hartford","H",5.49462566242932
+"L719748","Central Park--Maintenance Meadow",284,40.7778421000002,-73.9679230999999,"New York, United States",-74.0059413,40.7127837,"United States","New York","H",7.90607616117505
+"L719848","Ottawa--Innis Point Bird Observatory",343,45.3873294000003,-75.8935547000001,"Ottawa, Canada",-75.6971931,45.4215296,"Canada","Ottawa","H",15.8361066360817
+"L720522","Boyce-Mayview Park",985,40.3250190999999,-80.1015759000002,"Pittsburgh, United States",-79.9958864,40.4406248,"United States","Pittsburgh","H",15.663165338253
+"L721762","Austin--Great Hills Park",365,30.4121465999998,-97.7544191000005,"Austin, United States",-97.7430608,30.267153,"United States","Austin","H",16.1107898582123
+"L722854","Austin--The Triangle Pond",406,30.3128386999998,-97.7336454000003,"Austin, United States",-97.7430608,30.267153,"United States","Austin","H",5.14495938013407
+"L726312","Parc des Moulins",317,46.8885833999997,-71.2990165,"Quebec, Canada",-71.2079809,46.8138783,"Canada","Quebec","H",10.8247445216501
+"L727186","Jean Lafitte NHP--Barataria Preserve Swamp",343,29.7838177,-90.1151257999998,"New Orleans, United States",-90.0715323,29.9510658,"United States","New Orleans","H",19.0118760956694
+"L727975","Cooper Mountain Nature Park",360,45.4519426000003,-122.8702354,"Portland, United States",-122.6764815,45.5230622,"United States","Portland","H",17.085170556785
+"L732477","Denver City Park",434,39.7474538999999,-104.9455476,"Denver, United States",-104.990251,39.7392358,"United States","Denver","H",3.93879506265158
+"L732494","Pennypack on the Delaware",653,40.0251969999999,-75.0129318000011,"Philadelphia, United States",-75.1652215,39.9525839,"United States","Philadelphia","H",15.3029152661287
+"L733301","Fisher Meadows Recreation Area",608,41.7754596000004,-72.8267468999991,"Hartford, United States",-72.6850932,41.7637111,"United States","Hartford","H",11.8504208008905
+"L735864","Henry Hudson Park",323,42.5473263000002,-73.7597179000003,"Albany, United States",-73.7562317,42.6525793,"United States","Albany","H",11.6955238693044
+"L736489","Old Hickory Lake--Snow Bunting Peninsula",269,36.2871794999999,-86.6591263,"Nashville, United States",-86.7816016,36.1626638,"United States","Nashville","H",17.6677792002255
+"L737484","Walter S. Davis Blvd Marsh",1218,36.1735301000006,-86.8265819999985,"Nashville, United States",-86.7816016,36.1626638,"United States","Nashville","H",4.22277507166448
+"L744033","Ohio State University--Drake Center at Olentangy River",268,40.0002022000001,-83.0229949999996,"Columbus, United States",-82.9987942,39.9611755,"United States","Columbus","H",4.80111815661375
+"L746272","Randolph GC/Hardesty Building",747,32.2085163999994,-110.911188099999,"Tucson, United States",-110.926479,32.2217429,"United States","Tucson","H",2.05648199353657
+"L747827","Old River Street (Poquonock)",634,41.9018218999999,-72.6707947000007,"Hartford, United States",-72.6850932,41.7637111,"United States","Hartford","H",15.3858848418583
+"L753777","Mystic Lakes, Medford",704,42.4327062000004,-71.1490058999993,"Boston, United States",-71.0588801,42.3600825,"United States","Boston","H",10.9609143252602
+"L756566","Scioto Audubon Metro Park",706,39.9487468000004,-83.0075118000007,"Columbus, United States",-82.9987942,39.9611755,"United States","Columbus","H",1.56822134540837
+"L757716","San Diego River--estuary",1086,32.7593067000005,-117.220606899998,"San Diego, United States",-117.1610838,32.715738,"United States","San Diego","H",7.38048490058549
+"L759432","Portland Fairgrounds",300,41.6039309999998,-72.6108098000003,"Hartford, United States",-72.6850932,41.7637111,"United States","Hartford","H",18.7931807631084
+"L764558","Emeryville Marina",259,37.8393942999999,-122.311885399999,"San Francisco, United States",-122.4194155,37.7749295,"United States","San Francisco","H",11.8686019241027
+"L764735","Black Marsh",554,39.2204524000005,-76.4217396,"Baltimore, United States",-76.6121893,39.2903848,"United States","Baltimore","H",18.1797225667466
+"L765025","Meadowlands District IBA",445,40.8060136000001,-74.0863895000002,"New York, United States",-74.0059413,40.7127837,"United States","New York","H",12.3827614197103
+"L765343","Hampton Twp. Park",805,40.5852128000004,-79.9344635000011,"Pittsburgh, United States",-79.9958864,40.4406248,"United States","Pittsburgh","H",16.8785273274022
+"L765570","Central Park--The Pond and Hallett Sanctuary",425,40.7662497,-73.9743750999995,"New York, United States",-74.0059413,40.7127837,"United States","New York","H",6.50852653661344
+"L772477","Ottawa--Fletcher Wildlife Garden",890,45.3856416000003,-75.7021951999998,"Ottawa, Canada",-75.6971931,45.4215296,"Canada","Ottawa","H",4.00775994374378
+"L774817","Middle Harbor Shoreline Park",423,37.8054778999998,-122.325940100001,"San Francisco, United States",-122.4194155,37.7749295,"United States","San Francisco","H",8.90433158766606
+"L774996","Rillito River Park--Columbus Weed Patch",363,32.2732364000002,-110.9032059,"Tucson, United States",-110.926479,32.2217429,"United States","Tucson","H",6.11688618842041
+"L775619","Melco Flood Retention Basin (restricted access)",340,38.1519217999999,-85.7329059000003,"Louisville, United States",-85.7584557,38.2526647,"United States","Louisville","H",11.4042292817541
+"L777521","Tijuana River Valley Regional Park--ball fields",283,32.5577826999999,-117.076438700001,"Tijuana, Mexico",-117.0382471,32.5149469,"Mexico","Tijuana","H",5.95290326001318
+"L779318","Charles Deering Estate",414,25.6258175999999,-80.3055954000004,"Miami, United States",-80.1917902,25.7616798,"United States","Miami","H",18.8952956028443
+"L780291","Pennypack Park--North End/Environmental Center",277,40.087019,-75.0594305999998,"Philadelphia, United States",-75.1652215,39.9525839,"United States","Philadelphia","H",17.4464715031187
+"L787059","Central Park--Strawberry Field",783,40.7760568000005,-73.9745951000004,"New York, United States",-74.0059413,40.7127837,"United States","New York","H",7.50863632515213
+"L787141","Wallace Swamp Creek Park",349,47.7716084999997,-122.2434354,"Seattle, United States",-122.3320708,47.6062095,"United States","Seattle","H",19.5566006505832
+"L791371","Lake Merced--Concrete Bridge area",1160,37.7126917999996,-122.487945600003,"San Francisco, United States",-122.4194155,37.7749295,"United States","San Francisco","H",9.17609596253713
+"L792565","Crystal Springs Rhododendron Garden",440,45.4779707999999,-122.636470199999,"Portland, United States",-122.6764815,45.5230622,"United States","Portland","H",5.90716957268521
+"L793930","Wheat Ridge Greenbelt--Prospect Park & Lake",450,39.7760558000005,-105.125448699999,"Denver, United States",-104.990251,39.7392358,"United States","Denver","H",12.2858722230574
+"L793950","Loch Raven Reservoir--Loch Raven Point",433,39.4507090000003,-76.5523051999996,"Baltimore, United States",-76.6121893,39.2903848,"United States","Baltimore","H",18.5325478394347
+"L794140","Central Park--North End",856,40.7960889999999,-73.9558946999987,"New York, United States",-74.0059413,40.7127837,"United States","New York","H",10.1706460127222
+"L794225","Pool Wildlife Sanctuary",271,40.5433357999998,-75.5128097999998,"Allentown, United States",-75.4901833,40.6084305,"United States","Allentown","H",7.47806512642595
+"L794465","Pier 94--salt marsh restoration",454,37.7456581999999,-122.375548099999,"San Francisco, United States",-122.4194155,37.7749295,"United States","San Francisco","H",5.04947703750424
+"L796074","Centennial Olympic Park",513,33.7616402000001,-84.3927347999998,"Atlanta, United States",-84.3879824,33.7489954,"United States","Atlanta","H",1.47002516331147
+"L796467","Greenwood Memorial Park",283,32.7067834000001,-117.105331399999,"San Diego, United States",-117.1610838,32.715738,"United States","San Diego","H",5.32064063288036
+"L797450","El Paso--Ascarate Park/Lake",256,31.7538608000002,-106.4046907,"Ciudad Juarez, Mexico",-106.4245478,31.6903638,"Mexico","Ciudad Juarez","H",7.28786451831293
+"L800184","Tracy Owen Station (Log Boom Park)",259,47.7573004999999,-122.2639918,"Seattle, United States",-122.3320708,47.6062095,"United States","Seattle","H",17.559384805377
+"L802943","Fiesta Island--dog run",324,32.7717739,-117.224507300001,"San Diego, United States",-117.1610838,32.715738,"United States","San Diego","H",8.59953614122926
+"L803495","Mendon Ponds Park--Quaker Pond Trail",337,43.0130181999998,-77.5716089999996,"Rochester, United States",-77.6109219,43.16103,"United States","Rochester","H",16.7519730612805
+"L804706","Eagle Creek Reservoir",280,39.8417587999999,-86.3044738999998,"Indianapolis, United States",-86.158068,39.768403,"United States","Indianapolis","H",14.9509003793604
+"L805099","Rocky River Reservation--Nature Center Trails",901,41.4097919000002,-81.8842684999994,"Cleveland, United States",-81.6943605,41.49932,"United States","Cleveland","H",18.725666072427
+"L806691","Cimetières Mt-Royal & Notre-Dame-des-Neiges",1275,45.5049279000009,-73.6039953,"Montreal, Canada",-73.567256,45.5016889,"Canada","Montreal","H",2.89378295724172
+"L807500","Koll Center Wetlands",498,45.4562775999997,-122.791185399999,"Portland, United States",-122.6764815,45.5230622,"United States","Portland","H",11.640238319385
+"L811486","Times Beach",316,42.8735739000002,-78.8826083999996,"Buffalo, United States",-78.8783689,42.8864468,"United States","Buffalo","H",1.47140327836885
+"L812292","Sweetwater Marsh NWR",261,32.6391471999998,-117.113377999999,"San Diego, United States",-117.1610838,32.715738,"United States","San Diego","H",9.60028012427322
+"L813701","King's Beach, Lynn/Swampscott",274,42.4667153999999,-70.9221983000001,"Boston, United States",-71.0588801,42.3600825,"United States","Boston","H",16.3364024223826
+"L813905","Brown's Ferry Park",449,45.3830796000002,-122.738013299999,"Portland, United States",-122.6764815,45.5230622,"United States","Portland","H",16.2852869971584
+"L813972","Montrose Dunes, Lincoln Park, Chicago",483,41.9660700999996,-87.6333690000002,"Chicago, United States",-87.6297982,41.8781136,"United States","Chicago","H",9.77397354630701
+"L815296","Broughton Beach",1094,45.6003621999994,-122.615253900002,"Portland, United States",-122.6764815,45.5230622,"United States","Portland","H",9.83164959957687
+"L815321","Vibert Rd",268,41.8256359999997,-72.6261520000004,"Hartford, United States",-72.6850932,41.7637111,"United States","Hartford","H",8.44430964680325
+"L816148","Decatur Cemetery",276,33.7808594999999,-84.2922591999998,"Atlanta, United States",-84.3879824,33.7489954,"United States","Atlanta","H",9.54602431805522
+"L817096","Edmonton--Hermitage Park",281,53.5836653000002,-113.3737779,"Edmonton, Canada",-113.4909267,53.544389,"Canada","Edmonton","H",8.90840700074651
+"L818231","Nestor Park & Tesoro Grove Wy.",289,32.5727903999998,-117.081282700001,"Tijuana, Mexico",-117.0382471,32.5149469,"Mexico","Tijuana","H",7.58210917813897
+"L818235","Border Field SP--riparian and scrub",265,32.5433402999999,-117.106356,"Tijuana, Mexico",-117.0382471,32.5149469,"Mexico","Tijuana","H",7.13136432723568
+"L819883","Cherry Creek SP--Marina & nearby Dam Trail",286,39.6403389999997,-104.8701239,"Denver, United States",-104.990251,39.7392358,"United States","Denver","H",15.058187749552
+"L823871","Breach Inlet",455,32.7754399999998,-79.8132706000001,"Charleston, United States",-79.9310512,32.7764749,"United States","Charleston","H",11.0353065227981
+"L826615","Ottawa--Britannia Conservation Area (general location)",1734,45.3711228999991,-75.7915535000029,"Ottawa, Canada",-75.6971931,45.4215296,"Canada","Ottawa","H",9.27227136104737
+"L826628","Central Park--Arthur Ross Pinetum",388,40.7835168000001,-73.9667000000006,"New York, United States",-74.0059413,40.7127837,"United States","New York","H",8.52536652949896
+"L827977","Bayfront Park (J St.)",491,32.6189978000002,-117.103131999999,"San Diego, United States",-117.1610838,32.715738,"United States","San Diego","H",12.0269561508715
+"L834368","West Bouldin Creek Greenbelt",544,30.2540071999997,-97.7601929000007,"Austin, United States",-97.7430608,30.267153,"United States","Austin","H",2.20042368764047
+"L834429","Kiwanis Park",345,33.3739932999998,-111.939311,"Phoenix, United States",-112.0740373,33.4483771,"United States","Phoenix","H",15.0037035422831
+"L834648","Tualatin Valley Academy--Campus",322,45.5170230000002,-122.903194400001,"Portland, United States",-122.6764815,45.5230622,"United States","Portland","H",17.7258600894132
+"L834967","Side Cut Metropark",1093,41.5568457999999,-83.6716067999992,"Toledo, United States",-83.555212,41.6639383,"United States","Toledo","H",15.349370457693
+"L835248","Newton City Hall",338,42.3373250000003,-71.2076658000003,"Boston, United States",-71.0588801,42.3600825,"United States","Boston","H",12.5173915035399
+"L835809","Folly Beach Fishing Pier",270,32.652325,-79.9380764000002,"Charleston, United States",-79.9310512,32.7764749,"United States","Charleston","H",13.78389258135
+"L838090","Seneca/Ridgeway area",441,32.2475403999998,-110.8653452,"Tucson, United States",-110.926479,32.2217429,"United States","Tucson","H",6.43303135539601
+"L838804","Fogelsville Quarry",414,40.5937756999997,-75.6277155999997,"Allentown, United States",-75.4901833,40.6084305,"United States","Allentown","H",11.7539845335883
+"L839340","Rio Grande Nature Center SP -- Candelaria Wetlands",945,35.1297717999994,-106.681623500001,"Albuquerque, United States",-106.6055534,35.0853336,"United States","Albuquerque","H",8.50898168451315
+"L839345","Rio Grande Nature Center SP -- Visitor Center",262,35.1304868999998,-106.6837344,"Albuquerque, United States",-106.6055534,35.0853336,"United States","Albuquerque","H",8.71190233281701
+"L840787","Swan Creek Preserve Metropark",559,41.6158273000001,-83.6430359000004,"Toledo, United States",-83.555212,41.6639383,"United States","Toledo","H",9.0605677724229
+"L841875","University Lakes",459,30.4209222999998,-91.1678552999998,"Baton Rouge, United States",-91.1403196,30.4582829,"United States","Baton Rouge","H",4.91432794646895
+"L843052","Burnaby Lake--Piper Spit",595,49.2420768000003,-122.935445299999,"Vancouver, Canada",-123.1207375,49.2827291,"Canada","Vancouver","H",14.2244231273063
+"L845398","Tingley Beach - Bosque Ponds",978,35.0807860999996,-106.671795799998,"Albuquerque, United States",-106.6055534,35.0853336,"United States","Albuquerque","H",6.0620604594815
+"L856570","San Gabriel Coastal Basin Spreading Grounds",403,33.9810187000002,-118.082449399999,"Los Angeles, United States",-118.2436849,34.0522342,"United States","Los Angeles","H",16.8581214968019
+"L859056","Muddy Pond/Sterling Peat, Sterling",329,42.4125067000003,-71.7875239999996,"Worcester, United States",-71.8022934,42.2625932,"United States","Worcester","H",16.6967917048597
+"L859691","Green Pond",290,40.6798080999998,-75.3052497,"Allentown, United States",-75.4901833,40.6084305,"United States","Allentown","H",17.5363367135913
+"L862713","Tennessee State University",368,36.1660296000003,-86.8317103000006,"Nashville, United States",-86.7816016,36.1626638,"United States","Nashville","H",4.52403462592183
+"L863815","Brandi Fenton Memorial Park",284,32.2721568999999,-110.9171212,"Tucson, United States",-110.926479,32.2217429,"United States","Tucson","H",5.65959393640993
+"L864176","Blacklick Woods--Nature Center and Trails (Fairfield Co.)",496,39.9342725999998,-82.8050011000007,"Columbus, United States",-82.9987942,39.9611755,"United States","Columbus","H",16.8285831585167
+"L869326","Quarry Lake",509,39.3826765999998,-76.6903209999996,"Baltimore, United States",-76.6121893,39.2903848,"United States","Baltimore","H",12.2622930058834
+"L869597","Eaton Canyon Nature Center",340,34.1773525999998,-118.0968797,"Los Angeles, United States",-118.2436849,34.0522342,"United States","Los Angeles","H",19.392416390494
+"L871818","North Lido Beach Park",340,27.3203439999999,-82.5852159999997,"Sarasota, United States",-82.5306527,27.3364347,"United States","Sarasota","H",5.68660501953199
+"L874547","Wetland East of Hotel Ave",415,42.9091974000002,-85.5359673999994,"Grand Rapids, United States",-85.6680863,42.9633599,"United States","Grand Rapids","H",12.3492405708511
+"L876033","Lake Raleigh",471,35.7667941,-78.6778808000009,"Raleigh, United States",-78.6381787,35.7795897,"United States","Raleigh","H",3.86045260940444
+"L878273","Mystic Lakes--Sandy Beach, Winchester",452,42.4417011000002,-71.1450576999997,"Boston, United States",-71.0588801,42.3600825,"United States","Boston","H",11.512379982103
+"L879045","Fish Creek PP--Lafarge Meadows",307,50.8893184000003,-114.0070252,"Calgary, Canada",-114.0708459,51.0486151,"Canada","Calgary","H",18.2796418644254
+"L880023","North Park--Marshall Lake",300,40.6135615000002,-80.0213242,"Pittsburgh, United States",-79.9958864,40.4406248,"United States","Pittsburgh","H",19.3243025459332
+"L883549","Carlos Pointe",367,26.4031136,-81.8859959000001,"Cape Coral, United States",-81.9495331,26.5628537,"United States","Cape Coral","H",18.7980772726071
+"L883813","Rocky Mountain Lake Park",353,39.7824005999997,-105.0299138,"Denver, United States",-104.990251,39.7392358,"United States","Denver","H",5.87540577771319
+"L886942","Pelican Blvd. Baseball Fields",504,26.5747491000002,-81.9834565999996,"Cape Coral, United States",-81.9495331,26.5628537,"United States","Cape Coral","H",3.62770411913446
+"L888285","Fontenelle Forest--Wetlands",281,41.1749716,-95.8902167999996,"Omaha, United States",-95.9979883,41.2523634,"United States","Omaha","H",12.4723552668482
+"L888511","Gerald R. Ford Airport (Kraft Ave Access)",596,42.8763414999996,-85.5267136999992,"Grand Rapids, United States",-85.6680863,42.9633599,"United States","Grand Rapids","H",15.0559832145954
+"L889273","Liberty Park",884,40.7432253000005,-111.8728888,"Salt Lake City, United States",-111.8910474,40.7607793,"United States","Salt Lake City","H",2.48023762973002
+"L891347","Reddie Point Preserve",746,30.3887022000004,-81.6199475999985,"Jacksonville, United States",-81.655651,30.3321838,"United States","Jacksonville","H",7.14410607181219
+"L903856","Ft. Moultrie National Monument",498,32.7564581999997,-79.8546838999998,"Charleston, United States",-79.9310512,32.7764749,"United States","Charleston","H",7.49193670014962
+"L907532","Allegheny Land Trust--Wingfield Pines",782,40.3379741999998,-80.1141769000008,"Pittsburgh, United States",-79.9958864,40.4406248,"United States","Pittsburgh","H",15.1921764882456
+"L910358","Heron Haven",284,41.2915443000001,-96.0934639000004,"Omaha, United States",-95.9979883,41.2523634,"United States","Omaha","H",9.1066260476386
+"L910818","Anchorage Trail",751,38.2666738000005,-85.540126200001,"Louisville, United States",-85.7584557,38.2526647,"United States","Louisville","H",19.171766078378
+"L915566","Royal Botanic Gardens (Sydney)",309,-33.8638957000001,151.2167577,"Sydney, Australia",151.2092955,-33.8688197,"Australia","Sydney","H",0.880370655990374
+"L919153","Royal Botanic Gardens (Melbourne)",369,-37.8297920999998,144.980521199999,"Melbourne, Australia",144.9630576,-37.8136276,"Australia","Melbourne","H",2.36286064179889
+"L920289","Kirstenbosch Botanical Garden",317,-33.9896301000001,18.4304236999999,"Cape Town, South Africa",18.4240553,-33.9248685,"South Africa","Cape Town","H",7.20753836495349
+"L920374","Strandfontein WTP",284,-34.0827348000001,18.5131645000001,"Cape Town, South Africa",18.4240553,-33.9248685,"South Africa","Cape Town","H",19.3493518910407
+"L922048","Banyule Flats Reserve",650,-37.7491957999994,145.089322300001,"Melbourne, Australia",144.9630576,-37.8136276,"Australia","Melbourne","H",13.2236000069916
+"L923357","Herdsman Lake",498,-31.9199308999997,115.8043098,"Perth, Australia",115.8604572,-31.9505269,"Australia","Perth","H",6.30067308450823
+"L928007","Eastlakes golf course",270,-33.9378058000001,151.205692299999,"Sydney, Australia",151.2092955,-33.8688197,"Australia","Sydney","H",7.65923596368564
+"L928252","Long Reef Aquatic Reserve",258,-33.7417875,151.3162208,"Sydney, Australia",151.2092955,-33.8688197,"Australia","Sydney","H",17.2209301236225
+"L930485","Green Mubazzarah",545,24.1045709999999,55.7506800000003,"Al Ain, United Arab Emirates",55.8023118,24.1301619,"United Arab Emirates","Al Ain","H",5.96527676472881
+"L933409","Claremont Canyon Regional Preserve",586,37.8661299999998,-122.239572999999,"San Francisco, United States",-122.4194155,37.7749295,"United States","San Francisco","H",18.7935200025748
+"L938388","Hyde Park",319,51.5080373000001,-0.163979500000001,"London, United Kingdom",-0.1277583,51.5073509,"United Kingdom","London","H",2.51595454244761
+"L939896","London Wetland Centre WWT",348,51.4794959999999,-0.232568999999999,"London, United Kingdom",-0.1277583,51.5073509,"United Kingdom","London","H",7.91140665762634
+"L945563","St. James Park",323,51.5031328999998,-0.133895899999999,"London, United Kingdom",-0.1277583,51.5073509,"United Kingdom","London","H",0.633902574570144
+"L945869","Centennial Park (Sydney)",367,-33.8977058,151.234145199999,"Sydney, Australia",151.2092955,-33.8688197,"Australia","Sydney","H",3.94344598211937
+"L950064","Lincoln Park, Chicago--South Pond",293,41.9173515000002,-87.6329613000005,"Chicago, United States",-87.6297982,41.8781136,"United States","Chicago","H",4.36610174508469
+"L951893","Gandy Beach",489,27.8715551000001,-82.6048279000001,"Tampa, United States",-82.4571776,27.950575,"United States","Tampa","H",16.9690922130984
+"L956160","San Antonio--Brackenridge Park--Joske Pavilion & Lambert Beach",253,29.4634392999999,-98.4702872999997,"San Antonio, United States",-98.4936282,29.4241219,"United States","San Antonio","H",4.91129403881692
+"L960635","Tinchi Tamba Wetlands Reserve",446,-27.2999435999997,153.038542299999,"Brisbane, Australia",153.0251235,-27.4697707,"Australia","Brisbane","H",18.8652253728837
+"L967148","Oxley Creek Common",679,-27.5358826999998,152.992836899998,"Brisbane, Australia",153.0251235,-27.4697707,"Australia","Brisbane","H",7.99045427900331
+"L972527","RN Estuário do Tejo--Sítio das Hortas",296,38.7607680000001,-8.93841860000003,"Lisbon, Portugal",-9.1393366,38.7222524,"Portugal","Lisbon","H",17.9836128365429
+"L974746","Anstead Bushland Reserve",406,-27.5430560000003,152.861135599998,"Brisbane, Australia",153.0251235,-27.4697707,"Australia","Brisbane","H",18.1242165435456
+"L976247","Universidad de Buenos Aires RECN",559,-34.5373325,-58.4446477999998,"Buenos Aires, Argentina",-58.3815591,-34.6036844,"Argentina","Buenos Aires","H",9.36445516338681
+"L976352","Gold Creek Reservoir",495,-27.4620387,152.881485899999,"Brisbane, Australia",153.0251235,-27.4697707,"Australia","Brisbane","H",14.2233377472034
+"L976923","Hobbs Brook Reservation Pond",354,42.43505,-71.2666797999994,"Boston, United States",-71.0588801,42.3600825,"United States","Boston","H",19.0277912024407
+"L977968","Ribeira das Enguias",364,38.7478580999997,-8.92227169999992,"Lisbon, Portugal",-9.1393366,38.7222524,"Portugal","Lisbon","H",19.0863221946017
+"L978778","Foz do Rio Trancão",330,38.7962394000001,-9.09062859999995,"Lisbon, Portugal",-9.1393366,38.7222524,"Portugal","Lisbon","H",9.24030314385529
+"L979378","Reed Lake",367,45.4817872000002,-122.6290512,"Portland, United States",-122.6764815,45.5230622,"United States","Portland","H",5.89788709310063
+"L989047","Meeker Slough",265,37.9101430999999,-122.3369694,"San Francisco, United States",-122.4194155,37.7749295,"United States","San Francisco","H",16.6702582013626
+"L998667","Cherokee Park",426,38.2390228000003,-85.6961488999997,"Louisville, United States",-85.7584557,38.2526647,"United States","Louisville","H",5.66054168737135
+"L999240","Presidio--Battery Godfrey",499,37.8037613,-122.477471500001,"San Francisco, United States",-122.4194155,37.7749295,"United States","San Francisco","H",6.03251142011753
