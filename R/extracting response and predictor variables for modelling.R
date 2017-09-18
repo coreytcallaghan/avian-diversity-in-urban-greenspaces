@@ -1,5 +1,4 @@
-## setwd('H:/Dissertation/Dissertation Chapters/Data Chapters/Relationship between avian diversity and urban environments/Github work/avian diversity in greenspaces')
-
+## setwd("H:/Dissertation/Dissertation Chapters/Data Chapters/Relationship between avian diversity and urban environments/Analysis/avian diversity in greenspaces")
 
 ## Necessary packages 
 library(readr)
@@ -13,11 +12,11 @@ library(lubridate)
 
 ### Reading in study sites
 
-possible_study_sites <- read_csv("Data/possible.study.sites.csv")
+Final_study_sites <- read_csv("Data/Final_study_sites/Final_study_sites.csv")
 
 
 ### Reading in bird data
-bird_data <- read_csv("Data/Bird_Data_Corey.csv")
+load("Data/Bird_data/bird_data.RData")
 
 
 ### Reading in predictor variables
@@ -39,7 +38,7 @@ rm(myfiles)
 
 #### for hotspots
 
-setwd("Data/ebird_hotspot_stats")
+setwd("Data/ebird_Hotspot_stats")
 
 temp=list.files(pattern="*.csv")
 myfiles=lapply(temp, read_csv)

@@ -1,13 +1,16 @@
+## setwd("H:/Dissertation/Dissertation Chapters/Data Chapters/Relationship between avian diversity and urban environments/Analysis/avian diversity in greenspaces")
+
+
 #### packages
 library(readr)
 library(rgdal)
 library(rgeos)
 
 #### read file in
-possible_study_sites <- read_csv("Data/possible.study.sites.csv")
+study_sites <- read_csv("Data/Final_study_sites/Final_study_sites.csv")
 
 #### calculate nearest distance to coast
-pts <- possible_study_sites[, c('Long', 'Lat')]
+pts <- study_sites[, c('LONGITUDE', 'LATITUDE')]
 
 
 
@@ -24,11 +27,11 @@ coast.moll <- spTransform(coast,CRS(mollweide))
 point.moll <- spTransform(sp.points,CRS(mollweide))
 
 
-possible_study_sites$distance.to.coast_km <- (sapply(1:length(point.moll), function(i)gDistance(point.moll[i],coast.moll)))/1000
+study_sites$distance.to.coast_km <- (sapply(1:length(point.moll), function(i)gDistance(point.moll[i],coast.moll)))/1000
 
 
 
-write.csv(possible_study_sites, "Data/possible.study.sites.csv", row.names=FALSE)
+write.csv(study_sites, "Data/Final_study_sites/Final_study_sites.csv", row.names=FALSE)
 
 
 
