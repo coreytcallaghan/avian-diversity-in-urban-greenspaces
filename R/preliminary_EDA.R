@@ -19,6 +19,6 @@ Final_study_sites %>%
   group_by(Polygon_id) %>%
   summarise(Hotspot_size = mean(Area_ha),
             species_richness = mean(species_richness)) %>%
-  ggplot(., aes(x=species_richness, y=log(Hotspot_size))) +
+  ggplot(., aes(x=species_richness, y=(Hotspot_size))) +
   geom_point()+
   theme_bw()

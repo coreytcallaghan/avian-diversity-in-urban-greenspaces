@@ -2,3 +2,14 @@ old_buffers/
 buffers/15_km_buffer/15_km_buffer.shp.FIREBACK.13628.2284.sr.lock
 buffers/25_km_buffer/25_km_buffer.shp.FIREBACK.13628.2284.sr.lock
 buffers/5_km_buffer/5_km_buffer.shp.FIREBACK.13628.2284.sr.lock
+Data/Final_study_sites/Shapefile/final_study_sites.shp.FIREBACK.13628.2284.sr.lock
+Data/Bird_data/bird_data.RData
+Data/unique_localities.txt
+Data/unique_localities.csv
+Data/25_km_buffer_locations.xlsx
+Data/25_km_buffer_locations.csv
+Data/15_km_buffer_locations.xlsx
+Data/5_km_buffer_locations.xlsx
+Data/5_km_buffer_locations.csv
+Data/15_km_buffer_locations.csv
+Data/100_km_buffer_locations.txt

@@ -1,76 +1,115 @@
-file.name,value,name,LOCALITY_ID
-forest_gain_5,6.25E-05,A. D. Barnes Park,L200830
-forest_gain_5,1.08E-04,大阪市--大阪城/大阪城公園 (Osaka--Osaka Castle / Osaka Castle Park),L1123077
-forest_gain_5,4.65E-05,台北--大安森林公園(Taipei--Da'an Forest Park),L2319930
-forest_gain_5,0.005718398,Addis Ababa--Ghion Hotel,L3016220
-forest_gain_5,7.61E-05,江戸川区--葛西臨海公園 (Edogawa Ward--Kasai Rinkai Park),L1896754
-forest_gain_5,6.21E-04,Athens National Gardens,L2694540
-forest_gain_5,5.81E-04,Büyük Çamlıca Tepesi,L2361473
-forest_gain_5,0,Bangkok--Lumphini Park,L1068940
-forest_gain_5,2.03E-04,Berlin--Grosser Tiergarten,L1756521
-forest_gain_5,0.003649386,Bidadari,L3345783
-forest_gain_5,0,Bosque El Olivar,L826850
-forest_gain_5,3.18E-05,Bosque los Colomos,L2811916
-forest_gain_5,3.72E-05,Boston Public Garden,L209928
-forest_gain_5,1.62E-05,Botanik Parkı,L1930245
-forest_gain_5,0.005415343,Cape Town--Company's Garden,L1357648
-forest_gain_5,4.22E-04,Centennial Olympic Park,L796074
-forest_gain_5,1.91E-04,Centennial Park (Sydney),L945869
-forest_gain_5,0,"Central Park (Banabitan), Kolkata",L2071440
-forest_gain_5,0,Centre for Environment Education (CEE),L3353044
-forest_gain_5,2.67E-05,Cerro Santa Lucia,L980718
-forest_gain_5,7.36E-05,Constitution Gardens and Reflecting Pool,L473521
-forest_gain_5,1.18E-04,Curitiba -- Jardim Botânico de Curitiba,L3143033
-forest_gain_5,3.27E-04,Dallas--Pioneer Park/City Hall Park,L1274650
-forest_gain_5,2.83E-04,Durban Botanical Gardens,L1060493
-forest_gain_5,0,Echo Park,L619767
-forest_gain_5,0,Fergusson College Campus,L3148022
-forest_gain_5,3.13E-04,Freeway Park (Seattle),L372668
-forest_gain_5,0,Hanoi Botanical Gardens,L1877540
-forest_gain_5,1.84E-04,Hofgarten Düsseldorf,L3024180
-forest_gain_5,0.001135944,Houston--West 11th Street Park,L281716
-forest_gain_5,0,"Humboldt Park, Chicago",L339164
-forest_gain_5,3.84E-04,Hyde Park,L938388
-forest_gain_5,0,Jakarta--Monas,L1416967
-forest_gain_5,0.001417794,Jardín Botánico de Medellín Joaquín Antonio Uribe,L1119406
-forest_gain_5,3.14E-04,Jardín Botánico José Celestino Mutis,L2404145
-forest_gain_5,9.07E-05,Johannesburg Botanical Gardens,L1277000
-forest_gain_5,0,Kiwanis Park,L834429
-forest_gain_5,2.24E-04,Kowloon Park,L1435080
-forest_gain_5,0.001653735,Kuala Lumpur City Center Park,L2688240
-forest_gain_5,0,Kunming--Green Lake Park,L957929
-forest_gain_5,1.68E-04,Lago del Golf,L1471853
-forest_gain_5,8.75E-06,Lalbagh Botanical Gardens,L2525698
-forest_gain_5,6.90E-05,Lodi Gardens,L2265071
-forest_gain_5,4.43E-04,Lucknow Zoological Garden,L3922053
-forest_gain_5,0.001601907,"Manila American Cemetery & Memorial, Taguig",L1271819
-forest_gain_5,9.70E-04,Mt. Davidson,L419667
-forest_gain_5,0.003091527,Nairobi River @ National Museums of Kenya (incl. Boulevard Hotel),L1046815
-forest_gain_5,3.13E-04,Namsan Mountain,L1668242
-forest_gain_5,0,Pantoja Park,L1830072
-forest_gain_5,1.01E-04,Paris--6e arr.--Jardin du Luxembourg,L920889
-forest_gain_5,0.002293016,Parque Chico Mendes,L2386097
-forest_gain_5,0.002203674,"Parque de El Retiro, Madrid",L1139116
-forest_gain_5,1.47E-04,"Parque de la Ciutadella, Barcelona",L4026586
-forest_gain_5,2.33E-05,Parque do Ibirapuera,L1800556
-forest_gain_5,1.37E-04,Parque Rufino Tamayo,L2875912
-forest_gain_5,1.22E-04,PN de l'Île-de-la-Visitation,L459787
-forest_gain_5,5.47E-05,Prospect Park,L109516
-forest_gain_5,3.89E-04,Royal Botanic Gardens (Melbourne),L919153
-forest_gain_5,0,Safa Park,L982332
-forest_gain_5,0,Saigon--Thao Cam Vien (Saigon Zoo),L1118709
-forest_gain_5,0,"Sanjeevaiah Park, Hyderabad",L2472492
-forest_gain_5,0.003376482,Santo Domingo--Jardín Botánico Nacional,L352473
-forest_gain_5,0,Shahr Park (general area),L3158781
-forest_gain_5,0,Shangaii--Century Park,L1029418
-forest_gain_5,1.61E-05,Shushan Forest Park,L3483931
-forest_gain_5,0,Sun Yat-sen University Campus,L2354294
-forest_gain_5,0,Technopole,L2389491
-forest_gain_5,1.38E-04,Tiantan Park (Temple of Heaven),L2398320
-forest_gain_5,6.83E-05,Toronto--Queen's Park,L571677
-forest_gain_5,1.08E-04,UM Dearborn--Rouge River Bird Observatory,L511955
-forest_gain_5,7.02E-06,University of Ghana Botanical Gardens,L2265183
-forest_gain_5,6.11E-04,Villa Borghese,L1017789
-forest_gain_5,0,Viveros de Coyoacán,L294783
-forest_gain_5,3.20E-05,Woodlands Cemetery,L715912
-forest_gain_5,7.84E-05,Yangon--Inya Lake,L1899347
+Area,BUFF_DIST,LOCALITY_I,Perimeter,value,file.name
+409.6210974,5,L923357,8.123751837,5.72E-04,forest_gain_5
+11.83772529,5,L2314029,1.803885894,1.91E-05,forest_gain_5
+41.52692277,5,L1070558,3.403294442,0,forest_gain_5
+108.0565067,5,L2205485,8.383377561,0.001202794,forest_gain_5
+195.1515519,5,L945563,7.491118318,3.59E-04,forest_gain_5
+688.9089054,5,L938388,11.58241077,3.87E-04,forest_gain_5
+380.0643874,5,L663110,7.900171122,4.09E-04,forest_gain_5
+75.04806455,5,L342893,4.211326752,9.24E-05,forest_gain_5
+203.8869419,5,L2468319,7.213091601,7.43E-05,forest_gain_5
+813.4974407,5,L806691,13.13482194,5.10E-06,forest_gain_5
+274.5874481,5,L165056,6.777135664,4.88E-05,forest_gain_5
+27.44461616,5,L2161102,2.088819629,5.92E-05,forest_gain_5
+40.88619848,5,L1448462,6.585374467,6.04E-06,forest_gain_5
+48.74494516,5,L1409960,4.207193165,2.52E-05,forest_gain_5
+83.33875035,5,L2390329,4.021541947,8.73E-05,forest_gain_5
+31.32391737,5,L3187356,4.290778941,2.51E-05,forest_gain_5
+18.00116307,5,L312198,1.80251158,5.42E-04,forest_gain_5
+59.78429576,5,L196159,3.463815592,3.55E-04,forest_gain_5
+144.3757788,5,L275836,5.691863051,3.52E-04,forest_gain_5
+33.92931433,5,L634615,3.061784846,0.002638626,forest_gain_5
+83.63361068,5,L807500,6.47805541,0.00373581,forest_gain_5
+147.3843367,5,L447381,5.598376426,1.76E-04,forest_gain_5
+82.2925033,5,L2041660,3.686770374,6.14E-04,forest_gain_5
+10.72610792,5,L2531682,1.639869598,0.001093373,forest_gain_5
+8.658871484,5,L2531687,1.596830405,0.001087888,forest_gain_5
+193.0574293,5,L919153,6.271403326,3.40E-04,forest_gain_5
+281.8079743,5,L945869,7.917616955,1.41E-04,forest_gain_5
+20.295477,5,L1007610,2.118178555,2.45E-04,forest_gain_5
+3.529576952,5,L1206404,1.042346446,4.88E-04,forest_gain_5
+25.03211447,5,L1896576,1.918820091,1.37E-04,forest_gain_5
+4.643658481,5,L1284799,1.046470945,1.89E-04,forest_gain_5
+4.908590966,5,L389608,1.26595499,2.06E-04,forest_gain_5
+7.750115788,5,L1014322,1.1395047,5.44E-04,forest_gain_5
+7.054897622,5,L598129,1.108911737,6.68E-04,forest_gain_5
+671.2881167,5,L109439,14.74217781,4.59E-04,forest_gain_5
+74.99682478,5,L590796,5.473325974,9.09E-04,forest_gain_5
+27.25148609,5,L419667,1.9939401,9.40E-04,forest_gain_5
+5.404973654,5,L1074046,1.0048047,0.002570184,forest_gain_5
+155.706136,5,L486301,6.404377203,8.74E-04,forest_gain_5
+202.9866002,5,L456488,7.538904307,0,forest_gain_5
+148.6685496,5,L796467,6.166389618,0,forest_gain_5
+12.94475035,5,L246035,1.63351686,0,forest_gain_5
+699.5155119,5,L453412,12.2642329,9.67E-05,forest_gain_5
+3.737196655,5,L241804,0.931712593,1.66E-04,forest_gain_5
+10.56080261,5,L208734,1.813471768,9.74E-04,forest_gain_5
+19.00362924,5,L834368,3.117662103,0.001154628,forest_gain_5
+26.91715066,5,L2875912,2.256211723,1.36E-04,forest_gain_5
+38.9454954,5,L250958,2.646238463,0,forest_gain_5
+96.84988008,5,L250145,4.795861467,1.57E-05,forest_gain_5
+62.48892426,5,L227274,3.622011139,1.62E-05,forest_gain_5
+5.564527258,5,L622087,0.999373874,9.18E-06,forest_gain_5
+221.92285,5,L797450,6.048442742,1.45E-05,forest_gain_5
+7.442667215,5,L2107980,1.786392089,0.002177919,forest_gain_5
+76.90147549,5,L834429,5.118132766,0,forest_gain_5
+16.03374622,5,L385285,1.731909734,8.76E-06,forest_gain_5
+69.36152985,5,L889273,3.514993998,2.62E-04,forest_gain_5
+89.83552913,5,L299578,4.033944585,1.45E-05,forest_gain_5
+93.73892113,5,L1743685,4.17784758,4.48E-04,forest_gain_5
+319.0909037,5,L684445,8.24315392,6.65E-04,forest_gain_5
+34.0470971,5,L588572,3.552011792,9.90E-04,forest_gain_5
+37.42166983,5,L883813,2.56518368,5.46E-05,forest_gain_5
+217.5057554,5,L732477,6.138825815,2.16E-04,forest_gain_5
+60.3667342,5,L232994,3.965223168,3.07E-04,forest_gain_5
+105.5116638,5,L343087,5.393706839,3.13E-04,forest_gain_5
+15.82612815,5,L910358,1.74843709,8.93E-05,forest_gain_5
+107.8573867,5,L1215121,4.771933533,3.17E-04,forest_gain_5
+217.2872915,5,L268530,8.669759547,2.74E-04,forest_gain_5
+790.6461919,5,L213077,11.85319233,5.96E-05,forest_gain_5
+128.4767034,5,L152123,4.777319255,5.34E-05,forest_gain_5
+81.43173982,5,L1163678,4.129937205,6.92E-05,forest_gain_5
+196.1479739,5,L252263,6.378792977,9.58E-05,forest_gain_5
+23.72710521,5,L454170,2.106393862,7.74E-06,forest_gain_5
+127.8079008,5,L108460,4.815162072,0,forest_gain_5
+144.0509166,5,L339164,5.331651204,0,forest_gain_5
+102.340698,5,L108479,4.021158782,0,forest_gain_5
+228.3071132,5,L298724,6.3240743,6.52E-06,forest_gain_5
+353.4472499,5,L11,7.647478528,3.01E-05,forest_gain_5
+3.014494833,5,L1620006,0.918286157,1.60E-05,forest_gain_5
+33.66621996,5,L571677,2.897408564,7.41E-05,forest_gain_5
+21.74399686,5,L2921580,3.802309809,0,forest_gain_5
+14.69443918,5,L2921596,2.802077398,0,forest_gain_5
+4.082893853,5,L2889249,1.25598204,2.37E-05,forest_gain_5
+10.27955091,5,L2960422,1.68200426,0,forest_gain_5
+7.335856056,5,L717897,1.258993105,0,forest_gain_5
+269.8380529,5,L271279,7.179805207,5.85E-05,forest_gain_5
+28.71537021,5,L1150366,2.375736161,6.34E-05,forest_gain_5
+11.07748812,5,L1138317,2.59040892,5.62E-05,forest_gain_5
+139.3080943,5,L620970,4.775986637,0,forest_gain_5
+32.9713361,5,L2807001,2.898828457,5.95E-05,forest_gain_5
+59.35114917,5,L711719,3.239175882,3.05E-05,forest_gain_5
+12.06031765,5,L1877656,1.730353462,7.24E-04,forest_gain_5
+30.75045904,5,L200830,2.589964103,6.27E-05,forest_gain_5
+95.16645998,5,L458792,5.883104866,1.61E-04,forest_gain_5
+155.6967854,5,L305312,6.625675685,0.009531624,forest_gain_5
+8.054821953,5,L886942,1.149968823,5.46E-04,forest_gain_5
+14.98169863,5,L127353,2.211383781,0.001981074,forest_gain_5
+129.7488156,5,L148362,6.075697426,0.004509001,forest_gain_5
+11.61341834,5,L796074,1.625463791,4.22E-04,forest_gain_5
+429.9630584,5,L109516,9.806453823,5.35E-05,forest_gain_5
+331.5524457,5,L285884,7.351110814,5.73E-05,forest_gain_5
+18.46289688,5,L304833,1.786136513,1.60E-05,forest_gain_5
+4.349022249,5,L683555,0.840172943,3.75E-05,forest_gain_5
+619.2460061,5,L191106,13.03461987,4.15E-05,forest_gain_5
+38.88254494,5,L715912,2.614425012,3.11E-05,forest_gain_5
+243.095914,5,L1025768,6.201269384,1.33E-04,forest_gain_5
+77.29235124,5,L1160385,5.247531585,1.03E-04,forest_gain_5
+75.65575155,5,L449982,3.474831634,3.47E-05,forest_gain_5
+180.2503623,5,L681420,5.608294963,6.66E-06,forest_gain_5
+55.2938267,5,L209928,3.442792364,2.92E-05,forest_gain_5
+60.04776679,5,L710606,4.637691061,6.05E-05,forest_gain_5
+172.2545638,5,L207391,6.151848882,1.33E-04,forest_gain_5
+357.1702097,5,L451783,11.86242988,3.48E-05,forest_gain_5
+218.2688057,5,L340861,10.2951507,7.18E-04,forest_gain_5
+65.17827951,5,L618326,3.798472575,6.31E-04,forest_gain_5

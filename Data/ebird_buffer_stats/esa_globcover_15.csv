@@ -1,76 +1,115 @@
-file.name,value,name,LOCALITY_ID
-esa_globcover_15,140,A. D. Barnes Park,L200830
-esa_globcover_15,14,大阪市--大阪城/大阪城公園 (Osaka--Osaka Castle / Osaka Castle Park),L1123077
-esa_globcover_15,40,台北--大安森林公園(Taipei--Da'an Forest Park),L2319930
-esa_globcover_15,20,Addis Ababa--Ghion Hotel,L3016220
-esa_globcover_15,190,江戸川区--葛西臨海公園 (Edogawa Ward--Kasai Rinkai Park),L1896754
-esa_globcover_15,190,Athens National Gardens,L2694540
-esa_globcover_15,190,Büyük Çamlıca Tepesi,L2361473
-esa_globcover_15,190,Bangkok--Lumphini Park,L1068940
-esa_globcover_15,190,Berlin--Grosser Tiergarten,L1756521
-esa_globcover_15,190,Bidadari,L3345783
-esa_globcover_15,190,Bosque El Olivar,L826850
-esa_globcover_15,130,Bosque los Colomos,L2811916
-esa_globcover_15,190,Boston Public Garden,L209928
-esa_globcover_15,30,Botanik Parkı,L1930245
-esa_globcover_15,190,Cape Town--Company's Garden,L1357648
-esa_globcover_15,70,Centennial Olympic Park,L796074
-esa_globcover_15,190,Centennial Park (Sydney),L945869
-esa_globcover_15,190,"Central Park (Banabitan), Kolkata",L2071440
-esa_globcover_15,14,Centre for Environment Education (CEE),L3353044
-esa_globcover_15,130,Cerro Santa Lucia,L980718
-esa_globcover_15,70,Constitution Gardens and Reflecting Pool,L473521
-esa_globcover_15,130,Curitiba -- Jardim Botânico de Curitiba,L3143033
-esa_globcover_15,140,Dallas--Pioneer Park/City Hall Park,L1274650
-esa_globcover_15,190,Durban Botanical Gardens,L1060493
-esa_globcover_15,190,Echo Park,L619767
-esa_globcover_15,190,Fergusson College Campus,L3148022
-esa_globcover_15,100,Freeway Park (Seattle),L372668
-esa_globcover_15,14,Hanoi Botanical Gardens,L1877540
-esa_globcover_15,190,Hofgarten Düsseldorf,L3024180
-esa_globcover_15,190,Houston--West 11th Street Park,L281716
-esa_globcover_15,190,"Humboldt Park, Chicago",L339164
-esa_globcover_15,190,Hyde Park,L938388
-esa_globcover_15,190,Jakarta--Monas,L1416967
-esa_globcover_15,40,Jardín Botánico de Medellín Joaquín Antonio Uribe,L1119406
-esa_globcover_15,110,Jardín Botánico José Celestino Mutis,L2404145
-esa_globcover_15,190,Johannesburg Botanical Gardens,L1277000
-esa_globcover_15,130,Kiwanis Park,L834429
-esa_globcover_15,190,Kowloon Park,L1435080
-esa_globcover_15,190,Kuala Lumpur City Center Park,L2688240
-esa_globcover_15,190,Kunming--Green Lake Park,L957929
-esa_globcover_15,190,Lago del Golf,L1471853
-esa_globcover_15,190,Lalbagh Botanical Gardens,L2525698
-esa_globcover_15,190,Lodi Gardens,L2265071
-esa_globcover_15,11,Lucknow Zoological Garden,L3922053
-esa_globcover_15,190,"Manila American Cemetery & Memorial, Taguig",L1271819
-esa_globcover_15,190,Mt. Davidson,L419667
-esa_globcover_15,190,Nairobi River @ National Museums of Kenya (incl. Boulevard Hotel),L1046815
-esa_globcover_15,90,Namsan Mountain,L1668242
-esa_globcover_15,190,Pantoja Park,L1830072
-esa_globcover_15,190,Paris--6e arr.--Jardin du Luxembourg,L920889
-esa_globcover_15,40,Parque Chico Mendes,L2386097
-esa_globcover_15,190,"Parque de El Retiro, Madrid",L1139116
-esa_globcover_15,190,"Parque de la Ciutadella, Barcelona",L4026586
-esa_globcover_15,190,Parque do Ibirapuera,L1800556
-esa_globcover_15,130,Parque Rufino Tamayo,L2875912
-esa_globcover_15,190,PN de l'Île-de-la-Visitation,L459787
-esa_globcover_15,190,Prospect Park,L109516
-esa_globcover_15,190,Royal Botanic Gardens (Melbourne),L919153
-esa_globcover_15,200,Safa Park,L982332
-esa_globcover_15,20,Saigon--Thao Cam Vien (Saigon Zoo),L1118709
-esa_globcover_15,190,"Sanjeevaiah Park, Hyderabad",L2472492
-esa_globcover_15,30,Santo Domingo--Jardín Botánico Nacional,L352473
-esa_globcover_15,190,Shahr Park (general area),L3158781
-esa_globcover_15,190,Shangaii--Century Park,L1029418
-esa_globcover_15,11,Shushan Forest Park,L3483931
-esa_globcover_15,190,Sun Yat-sen University Campus,L2354294
-esa_globcover_15,190,Technopole,L2389491
-esa_globcover_15,190,Tiantan Park (Temple of Heaven),L2398320
-esa_globcover_15,190,Toronto--Queen's Park,L571677
-esa_globcover_15,190,UM Dearborn--Rouge River Bird Observatory,L511955
-esa_globcover_15,190,University of Ghana Botanical Gardens,L2265183
-esa_globcover_15,190,Villa Borghese,L1017789
-esa_globcover_15,190,Viveros de Coyoacán,L294783
-esa_globcover_15,70,Woodlands Cemetery,L715912
-esa_globcover_15,14,Yangon--Inya Lake,L1899347
+Area,BUFF_DIST,LOCALITY_I,Perimeter,value,file.name
+20.295477,15,L1007610,2.118178555,190,esa_globcover_15
+7.750115788,15,L1014322,1.1395047,210,esa_globcover_15
+243.095914,15,L1025768,6.201269384,70,esa_globcover_15
+41.52692277,15,L1070558,3.403294442,210,esa_globcover_15
+5.404973654,15,L1074046,1.0048047,70,esa_globcover_15
+127.8079008,15,L108460,4.815162072,190,esa_globcover_15
+102.340698,15,L108479,4.021158782,190,esa_globcover_15
+671.2881167,15,L109439,14.74217781,210,esa_globcover_15
+429.9630584,15,L109516,9.806453823,190,esa_globcover_15
+353.4472499,15,L11,7.647478528,190,esa_globcover_15
+11.07748812,15,L1138317,2.59040892,70,esa_globcover_15
+28.71537021,15,L1150366,2.375736161,70,esa_globcover_15
+77.29235124,15,L1160385,5.247531585,70,esa_globcover_15
+81.43173982,15,L1163678,4.129937205,70,esa_globcover_15
+3.529576952,15,L1206404,1.042346446,190,esa_globcover_15
+107.8573867,15,L1215121,4.771933533,70,esa_globcover_15
+14.98169863,15,L127353,2.211383781,70,esa_globcover_15
+4.643658481,15,L1284799,1.046470945,210,esa_globcover_15
+48.74494516,15,L1409960,4.207193165,190,esa_globcover_15
+40.88619848,15,L1448462,6.585374467,190,esa_globcover_15
+129.7488156,15,L148362,6.075697426,140,esa_globcover_15
+128.4767034,15,L152123,4.777319255,70,esa_globcover_15
+3.014494833,15,L1620006,0.918286157,190,esa_globcover_15
+274.5874481,15,L165056,6.777135664,190,esa_globcover_15
+93.73892113,15,L1743685,4.17784758,70,esa_globcover_15
+12.06031765,15,L1877656,1.730353462,210,esa_globcover_15
+25.03211447,15,L1896576,1.918820091,190,esa_globcover_15
+619.2460061,15,L191106,13.03461987,190,esa_globcover_15
+59.78429576,15,L196159,3.463815592,190,esa_globcover_15
+30.75045904,15,L200830,2.589964103,210,esa_globcover_15
+82.2925033,15,L2041660,3.686770374,190,esa_globcover_15
+172.2545638,15,L207391,6.151848882,190,esa_globcover_15
+10.56080261,15,L208734,1.813471768,190,esa_globcover_15
+55.2938267,15,L209928,3.442792364,190,esa_globcover_15
+7.442667215,15,L2107980,1.786392089,70,esa_globcover_15
+790.6461919,15,L213077,11.85319233,70,esa_globcover_15
+27.44461616,15,L2161102,2.088819629,70,esa_globcover_15
+108.0565067,15,L2205485,8.383377561,20,esa_globcover_15
+62.48892426,15,L227274,3.622011139,130,esa_globcover_15
+11.83772529,15,L2314029,1.803885894,190,esa_globcover_15
+60.3667342,15,L232994,3.965223168,70,esa_globcover_15
+83.33875035,15,L2390329,4.021541947,190,esa_globcover_15
+3.737196655,15,L241804,0.931712593,190,esa_globcover_15
+12.94475035,15,L246035,1.63351686,210,esa_globcover_15
+203.8869419,15,L2468319,7.213091601,190,esa_globcover_15
+96.84988008,15,L250145,4.795861467,130,esa_globcover_15
+38.9454954,15,L250958,2.646238463,130,esa_globcover_15
+196.1479739,15,L252263,6.378792977,210,esa_globcover_15
+10.72610792,15,L2531682,1.639869598,190,esa_globcover_15
+8.658871484,15,L2531687,1.596830405,190,esa_globcover_15
+217.2872915,15,L268530,8.669759547,70,esa_globcover_15
+269.8380529,15,L271279,7.179805207,70,esa_globcover_15
+144.3757788,15,L275836,5.691863051,190,esa_globcover_15
+32.9713361,15,L2807001,2.898828457,70,esa_globcover_15
+331.5524457,15,L285884,7.351110814,190,esa_globcover_15
+26.91715066,15,L2875912,2.256211723,130,esa_globcover_15
+4.082893853,15,L2889249,1.25598204,190,esa_globcover_15
+21.74399686,15,L2921580,3.802309809,190,esa_globcover_15
+14.69443918,15,L2921596,2.802077398,190,esa_globcover_15
+10.27955091,15,L2960422,1.68200426,190,esa_globcover_15
+228.3071132,15,L298724,6.3240743,210,esa_globcover_15
+89.83552913,15,L299578,4.033944585,140,esa_globcover_15
+18.46289688,15,L304833,1.786136513,190,esa_globcover_15
+155.6967854,15,L305312,6.625675685,70,esa_globcover_15
+18.00116307,15,L312198,1.80251158,190,esa_globcover_15
+31.32391737,15,L3187356,4.290778941,190,esa_globcover_15
+144.0509166,15,L339164,5.331651204,190,esa_globcover_15
+218.2688057,15,L340861,10.2951507,210,esa_globcover_15
+75.04806455,15,L342893,4.211326752,50,esa_globcover_15
+105.5116638,15,L343087,5.393706839,70,esa_globcover_15
+16.03374622,15,L385285,1.731909734,130,esa_globcover_15
+4.908590966,15,L389608,1.26595499,210,esa_globcover_15
+27.25148609,15,L419667,1.9939401,210,esa_globcover_15
+147.3843367,15,L447381,5.598376426,70,esa_globcover_15
+75.65575155,15,L449982,3.474831634,70,esa_globcover_15
+357.1702097,15,L451783,11.86242988,50,esa_globcover_15
+699.5155119,15,L453412,12.2642329,210,esa_globcover_15
+23.72710521,15,L454170,2.106393862,210,esa_globcover_15
+202.9866002,15,L456488,7.538904307,130,esa_globcover_15
+95.16645998,15,L458792,5.883104866,140,esa_globcover_15
+155.706136,15,L486301,6.404377203,70,esa_globcover_15
+33.66621996,15,L571677,2.897408564,190,esa_globcover_15
+34.0470971,15,L588572,3.552011792,70,esa_globcover_15
+74.99682478,15,L590796,5.473325974,210,esa_globcover_15
+7.054897622,15,L598129,1.108911737,210,esa_globcover_15
+65.17827951,15,L618326,3.798472575,140,esa_globcover_15
+139.3080943,15,L620970,4.775986637,70,esa_globcover_15
+5.564527258,15,L622087,0.999373874,130,esa_globcover_15
+33.92931433,15,L634615,3.061784846,70,esa_globcover_15
+380.0643874,15,L663110,7.900171122,50,esa_globcover_15
+180.2503623,15,L681420,5.608294963,70,esa_globcover_15
+4.349022249,15,L683555,0.840172943,190,esa_globcover_15
+319.0909037,15,L684445,8.24315392,70,esa_globcover_15
+60.04776679,15,L710606,4.637691061,190,esa_globcover_15
+59.35114917,15,L711719,3.239175882,70,esa_globcover_15
+38.88254494,15,L715912,2.614425012,70,esa_globcover_15
+7.335856056,15,L717897,1.258993105,210,esa_globcover_15
+217.5057554,15,L732477,6.138825815,70,esa_globcover_15
+11.61341834,15,L796074,1.625463791,70,esa_globcover_15
+148.6685496,15,L796467,6.166389618,190,esa_globcover_15
+221.92285,15,L797450,6.048442742,130,esa_globcover_15
+813.4974407,15,L806691,13.13482194,190,esa_globcover_15
+83.63361068,15,L807500,6.47805541,70,esa_globcover_15
+19.00362924,15,L834368,3.117662103,70,esa_globcover_15
+76.90147549,15,L834429,5.118132766,130,esa_globcover_15
+37.42166983,15,L883813,2.56518368,70,esa_globcover_15
+8.054821953,15,L886942,1.149968823,210,esa_globcover_15
+69.36152985,15,L889273,3.514993998,70,esa_globcover_15
+15.82612815,15,L910358,1.74843709,140,esa_globcover_15
+193.0574293,15,L919153,6.271403326,190,esa_globcover_15
+409.6210974,15,L923357,8.123751837,190,esa_globcover_15
+688.9089054,15,L938388,11.58241077,190,esa_globcover_15
+195.1515519,15,L945563,7.491118318,190,esa_globcover_15
+281.8079743,15,L945869,7.917616955,210,esa_globcover_15
