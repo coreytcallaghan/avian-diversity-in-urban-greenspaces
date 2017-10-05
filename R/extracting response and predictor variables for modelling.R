@@ -82,7 +82,8 @@ predictor_variables.hotspots$evi_hs <- rowMeans(predictor_variables.hotspots[, c
 predictor_variables <- merge(predictor_variables.buffers, predictor_variables.hotspots, by="LOCALITY_ID")
 
 predictor_variables <- predictor_variables %>%
-  rename(Polygon_id = LOCALITY_ID)
+  rename(Polygon_id = LOCALITY_ID) %>%
+  .[2:65]
 
 
 rm(predictor_variables.buffers)
