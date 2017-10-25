@@ -110,7 +110,7 @@ plot(Effect("Area_ha", global.mod_SR))
 ### Paralleslised ###
 library(snow)
 clusterType <- if(length(find.package("snow", quiet = TRUE))) "SOCK" else "PSOCK"
-clust <- try(makeCluster(getOption("cl.cores", 11), type = clusterType))
+clust <- try(makeCluster(getOption("cl.cores", 10), type = clusterType))
 
 clusterExport(clust, c("model_data_SR", "lmer"))
 
@@ -208,7 +208,7 @@ global.mod_SD <- lmer(species_diversity ~ Area_ha + distance.to.coast_km + dista
 ### Paralleslised ###
 library(snow)
 clusterType <- if(length(find.package("snow", quiet = TRUE))) "SOCK" else "PSOCK"
-clust <- try(makeCluster(getOption("cl.cores", 11), type = clusterType))
+clust <- try(makeCluster(getOption("cl.cores", 10), type = clusterType))
 
 clusterExport(clust, c("model_data_SD", "lmer"))
 
