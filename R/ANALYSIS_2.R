@@ -90,21 +90,21 @@ model_data_SR[1:13] <- scale(model_data_SR[1:13])
 hist(model_data_SR$checklist_species_richness)
 
 ### global model
-global.mod <- lmer(checklist_species_richness ~ Area_ha + distance.to.coast_km + distance_km + evi_hs + gls_tree_hs + gls_water_hs +
+global.mod_SR <- lmer(checklist_species_richness ~ Area_ha + distance.to.coast_km + distance_km + evi_hs + gls_tree_hs + gls_water_hs +
                      evi_5 + gls_tree_5 + gls_water_5  + evi_25 + gls_tree_25 + gls_water_25 + offset(DURATION_MINUTES) + (1|Polygon_id/month) +
                      (1|Urban_area) + (1|Country), REML=FALSE, data=model_data_SR, na.action="na.fail")
 
 #### Plotting fitted vs residual values of model (homogeneity) ####
-plot(global.mod, add.smooth = FALSE, which = 1)
+plot(global.mod_SR, add.smooth = FALSE, which = 1)
 
 #### Checking for normality of residuals of null model
-E <- resid(global.mod)              
+E <- resid(global.mod_SR)              
 hist(E, xlab="Residuals", main="")
 
-summary(global.mod)
-display(global.mod)
+summary(global.mod_SR)
+display(global.mod_SR)
 
-plot(Effect("Area_ha", global.mod))
+plot(Effect("Area_ha", global.mod_SR))
 
 #### Automated Approach ####
 ### Paralleslised ###
@@ -115,23 +115,32 @@ clust <- try(makeCluster(getOption("cl.cores", 11), type = clusterType))
 clusterExport(clust, c("model_data_SR", "lmer"))
 
 
-model.set <- pdredge(global.mod, cluster=clust) #### Computes all possible subsets of global model
+system.time(model.set_SR <- pdredge(global.mod_SR, cluster=clust)) #### Computes all possible subsets of global model
 
-model.set
+stopCluster(clust)
 
-top.models <- get.models(model.set, subset=delta<3) #### selects all models with deltaAic < 3
+model.set_SR
 
-length(top.models) ## how many top models there are
+top.models_SR <- get.models(model.set_SR, subset=delta<3) #### selects all models with deltaAic < 3
 
-my.models <- model.sel(top.models) #### Ranks these models based on AICc
+length(top.models_SR) ## how many top models there are
 
-print.data.frame(my.models, digits=2) #### Prints the top models (selected above)
+my.models_SR <- model.sel(top.models_SR) #### Ranks these models based on AICc
 
-Averaged_models <- model.avg(top.models) #### Employs a model averaging technique for the top models using a full(zero method)
+print.data.frame(my.models_SR, digits=2) #### Prints the top models (selected above)
 
-summary(Averaged_models)
-confint(Averaged_models, full=TRUE)
+Averaged_models_SR <- model.avg(top.models_SR) #### Employs a model averaging technique for the top models using a full(zero method)
 
+summary(Averaged_models_SR)
+confint(Averaged_models_SR, full=TRUE)
+
+r2_table_SR <- as.data.frame(t(sapply(top.models_SR, r.squaredGLMM)))
+
+mean(r2_table_SR$R2m)
+sd(r2_table_SR$R2m)
+
+mean(r2_table_SR$R2c)
+sd(r2_table_SR$R2c)
 
 ################################
 ################################
@@ -189,7 +198,46 @@ model_data_SD[1:13] <- scale(model_data_SD[1:13])
 
 hist(model_data_SD$species_diversity)
 
+### global model
+global.mod_SD <- lmer(species_diversity ~ Area_ha + distance.to.coast_km + distance_km + evi_hs + gls_tree_hs + gls_water_hs +
+                        evi_5 + gls_tree_5 + gls_water_5  + evi_25 + gls_tree_25 + gls_water_25 + offset(DURATION_MINUTES) + (1|Polygon_id/month) +
+                        (1|Urban_area) + (1|Country), REML=FALSE, data=model_data_SD, na.action="na.fail")
 
 
+#### Automated Approach ####
+### Paralleslised ###
+library(snow)
+clusterType <- if(length(find.package("snow", quiet = TRUE))) "SOCK" else "PSOCK"
+clust <- try(makeCluster(getOption("cl.cores", 11), type = clusterType))
 
+clusterExport(clust, c("model_data_SD", "lmer"))
+
+
+model.set_SD <- pdredge(global.mod_SD, cluster=clust) #### Computes all possible subsets of global model
+
+stopCluster(clust)
+
+model.set_SD
+
+top.models_SD <- get.models(model.set_SD, subset=delta<3) #### selects all models with deltaAic < 3
+
+length(top.models_SD) ## how many top models there are
+
+my.models_SD <- model.sel(top.models_SD) #### Ranks these models based on AICc
+
+print.data.frame(my.models_SD, digits=2) #### Prints the top models (selected above)
+
+Averaged_models_SD <- model.avg(top.models_SD) #### Employs a model averaging technique for the top models using a full(zero method)
+
+summary(Averaged_models_SD)
+confint(Averaged_models_SD, full=TRUE)
+
+
+r2_table_SD <- as.data.frame(t(sapply(top.models_SD, r.squaredGLMM)))
+
+mean(r2_table_SD$R2m)
+sd(r2_table_SD$R2m)
+
+mean(r2_table_SD$R2c)
+sd(r2_table_SD$R2c)
 

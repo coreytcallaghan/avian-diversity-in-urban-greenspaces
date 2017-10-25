@@ -21,7 +21,6 @@ library(lme4)
 library(arm)
 library(MuMIn)
 library(effects)
-library(mgcv)
 
 ### Prepare data for modelling of "FINAL DATASET"
 
@@ -89,7 +88,7 @@ global_predictors.2 <- round(cor(global_predictors.2), 2)
 model_data <- analysis_all %>%
   dplyr::select(Area_ha, distance.to.coast_km, distance_km, evi_hs, gls_tree_hs, gls_water_hs,
                 evi_5, gls_tree_5, gls_water_5, evi_25, gls_tree_25, gls_water_25, Urban_area, Country, 
-                hundred_km_buffer_SR, species_richness)
+                hundred_km_buffer_SR, species_richness, L, W, R)
 
 ### scale and center the predictor variables
 model_data[1:12] <- scale(model_data[1:12])
@@ -133,7 +132,13 @@ summary(Averaged_models)
 confint(Averaged_models, full=TRUE)
 
 
+r2_table <- as.data.frame(t(sapply(top.models, r.squaredGLMM)))
 
+mean(r2_table$R2m)
+sd(r2_table$R2m)
+
+mean(r2_table$R2c)
+sd(r2_table$R2c)
 
 ##########################################################
 ##########################################################
@@ -175,6 +180,118 @@ Averaged_models_standard <- model.avg(top.models_standard) #### Employs a model 
 summary(Averaged_models_standard)
 confint(Averaged_models_standard, full=TRUE)
 
+r2_table_standard <- as.data.frame(t(sapply(top.models_standard, r.squaredGLMM)))
+
+mean(r2_table_standard$R2m)
+sd(r2_table_standard$R2m)
+
+mean(r2_table_standard$R2c)
+sd(r2_table_standard$R2c)
+
+############################################################
+###### Running a model for waterbirds only #################
+############################################################
+### global model
+global.mod_waterbirds <- lmer(W ~ Area_ha + distance.to.coast_km + distance_km + evi_hs + gls_tree_hs + gls_water_hs +
+                     evi_5 + gls_tree_5 + gls_water_5  + evi_25 + gls_tree_25 + gls_water_25 +
+                     (1|Urban_area) + (1|Country), REML=FALSE, data=model_data, na.action="na.fail")
+
+
+#### Plotting fitted vs residual values of model (homogeneity) ####
+plot(global.mod_waterbirds, add.smooth = FALSE, which = 1)
+
+#### Checking for normality of residuals of null model
+E <- resid(global.mod_waterbirds)              
+hist(E, xlab="Residuals", main="")
+
+summary(global.mod_waterbirds)
+display(global.mod_waterbirds)
+
+plot(Effect("Area_ha", global.mod_waterbirds))
+
+#### Automated Approach ####
+model.set_waterbirds <- dredge(global.mod_waterbirds) #### Computes all possible subsets of global model
+
+model.set_waterbirds
+
+top.models_waterbirds <- get.models(model.set_waterbirds, subset=delta<3) #### selects all models with deltaAic < 2
+
+length(top.models_waterbirds) ## how many top models there are
+
+#### only four top models in this case
+
+my.models_waterbirds <- model.sel(top.models_waterbirds) #### Ranks these models based on AICc
+
+print.data.frame(my.models_waterbirds, digits=2) #### Prints the top models (selected above)
+
+Averaged_models_waterbirds <- model.avg(top.models_waterbirds) #### Employs a model averaging technique for the top models using a full(zero method)
+
+summary(Averaged_models_waterbirds)
+confint(Averaged_models_waterbirds, full=TRUE)
+
+
+r2_table_waterbirds <- as.data.frame(t(sapply(top.models_waterbirds, r.squaredGLMM)))
+
+mean(r2_table_waterbirds$R2m)
+sd(r2_table_waterbirds$R2m)
+
+mean(r2_table_waterbirds$R2c)
+sd(r2_table_waterbirds$R2c)
+
+
+############################################################
+###### Running a model for landbirds only #################
+############################################################
+### global model
+global.mod_landbirds <- lmer(L+R ~ Area_ha + distance.to.coast_km + distance_km + evi_hs + gls_tree_hs + gls_water_hs +
+                                evi_5 + gls_tree_5 + gls_water_5  + evi_25 + gls_tree_25 + gls_water_25 +
+                                (1|Urban_area) + (1|Country), REML=FALSE, data=model_data, na.action="na.fail")
+
+
+#### Plotting fitted vs residual values of model (homogeneity) ####
+plot(global.mod_landbirds, add.smooth = FALSE, which = 1)
+
+#### Checking for normality of residuals of null model
+E <- resid(global.mod_landbirds)              
+hist(E, xlab="Residuals", main="")
+
+summary(global.mod_landbirds)
+display(global.mod_landbirds)
+
+plot(Effect("Area_ha", global.mod_landbirds))
+
+#### Automated Approach ####
+model.set_landbirds <- dredge(global.mod_landbirds) #### Computes all possible subsets of global model
+
+model.set_landbirds
+
+top.models_landbirds <- get.models(model.set_landbirds, subset=delta<3) #### selects all models with deltaAic < 2
+
+length(top.models_landbirds) ## how many top models there are
+
+#### only four top models in this case
+
+my.models_landbirds <- model.sel(top.models_landbirds) #### Ranks these models based on AICc
+
+print.data.frame(my.models_landbirds, digits=2) #### Prints the top models (selected above)
+
+Averaged_models_landbirds <- model.avg(top.models_landbirds) #### Employs a model averaging technique for the top models using a full(zero method)
+
+summary(Averaged_models_landbirds)
+confint(Averaged_models_landbirds, full=TRUE)
+
+
+
+#### Calculate the R2 for each of the top models and then average the R2 and provide sd of R2 values across the top models
+
+r2_table_landbirds <- as.data.frame(t(sapply(top.models_landbirds, r.squaredGLMM)))
+
+mean(r2_table_landbirds$R2m)
+sd(r2_table_landbirds$R2m)
+
+mean(r2_table_landbirds$R2c)
+sd(r2_table_landbirds$R2c)
+
 
 
 ###########################################################
@@ -183,18 +300,12 @@ confint(Averaged_models_standard, full=TRUE)
 
 
 ## figure of raw species richness versus greenspace size plotted
-base_breaks <- function(n = 10){
-  function(x) {
-    axisTicks(log10(range(x, na.rm = TRUE)), log = TRUE, n = n)
-  }
-}
-
-bks <- seq(min(analysis_all$Area_ha), max(analysis_all$Area_ha))
+library(scales)
 
 ggplot(analysis_all, aes(x=Area_ha, y=species_richness))+
   geom_point()+
   theme_bw()+
-  xlab("Log(Area (Ha))")+
+  xlab("Log(Greenspace Area (Ha))")+
   ylab("Species Richness")+
   scale_x_log10(labels=comma)+
   theme(axis.text.x=element_text(size=12, color="black"))+
@@ -205,6 +316,41 @@ ggplot(analysis_all, aes(x=Area_ha, y=species_richness))+
   theme(panel.grid.minor.y=element_blank(), panel.grid.major.y=element_blank())+
   geom_smooth(method=lm)
 
+
+## figure of additionally important patterns
+library(reshape2)
+
+
+
+plotting <- analysis_all %>% 
+  dplyr::select(W, R, L, gls_water_hs, gls_tree_hs, Area_ha) %>%
+  mutate(L=L+R) %>%
+  dplyr::select(-one_of("R")) %>%
+  melt(., id.vars=c("W", "L")) %>%
+  rename(predictor=variable) %>%
+  rename(predictor_value=value) %>%
+  melt(., id.vars=c("predictor", "predictor_value"))
+
+
+  plotting$predictor <- gsub("gls_water_hs", "Percent Water", plotting$predictor)
+  plotting$predictor <- gsub("gls_tree_hs", "Percent Tree", plotting$predictor)
+  plotting$predictor <- gsub("Area_ha", "Greenspace Area (Ha)", plotting$predictor)
+  
+  
+  ggplot(plotting, aes(x=predictor_value, y=value, color=variable, linetype=variable))+
+    geom_point()+
+    ylab("Species Richness")+
+    xlab("Predictor Value")+
+    geom_smooth(method=lm, show.legend=FALSE)+
+    theme(axis.text.x=element_text(size=12, color="black"))+
+    theme(axis.text.y=element_text(size=12, color="black"))+
+    theme(axis.title.y=element_text(size=16))+
+    theme(axis.title.x=element_text(size=16))+
+    theme(panel.grid.minor.x=element_blank(), panel.grid.major.x=element_blank())+
+    theme(panel.grid.minor.y=element_blank(), panel.grid.major.y=element_blank())+
+    theme_bw()+
+    guides(color=FALSE)+
+    facet_grid(~predictor, scales="free", labeller=as_labeller(facet_names))
 
 
 
