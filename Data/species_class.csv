@@ -1,0 +1,1161 @@
+COMMON_NAME,classification
+Gray Catbird,L
+Northern Mockingbird,L
+Carolina Wren,L
+Black Vulture,R
+Blue-gray Gnatcatcher,L
+Downy Woodpecker,L
+Red-bellied Woodpecker,L
+Yellow-rumped Warbler,L
+Anhinga,W
+Northern Cardinal,L
+Great Egret,W
+American Robin,L
+Eastern Phoebe,L
+Turkey Vulture,R
+Eastern Bluebird,L
+Boat-tailed Grackle,L
+Mourning Dove,L
+Blue Jay,L
+House Wren,L
+American White Pelican,W
+Double-crested Cormorant,W
+Red-tailed Hawk,R
+Ring-billed Gull,W
+Canada Goose,W
+Spotted Towhee,L
+Golden-crowned Kinglet,L
+Red-breasted Sapsucker,L
+European Starling,L
+Purple Finch,L
+American Redstart,L
+Chimney Swift,L
+Kentucky Warbler,L
+Acadian Flycatcher,L
+Red-breasted Nuthatch,L
+Dark-eyed Junco,L
+Red-eyed Vireo,L
+House Sparrow,L
+Gray-cheeked Thrush,L
+American Goldfinch,L
+Common Grackle,L
+Eastern Wood-Pewee,L
+Great-tailed Grackle,L
+American Wigeon,W
+Mallard,W
+Merlin,R
+White-winged Dove,L
+Ovenbird,L
+Wood Thrush,L
+Eastern Screech-Owl,R
+Hooded Warbler,L
+Common Merganser,W
+Hooded Merganser,W
+Ring-necked Duck,W
+Palm Warbler,L
+Swamp Sparrow,L
+Northern Flicker,L
+Belted Kingfisher,W
+Field Sparrow,L
+Broad-winged Hawk,R
+Scarlet Tanager,L
+Anna's Hummingbird,L
+Red-winged Blackbird,L
+Pied-billed Grebe,W
+Brown Creeper,L
+Pileated Woodpecker,L
+American Crow,L
+Magnolia Warbler,L
+Black-throated Blue Warbler,L
+Wilson's Warbler,L
+Killdeer,W
+Rose-breasted Grosbeak,L
+Green-winged Teal,W
+Fox Sparrow,L
+Common Raven,L
+Common Loon,W
+Chipping Sparrow,L
+Veery,L
+Bay-breasted Warbler,L
+Blue-headed Vireo,L
+Osprey,R
+Baltimore Oriole,L
+Nashville Warbler,L
+Herring Gull,W
+Tree Swallow,L
+Black-capped Chickadee,L
+Song Sparrow,L
+Common Goldeneye,W
+White-throated Sparrow,L
+Ruby-crowned Kinglet,L
+Yellow-bellied Sapsucker,L
+Caspian Tern,W
+House Finch,L
+Brown-headed Cowbird,L
+Tufted Titmouse,L
+Louisiana Waterthrush,L
+Black-throated Green Warbler,L
+Alder Flycatcher,L
+White-breasted Nuthatch,L
+Barred Owl,R
+Solitary Sandpiper,L
+Blackburnian Warbler,L
+Swainson's Thrush,L
+Cape May Warbler,L
+Wood Duck,W
+Blackpoll Warbler,L
+Hermit Thrush,L
+American Black Duck,W
+White-crowned Sparrow,L
+Northern Waterthrush,L
+Philadelphia Vireo,L
+Laughing Gull,W
+Warbling Vireo,L
+Northern Rough-winged Swallow,L
+Tennessee Warbler,L
+Yellow Warbler,L
+Northern Parula,L
+Eastern Kingbird,L
+Common Yellowthroat,L
+Black-and-white Warbler,L
+Eastern Towhee,L
+Barn Swallow,L
+Brown Thrasher,L
+Northern Shoveler,W
+Great Blue Heron,W
+Yellow-bellied Flycatcher,L
+Worm-eating Warbler,L
+Indigo Bunting,L
+Ruddy Duck,W
+Fish Crow,L
+Red-shouldered Hawk,R
+Sora,W
+Glaucous-winged Gull,W
+Northwestern Crow,L
+Great Crested Flycatcher,L
+Vaux's Swift,L
+Cooper's Hawk,R
+Red-headed Woodpecker,L
+Pine Warbler,L
+Cedar Waxwing,L
+Hairy Woodpecker,L
+Black-crowned Night-Heron,W
+American Kestrel,R
+Green Heron,W
+Lincoln's Sparrow,L
+Blue-winged Warbler,L
+Savannah Sparrow,L
+Rainbow Lorikeet,L
+Australian Magpie,L
+Gray Butcherbird,L
+Chestnut-sided Warbler,L
+Eurasian Coot,W
+Little Corella,L
+Dusky Moorhen,W
+Pacific Black Duck,W
+Willie-wagtail,L
+Welcome Swallow,L
+White-eyed Duck,W
+Australasian Figbird,L
+Masked Lapwing,W
+Canada Warbler,L
+Spotted Dove,L
+Crested Pigeon,L
+Common Myna,L
+Australasian Darter,W
+Little Black Cormorant,W
+Superb Fairywren,L
+Olive-sided Flycatcher,L
+Orchard Oriole,L
+Royal Spoonbill,W
+Pied Butcherbird,L
+Intermediate Egret,W
+Spotted Sandpiper,W
+Torresian Crow,L
+Dollarbird,L
+Australasian Grebe,W
+Noisy Miner,L
+Magpie-lark,L
+Black Swan,W
+Cattle Egret,W
+Ruby-throated Hummingbird,L
+Least Flycatcher,L
+Willow Flycatcher,L
+Connecticut Warbler,L
+Prairie Warbler,L
+White-crowned Pigeon,L
+White-eyed Vireo,L
+Yellow-throated Warbler,L
+Eurasian Collared-Dove,L
+Swainson's Warbler,L
+White Ibis,W
+Rufous Hummingbird,L
+Bald Eagle,R
+Western Tanager,L
+Pine Siskin,L
+Orange-crowned Warbler,L
+Bushtit,L
+Townsend's Warbler,L
+Western Wood-Pewee,L
+Violet-green Swallow,L
+Golden-crowned Sparrow,L
+Pacific Wren,L
+Varied Thrush,L
+Steller's Jay,L
+Common Redpoll,L
+European Goldfinch,L
+Gadwall,W
+Mute Swan,W
+Bufflehead,W
+Winter Wren,L
+Latham's Snipe,W
+Laughing Kookaburra,L
+Monk Parakeet,L
+Loggerhead Shrike,L
+Sulphur-crested Cockatoo,L
+Golden-headed Cisticola,L
+Silver Gull,W
+Black-faced Cuckooshrike,L
+Whiskered Tern,W
+Silver-eye,L
+Chestnut Teal,W
+Mourning Warbler,L
+Burrowing Owl,R
+Olive-backed Oriole,L
+Striped Honeyeater,L
+Australian Ibis,W
+Little Pied Cormorant,W
+Australasian Swamphen,W
+Maned Duck,W
+Blue-faced Honeyeater,L
+Little Egret,W
+Gray Teal,W
+Pied Stilt,W
+Northern Saw-whet Owl,R
+American Tree Sparrow,L
+Hoary Redpoll,L
+Red-necked Grebe,W
+Rusty Blackbird,L
+Carolina Chickadee,L
+American Coot,W
+American Woodcock,L
+Yellow-throated Vireo,L
+Painted Bunting,L
+Chuck-will's-widow,L
+Pygmy Nuthatch,L
+Glossy Ibis,W
+Comb-crested Jacana,W
+Swamp Harrier,R
+Black-fronted Dotterel,L
+Cotton Pygmy-Goose,W
+Red-kneed Dotterel,W
+Black-headed Grosbeak,L
+Bullock's Oriole,L
+Lesser Goldfinch,L
+Brewer's Blackbird,L
+California Towhee,L
+Bewick's Wren,L
+Nuttall's Woodpecker,L
+Allen's Hummingbird,L
+Prothonotary Warbler,L
+Lesser Scaup,W
+Broad-tailed Hummingbird,L
+Red Crossbill,L
+Black-billed Magpie,L
+Cackling Goose,W
+Mississippi Kite,R
+California Gull,W
+Common Nighthawk,L
+Sharp-shinned Hawk,R
+Scaly-breasted Lorikeet,L
+Pied Currawong,L
+Chestnut-backed Chickadee,L
+Great Black-backed Gull,W
+Northern Harrier,R
+Peregrine Falcon,R
+Northern Pintail,W
+Wandering Whistling-Duck,W
+Great Cormorant,W
+Sacred Kingfisher,W
+Australian Pelican,W
+Pacific Koel,L
+Canvasback,W
+Shining Bronze-Cuckoo,L
+Glaucous Gull,W
+American Bittern,L
+Black-backed Woodpecker,L
+Marsh Wren,L
+Summer Tanager,L
+Western Gull,W
+California Scrub-Jay,L
+Black Phoebe,L
+American Three-toed Woodpecker,L
+Golden-winged Warbler,L
+Whistling Kite,R
+White-bellied Sea-Eagle,R
+Pink-eared Duck,W
+Freckled Duck,W
+Tree Martin,L
+Pine Grosbeak,L
+Australian Shoveler,W
+Lesser Yellowlegs,W
+Bonaparte's Gull,W
+Brown Honeyeater,L
+Hutton's Vireo,L
+Striated Pardalote,L
+Gray Fantail,L
+Purple Martin,L
+Cerulean Warbler,L
+Sandhill Crane,W
+Lazuli Bunting,L
+Calliope Hummingbird,L
+Snow Goose,W
+Blue-winged Teal,L
+Pacific-slope Flycatcher,L
+Snowy Egret,W
+Band-tailed Pigeon,L
+Yellow-breasted Chat,L
+Dusky Flycatcher,L
+Black-throated Gray Warbler,L
+Buff-banded Rail,W
+Eastern Yellow Wagtail,L
+Say's Phoebe,L
+Tawny Grassbird,L
+Long-billed Corella,L
+Yellow-billed Cuckoo,L
+Tawny Frogmouth,L
+Pale-headed Rosella,L
+Red-breasted Merganser,W
+Wrentit,L
+Wilson's Phalarope,L
+Great Horned Owl,L
+Red-masked Parakeet,L
+Evening Grosbeak,L
+MacGillivray's Warbler,L
+Horned Grebe,W
+Snowy Owl,R
+American Pipit,L
+Redhead,W
+Iceland Gull,W
+White-winged Crossbill,L
+Eastern Meadowlark,L
+Australian Raven,L
+Yellow-tailed Black-Cockatoo,L
+Pacific Swift,L
+Pied Cormorant,W
+Cliff Swallow,L
+Eastern Whip-poor-will,L
+Black-billed Cuckoo,L
+Northern Shrike,L
+Woodhouse's Scrub-Jay,L
+Bank Swallow,L
+Western Kingbird,L
+Lark Sparrow,L
+Greater White-fronted Goose,W
+Franklin's Gull,W
+Brewer's Sparrow,L
+American Avocet,W
+Snow Bunting,L
+Mew Gull,W
+Eared Grebe,W
+Black Scoter,W
+Cinnamon Teal,W
+Forster's Tern,W
+Greater Scaup,W
+Tricolored Heron,W
+Purple Gallinule,W
+Common Gallinule,W
+Little Blue Heron,W
+Brown Pelican,W
+Gray Flycatcher,L
+Western Grebe,W
+Limpkin,W
+Townsend's Solitaire,L
+Black-faced Grassquit,L
+Bronze Mannikin,L
+Bananaquit,L
+Zenaida Dove,L
+Red Junglefowl,L
+Common Ground-Dove,L
+White-winged Parakeet,L
+Puerto Rican Bullfinch,L
+Scaly-naped Pigeon,L
+Puerto Rican Flycatcher,L
+Greater Antillean Grackle,L
+Puerto Rican Spindalis,L
+Adelaide's Warbler,L
+Gray Kingbird,L
+Green-throated Carib,L
+Puerto Rican Woodpecker,L
+Puerto Rican Oriole,L
+Mangrove Cuckoo,L
+Pearly-eyed Thrasher,L
+Smooth-billed Ani,L
+Shiny Cowbird,L
+White-browed Scrubwren,L
+Little Friarbird,L
+Mistletoebird,L
+Red-backed Fairywren,L
+Brahminy Kite,R
+Lesser Black-backed Gull,W
+Northern Goshawk,R
+Red-legged Thrush,L
+Least Sandpiper,W
+Greater Yellowlegs,W
+Virginia Rail,W
+Surf Scoter,W
+Long-billed Dowitcher,W
+Great Thrush,L
+Black Flowerpiercer,L
+Hooded Siskin,L
+Sparkling Violetear,L
+Eared Dove,L
+Black-tailed Trainbearer,L
+Masked Flowerpiercer,L
+Cinereous Conebill,L
+Rufous-collared Sparrow,L
+Red-crested Cardinal,L
+Vermilion Flycatcher,L
+Harris's Hawk,R
+Brown-bellied Swallow,L
+Southern Beardless-Tyrannulet,L
+Blue-gray Tanager,L
+White-crested Elaenia,L
+Blue-and-white Swallow,L
+California Quail,L
+White-tailed Kite,R
+Hooded Oriole,L
+Eurasian Blackbird,L
+Bell Miner,L
+Little Wattlebird,L
+Galah,L
+Red-rumped Parrot,L
+Brown Thornbill,L
+Little Raven,L
+Eastern Spinebill,L
+Rufous Night-Heron,W
+White-faced Heron,W
+Red Wattlebird,L
+New Holland Honeyeater,L
+Spotted Pardalote,L
+White-plumed Honeyeater,L
+Flame Robin,L
+Eastern Rosella,L
+Mottled Duck,W
+Reddish Egret,W
+Roseate Spoonbill,W
+Short-tailed Hawk,R
+Wood Stork,W
+Vesper Sparrow,L
+Least Tern,W
+Brant,W
+American Oystercatcher,W
+Short-billed Dowitcher,W
+Black-necked Stilt,W
+Marbled Godwit,W
+Willet,W
+Ridgway's Rail,W
+White-faced Ibis,W
+Long-billed Curlew,W
+Whimbrel,W
+Yellow Rail,L
+Common Chaffinch,L
+Eurasian Reed-Warbler,L
+Eurasian Nuthatch,L
+Eurasian Green Woodpecker,L
+Rose-ringed Parakeet,L
+Tufted Duck,W
+European Robin,L
+Eurasian Magpie,L
+Common House-Martin,L
+Eurasian Moorhen,W
+Common Wood-Pigeon,L
+Goldcrest,L
+White Wagtail,L
+Little Owl,R
+Eurasian Blue Tit,L
+Egyptian Goose,W
+Gray Heron,W
+Great Tit,L
+Long-tailed Tit,L
+Song Thrush,L
+Dunnock,L
+Great Crested Grebe,W
+Common Swift,L
+Carrion Crow,L
+Graylag Goose,W
+Coal Tit,L
+Common Chiffchaff,L
+Great Spotted Woodpecker,L
+Eurasian Jay,L
+Black-headed Gull,W
+Common Pochard,W
+Mistle Thrush,L
+Clay-colored Sparrow,L
+Barnacle Goose,W
+Red-crowned Parrot,L
+Red-crested Pochard,W
+Eurasian Wren,L
+Tawny Owl,R
+Gray Wagtail,L
+Eurasian Sparrowhawk,R
+Common Tern,W
+Stock Dove,L
+Common Shelduck,W
+Eurasian Jackdaw,L
+Little Grebe,W
+Mandarin Duck,W
+Verdin,L
+Bronzed Cowbird,L
+Gambel's Quail,L
+Curve-billed Thrasher,L
+Phainopepla,L
+Gila Woodpecker,L
+Neotropic Cormorant,W
+Prairie Falcon,R
+Stilt Sandpiper,W
+Thayer's Gull,W
+Red-breasted Goose,W
+Rock Pigeon,L
+Brown-crested Flycatcher,L
+Cactus Wren,L
+Yellow-headed Blackbird,L
+Cassin's Kingbird,L
+White-throated Swift,L
+Hermit Warbler,L
+Lucy's Warbler,L
+Black-tailed Gnatcatcher,L
+Ross's Goose,W
+Ladder-backed Woodpecker,L
+Western Bluebird,L
+Black-chinned Hummingbird,L
+Rufous Whistler,L
+Straw-necked Ibis,W
+Yellow-rumped Thornbill,L
+Western Gerygone,L
+Laughing Dove,L
+Australian Reed-Warbler,L
+Musk Duck,W
+Singing Honeyeater,L
+White-cheeked Honeyeater,L
+Little Grassbird,L
+Brown Goshawk,R
+Blue-billed Duck,W
+Carnaby's Black-Cockatoo,L
+Splendid Fairywren,L
+Australian Shelduck,W
+Hoary-headed Grebe,W
+Yellow-billed Spoonbill,W
+Red-necked Avocet,W
+Australian Hobby,L
+Black-tailed Native-hen,W
+Australian Ringneck,L
+Weebill,L
+Brown Songlark,L
+Australian Kite,R
+Variegated Fairywren,L
+Southern Boobook,R
+Yellow-crowned Night-Heron,W
+Cave Swallow,L
+Black-bellied Whistling-Duck,W
+Blue Grosbeak,L
+Abert's Towhee,L
+Heermann's Gull,W
+Plumbeous Vireo,L
+Broad-billed Hummingbird,L
+Lesser Nighthawk,L
+Inca Dove,L
+Cassin's Vireo,L
+Pyrrhuloxia,L
+Greater Roadrunner,L
+Red-naped Sapsucker,L
+Bell's Vireo,L
+Green-tailed Towhee,L
+Black-throated Sparrow,L
+Black-legged Kittiwake,W
+Bohemian Waxwing,L
+Nanday Parakeet,L
+Horned Lark,L
+Rosy-faced Lovebird,L
+Red-necked Phalarope,L
+Swallow-tailed Kite,R
+Long-eared Owl,R
+Gilded Flicker,L
+Eurasian Wigeon,W
+Grace's Warbler,L
+Lapland Longspur,L
+Wilson's Snipe,W
+Wild Turkey,L
+Lewis's Woodpecker,L
+Rock Wren,L
+Ash-throated Flycatcher,L
+Western Meadowlark,L
+Bobolink,L
+Sedge Wren,L
+Rough-legged Hawk,R
+Black Skimmer,W
+Eurasian Tree Sparrow,L
+Taiwan Barbet,L
+Oriental Magpie-Robin,L
+Black-naped Monarch,L
+Cinnamon Bittern,W
+Japanese White-eye,L
+Common Kingfisher,W
+Pale Thrush,L
+Crested Goshawk,R
+Malayan Night-Heron,W
+Light-vented Bulbul,L
+Black Bulbul,L
+Collared Scops-Owl,R
+Oriental Turtle-Dove,L
+Asian Glossy Starling,L
+White-breasted Waterhen,W
+Black-browed Reed-Warbler,L
+Least Bittern,W
+European Greenfinch,L
+Pacific Gull,W
+Australian Kestrel,R
+Red-browed Firetail,L
+Common Bronzewing,L
+Brown Quail,L
+Eurasian Skylark,L
+Fan-tailed Cuckoo,L
+Horsfield's Bronze-Cuckoo,L
+Musk Lorikeet,L
+Short-tailed Shearwater,W
+Australian Crake,L
+Collared Sparrowhawk,R
+Swainson's Hawk,R
+Long-tailed Duck,W
+Spotless Crake,W
+Gray Partridge,L
+Australian Brushturkey,L
+Noisy Friarbird,L
+Rufous-backed Robin,L
+Costa's Hummingbird,L
+Gray-crowned Rosy-Finch,L
+Mountain Bluebird,L
+Rufous-winged Sparrow,L
+Hammond's Flycatcher,L
+Oriental Honey-buzzard,R
+Black Redstart,L
+Eurasian Hoopoe,L
+Isabelline Shrike,L
+Eurasian Blackcap,L
+Forest Wagtail,L
+Menetries's Warbler,L
+Eastern Olivaceous Warbler,L
+Red-backed Shrike,L
+Marsh Warbler,W
+Greater Whitethroat,L
+Common Redstart,L
+Black-headed Bunting,L
+Spotted Flycatcher,L
+European Roller,L
+Pallid Swift,L
+Willow Warbler,L
+Red-breasted Flycatcher,L
+Red-tailed Shrike,L
+Tree Pipit,L
+Upcher's Warbler,L
+Western Yellow Wagtail,L
+Masked Shrike,L
+Red-throated Pipit,L
+Garden Warbler,L
+Rufous-tailed Scrub-Robin,L
+Common Nightingale,L
+Graceful Prinia,L
+Eurasian Marsh-Harrier,R
+Mountain Chickadee,L
+Black-winged Stilt,W
+Lesser Gray Shrike,L
+Eurasian River Warbler,L
+Indian Silverbill,L
+Water Pipit,L
+Alexandrine Parakeet,L
+Dusky Warbler,L
+Purple Sunbird,L
+Green Bee-eater,L
+European Bee-eater,L
+Eurasian Kestrel,R
+Whinchat,L
+Red-vented Bulbul,L
+Eurasian Golden Oriole,L
+White-eared Bulbul,L
+House Crow,L
+Sedge Warbler,L
+Eurasian Wryneck,L
+Gray Francolin,L
+White-throated Robin,L
+Red-wattled Lapwing,W
+Isabelline Wheatear,L
+Woodchat Shrike,L
+Pallid Scops-Owl,R
+Lesser Whitethroat,L
+Pied Wheatear,L
+Rufous-tailed Rock-Thrush,L
+Great Reed-Warbler,L
+Northern Wheatear,L
+Semicollared Flycatcher,L
+Barred Warbler,L
+Red-whiskered Bulbul,L
+Plain Leaf Warbler,L
+Scaly-breasted Munia,L
+Southern Gray Shrike,L
+Clamorous Reed-Warbler,L
+Eurasian Nightjar,L
+Blue-cheeked Bee-eater,L
+Greater Spotted Eagle,R
+Common Grasshopper-Warbler,L
+Shikra,R
+Black Swift,L
+Western Screech-Owl,R
+Little Bittern,W
+Eastern Orphean Warbler,L
+Eurasian Crag-Martin,L
+Fairy Martin,L
+Yellow Thornbill,L
+Short-eared Owl,R
+Clark's Grebe,W
+Barrow's Goldeneye,W
+Acorn Woodpecker,L
+Lawrence's Goldfinch,L
+Venezuelan Troupial,L
+Black-whiskered Vireo,L
+Blue-and-yellow Macaw,L
+Antillean Mango,L
+Green Mango,L
+Yellow-faced Grassquit,L
+Hepatic Tanager,L
+Magpie Goose,W
+Australian King-Parrot,L
+Crissal Thrasher,L
+Sage Thrasher,L
+Juniper Titmouse,L
+Western Sandpiper,W
+Common Hill Myna,L
+Spot-breasted Oriole,L
+Mitred Parakeet,L
+Scissor-tailed Flycatcher,L
+Gull-billed Tern,W
+Yellow-chevroned Parakeet,L
+Orange-winged Parrot,L
+Striated Thornbill,L
+Pallid Cuckoo,L
+Pacific Heron,W
+Rainbow Bee-eater,L
+Elegant Tern,W
+Ring-necked Pheasant,L
+Henslow's Sparrow,L
+Bicknell's Thrush,L
+Dickcissel,L
+Black-capped Vireo,L
+Black-crested Titmouse,L
+Grasshopper Sparrow,L
+Daurian Redstart,L
+House Swift,L
+Ashy Wood-Pigeon,L
+White's Thrush,L
+Naumann's Thrush,L
+Gray Treepie,L
+Taiwan Blue-Magpie,L
+White-rumped Shama,L
+Pacific Swallow,L
+Taiwan Scimitar-Babbler,L
+Black Kite,R
+Hooded Crow,L
+Rook,L
+Wood Warbler,L
+Short-toed Treecreeper,L
+Middle Spotted Woodpecker,L
+Black Tern,W
+Lesser Spotted Woodpecker,L
+Syrian Woodpecker,L
+Common Buzzard,R
+Great Crested Tern,W
+Sharp-tailed Sandpiper,W
+Spangled Drongo,L
+Yellow-billed Magpie,L
+Gyrfalcon,R
+Harris's Sparrow,L
+European Pied Flycatcher,L
+Yellow-legged Gull,W
+European Honey-buzzard,R
+Ruddy Quail-Dove,L
+Puerto Rican Screech-Owl,R
+Pin-tailed Whydah,L
+Orange-cheeked Waxbill,L
+Golden Grosbeak,L
+Antillean Nighthawk,L
+Scrub Tanager,L
+Channel-billed Cuckoo,L
+White-headed Pigeon,L
+Royal Tern,W
+Bearded Reedling,L
+Dusky Woodswallow,L
+Golden Whistler,L
+Semipalmated Plover,W
+Black-bellied Plover,W
+Tropical Kingbird,L
+Ruddy Turnstone,W
+Dunlin,W
+Cassin's Auklet,L
+Barn Owl,R
+Western Wattlebird,L
+Canyon Wren,L
+Lavender Waxbill,L
+Tundra Swan,L
+Couch's Kingbird,L
+Forest Kingfisher,W
+White-throated Needletail,L
+Budgerigar,L
+Pheasant Coucal,L
+Little Lorikeet,L
+Virginia's Warbler,L
+Common Poorwill,L
+Topknot Pigeon,L
+Pacific Baza,R
+Baillon's Crake,W
+Spotted Harrier,R
+Black-backed Bittern,W
+Rufous-tailed Bush-hen,W
+Bar-shouldered Dove,L
+Golden-rumped Euphonia,L
+Eastern Yellow Robin,L
+White-winged Triller,L
+Little Eagle,R
+Red-capped Plover,W
+Banded Stilt,W
+Red-capped Robin,L
+Wood Sandpiper,W
+Common Greenshank,W
+Semipalmated Sandpiper,W
+Spruce Grouse,L
+Black Falcon,R
+Red Collared-Dove,L
+Gray-capped Woodpecker,L
+Dusky Thrush,L
+Eyebrowed Thrush,L
+Chinese Pond-Heron,W
+Olive-backed Pipit,L
+Black Drongo,L
+Asian Brown Flycatcher,L
+Japanese Thrush,L
+Purple Sandpiper,L
+Cassin's Sparrow,L
+Golden-fronted Woodpecker,L
+Great Kiskadee,L
+Olive Sparrow,L
+Gray Hawk,R
+Clay-colored Thrush,L
+Green Parakeet,L
+Long-billed Thrasher,L
+White-breasted Woodswallow,L
+Sulphur-bellied Flycatcher,L
+Blue-and-yellow Tanager,L
+Glossy Flowerpiercer,L
+Eurasian Treecreeper,L
+Red-throated Loon,L
+Rufous Fantail,L
+Pectoral Sandpiper,L
+Golden Eagle,R
+Javan Myna,L
+Chestnut-fronted Macaw,L
+Cockatiel,L
+Caribbean Martin,L
+Puerto Rican Tody,L
+Smoky Bush-Tyrant,L
+Tufted Tit-Tyrant,L
+Plain-colored Seedeater,L
+Rusty Flowerpiercer,L
+Meadow Pipit,L
+Ring Ouzel,L
+Cassin's Finch,L
+Sooty Tern,L
+Black-necked Stork,W
+Brush Cuckoo,L
+Orange-fronted Parakeet,L
+Red-lored Parrot,L
+Green Jay,L
+Wompoo Fruit-Dove,L
+Yellow-green Vireo,L
+Blue-and-black Tanager,L
+White-winged Brushfinch,L
+Brown-backed Chat-Tyrant,L
+White-throated Tyrannulet,L
+Stygian Owl,R
+White-collared Swift,L
+Smoke-colored Pewee,L
+Tawny-rumped Tyrannulet,L
+Fork-tailed Flycatcher,L
+Piratic Flycatcher,L
+American Pygmy Kingfisher,W
+Striated Heron,W
+Black-tailed Godwit,W
+Purple Heron,W
+Oak Titmouse,L
+Chihuahuan Raven,L
+Lewin's Honeyeater,L
+Chestnut-breasted Munia,L
+Plumed Whistling-Duck,W
+Ferruginous Pygmy-Owl,R
+Key West Quail-Dove,L
+Puerto Rican Vireo,L
+Glossy-black Thrush,L
+Blue-black Grassquit,L
+Bassian Thrush,L
+Eurasian Siskin,L
+Baird's Sandpiper,W
+Japanese Paradise-Flycatcher,L
+Scarlet Robin,L
+Crimson Rosella,L
+Gray Shrikethrush,L
+Gray Currawong,L
+Nelson's Sparrow,L
+Sprague's Pipit,L
+Mangrove Gerygone,L
+Marsh Sandpiper,W
+White-winged Tern,W
+Curlew Sandpiper,W
+Powerful Owl,R
+Rose Robin,L
+Fieldfare,L
+Rustic Bunting,L
+Clapper Rail,W
+Cordilleran Flycatcher,L
+Brown Falcon,R
+Australasian Pipit,L
+Boreal Chickadee,L
+Zebra Finch,L
+Square-tailed Kite,R
+Spiny-cheeked Honeyeater,L
+Ferruginous Hawk,R
+Crested Myna,L
+Olive Whistler,L
+Pacific Golden-Plover,W
+Tropical Mockingbird,L
+Snowy-throated Kingbird,L
+White-bellied Woodstar,L
+Tropical Parula,L
+Giant Hummingbird,L
+Large Elaenia,L
+Grassland Yellow-Finch,L
+Band-winged Nightjar,L
+Sapphire-vented Puffleg,L
+Rufous-chested Tanager,L
+Variable Hawk,R
+Sierran Elaenia,L
+Rock Martin,L
+Taiga Flycatcher,L
+European Scops-Owl,R
+Savi's Warbler,L
+Thrush Nightingale,L
+European Turtle-Dove,L
+Common Cuckoo,L
+Trumpeter Swan,W
+White Cockatoo,L
+Bush Thick-knee,W
+Loggerhead Kingbird,L
+White-winged Scoter,W
+Red-tailed Black-Cockatoo,L
+Sacred Ibis,W
+Marsh Tit,L
+Hawfinch,L
+Bar-tailed Godwit,W
+Brambling,L
+Eurasian Bullfinch,L
+Magnificent Frigatebird,W
+Yellow-faced Honeyeater,L
+Lewin's Rail,W
+Lark Bunting,L
+Sagebrush Sparrow,L
+Scaled Quail,L
+Rufous-crowned Sparrow,L
+Leaden Flycatcher,L
+White-rumped Hawk,R
+White-sided Flowerpiercer,L
+Blue-capped Tanager,L
+Indian Roller,L
+Lesser Kestrel,R
+Eastern Whipbird,L
+Noisy Pitta,L
+Sanderling,W
+Scarlet Myzomela,L
+Swift Parrot,L
+Striated Swallow,L
+Pelagic Cormorant,W
+Le Conte's Thrasher,L
+Plain Chachalaca,L
+Northern Beardless-Tyrannulet,L
+Dusky-capped Flycatcher,L
+Brown-headed Nuthatch,L
+Green-tailed Trainbearer,L
+Java Sparrow,L
+Puerto Rican Emerald,L
+Ruddy Shelduck,W
+Red-necked Stint,W
+Brown Shrike,L
+White-throated Gerygone,L
+Corn Bunting,L
+White-throated Honeyeater,L
+Eurasian Hobby,R
+Pigeon Guillemot,W
+Brandt's Cormorant,W
+Tyrian Metaltail,L
+Streak-throated Bush-Tyrant,L
+Band-tailed Seedeater,L
+Le Conte's Sparrow,L
+Redwing,L
+Eastern Buzzard,R
+Groove-billed Ani,L
+Varied Bunting,L
+Pacific Loon,W
+White-lined Tanager,L
+Yellow-breasted Brushfinch,L
+White-banded Tyrannulet,L
+White-tipped Dove,L
+Cinnamon Flycatcher,L
+Golden-breasted Puffleg,L
+Lesser Violetear,L
+Inland Thornbill,L
+Williamson's Sapsucker,L
+Wedge-tailed Eagle,R
+Rufous Songlark,L
+Pink Robin,L
+Vinous-throated Parrotbill,L
+Asian Emerald Dove,L
+Chinese Blackbird,L
+Gray-backed Thrush,L
+Eastern Spot-billed Duck,W
+Arctic Warbler,L
+Manchurian Bush-Warbler,L
+Rufous-capped Babbler,L
+Pheasant-tailed Jacana,W
+Brown-headed Thrush,L
+Black-collared Starling,L
+Narcissus Flycatcher,L
+Rufous-capped Warbler,L
+Green Kingfisher,W
+Mediterranean Gull,W
+Azure Kingfisher,W
+Clark's Nutcracker,L
+Blue-crowned Parakeet,L
+Lilac-crowned Parrot,L
+Water Rail,W
+Common Murre,L
+Northern Pygmy-Owl,R
+Chinese Hwamei,L
+Gray-streaked Flycatcher,L
+Upland Sandpiper,W
+Cuban Grassquit,L
+Japanese Waxwing,L
+Yellow-browed Warbler,L
+Japanese Bush-Warbler,L
+Black-faced Monarch,L
+Silver-throated Tanager,L
+Bronzed Drongo,L
+White-collared Seedeater,L
+Yellow-headed Parrot,L
+Tricolored Blackbird,L
+American Dipper,W
+Common Sandpiper,W
+American Golden-Plover,W
+Spectacled Monarch,L
+Double-barred Finch,L
+Great Bittern,W
+Gray Goshawk,R
+Black-necklaced Scimitar-Babbler,L
+Taiwan Whistling-Thrush,L
+Greater Pewee,L
+Zone-tailed Hawk,R
+Peaceful Dove,L
+Red-crested Cotinga,L
+Fawn-breasted Tanager,L
+Collared Inca,L
+Speckled Hummingbird,L
+Crested Caracara,R
+White-headed Duck,W
+King Rail,W
+Audubon's Oriole,L
+Besra,L
+White-eared Sibia,L
+Blue Bunting,L
+Least Grebe,W
+Jacky-winter,L
+Satin Flycatcher,L
+Sandwich Tern,W
+Lesser Antillean Pewee,L
+Yellow-collared Lovebird,L
+White-naped Honeyeater,L
+Saffron Finch,L
+Northern Boobook,R
+Black-naped Tern,W
+Crested Serpent-Eagle,L
+Zebra Dove,L
+Black-shouldered Kite,R
+Black-faced Spoonbill,W
+Little Tern,W
+Morrison's Fulvetta,L
+Yellow Bittern,W
+Buff-bellied Hummingbird,L
+Common Eider,W
+Tawny Pipit,L
+Ortolan Bunting,L
+Common Quail,L
+Blyth's Reed-Warbler,L
+Puerto Rican Lizard-Cuckoo,L
+African Collared-Dove,L
+Ruddy Ground-Dove,L
+Chestnut-collared Longspur,L
+Blue-and-white Flycatcher,L
+Pechora Pipit,L
+Rufous-tailed Hummingbird,L
+Dull-colored Grassquit,L
+Indian Peafowl,L
+Northern Red Bishop,L
+Caribbean Elaenia,L
+Seaside Sparrow,L
+Crescent Honeyeater,L
+White-whiskered Laughingthrush,L
+Large-billed Crow,L
+Asian House-Martin,L
+White-bellied Erpornis,L
+Japanese Night-Heron,W
+White-bellied Pigeon,L
+Taiwan Yuhina,L
+Varied Sittella,L
+Fulvous Whistling-Duck,W
+Black-capped Tanager,L
+Oriental Reed-Warbler,L
+Rose-crowned Fruit-Dove,L
+Little Gull,W
+Black-throated Thrush,L
+Chinese Egret,W
+Black-crested Warbler,L
+Red-winged Parrot,L
+Yellow-shouldered Blackbird,L
+White-throated Hawk,R
+Small-billed Elaenia,L
+Red Knot,W
+White-tailed Hawk,R
+Red-capped Cardinal,L
+Chiloe Wigeon,L
+Great White Pelican,W
+Hawaiian Goose,W
+Bar-headed Goose,W
+White-cheeked Pintail,W
+Pink-backed Pelican,W
+Smew,W
+Swan Goose,W
+Chukar,L
+Maccoa Duck,W
+Ringed Teal,W
+Muscovy Duck,W
+Helmeted Guineafowl,L
+Golden Pheasant,L
+Yellow-fronted Canary,L
+Desert Whitethroat,L
+Garganey,W
+Green-backed Flycatcher,L
+European Shag,W
+Taiwan Hwamei,L
