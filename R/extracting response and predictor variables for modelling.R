@@ -83,7 +83,7 @@ predictor_variables <- merge(predictor_variables.buffers, predictor_variables.ho
 
 predictor_variables <- predictor_variables %>%
   rename(Polygon_id = LOCALITY_ID) %>%
-  .[2:65]
+  .[2:68]
 
 
 rm(predictor_variables.buffers)
