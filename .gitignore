@@ -13,3 +13,4 @@ Data/5_km_buffer_locations.xlsx
 Data/5_km_buffer_locations.csv
 Data/15_km_buffer_locations.csv
 Data/100_km_buffer_locations.txt
+*.Rhistory
