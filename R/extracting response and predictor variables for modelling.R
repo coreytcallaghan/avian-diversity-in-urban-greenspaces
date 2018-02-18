@@ -103,7 +103,7 @@ X_missing <- bird_data %>%
 
 # here is where you add all the columns needed for the analysis (that don't vary within checklist)
 sampling_event_info <- bird_data %>%
-  select(SAMPLING_EVENT_IDENTIFIER, LOCALITY, LOCALITY_ID, OBSERVATION_DATE,
+  dplyr::select(SAMPLING_EVENT_IDENTIFIER, LOCALITY, LOCALITY_ID, OBSERVATION_DATE,
          PROTOCOL_TYPE, ALL_SPECIES_REPORTED, EFFORT_DISTANCE_KM, EFFORT_AREA_HA, 
          DURATION_MINUTES, OBSERVATION_DATE, GROUP_IDENTIFIER) %>%
   distinct()
@@ -130,7 +130,7 @@ bird_data.new <- bird_data.new %>%
 # filter out group_identifier data to eliminate duplicated checklists
 duplicated <- bird_data.new %>%
   drop_na(GROUP_IDENTIFIER) %>%
-  select(GROUP_IDENTIFIER, SAMPLING_EVENT_IDENTIFIER) %>%
+  dplyr::select(GROUP_IDENTIFIER, SAMPLING_EVENT_IDENTIFIER) %>%
   distinct(.keep_all=TRUE) %>%
   group_by(GROUP_IDENTIFIER) %>%
   # randomly sample one checklist for each group_identifier
@@ -152,8 +152,14 @@ bird_data.new <- bird_data.new %>%
 ############ apply distance and duration caps ################################
 ##############################################################################
 bird_data.new <- bird_data.new %>%
+  inner_join(., Final_study_sites, by=c("LOCALITY_ID", "LOCALITY")) %>%
+  group_by(Polygon_id) %>%
   filter(DURATION_MINUTES >= 5 & DURATION_MINUTES <=240) %>%
-  filter(EFFORT_DISTANCE_KM <= 10)
+  filter(EFFORT_DISTANCE_KM <= Perimeter_km) %>%
+  replace_na(list(EFFORT_AREA_HA=0)) %>%
+  filter(EFFORT_AREA_HA <= Area_ha) %>%
+  ungroup()
+
 
 ## Calculate species richness and diversity
 
@@ -162,7 +168,7 @@ species_richness <- bird_data.new %>%
   group_by(SAMPLING_EVENT_IDENTIFIER) %>%
   summarise(checklist_species_richness=length(unique(COMMON_NAME))) %>%
   inner_join(., sampling_event_info, by="SAMPLING_EVENT_IDENTIFIER") %>%
-  select(-one_of("LOCALITY"))
+  dplyr::select(-one_of("LOCALITY"))
 
 ## Second, calculate species diversity
 species_diversity <- bird_data.new %>%
@@ -170,7 +176,7 @@ species_diversity <- bird_data.new %>%
   group_by(SAMPLING_EVENT_IDENTIFIER) %>%
   summarise(species_diversity=diversity(OBSERVATION_COUNT)) %>%
   inner_join(., sampling_event_info, by="SAMPLING_EVENT_IDENTIFIER") %>%
-  select(-one_of("LOCALITY"))
+  dplyr::select(-one_of("LOCALITY"))
 
 
 ## adding month to the response variables files
