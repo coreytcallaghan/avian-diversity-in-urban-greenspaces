@@ -12,6 +12,24 @@ library(lubridate)
 ## load data
 load("Data/modelling_data.RData")
 
+## collapse all sites to polygon ids
+analysis_all <- predictor_variables
+analysis_all$species_richness <- as.numeric(analysis_all$species_richness)
+analysis_all <- na.exclude(analysis_all)
+
+###histogram of Area
+ggplot(analysis_all, aes(Area_ha)) +
+  geom_histogram(breaks=seq(0, 810, by = 10), 
+                 col="Black", 
+                 fill="gray80", 
+                 alpha = .2) + 
+  labs(x="Area (Hectares)", y="Count")+
+  theme_classic()
+
+summary(analysis_all$Area_ha)
+sd(analysis_all$Area_ha)
+
+
 
 #####################
 #####################
