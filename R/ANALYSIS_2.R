@@ -85,7 +85,7 @@ model_data_SR$month <- as.character(model_data_SR$month)
 
 
 ### scale and center the predictor variables
-model_data_SR[1:13] <- scale(model_data_SR[1:13])
+model_data_SR[1:12] <- scale(model_data_SR[1:12])
 
 hist(model_data_SR$checklist_species_richness)
 
@@ -194,7 +194,7 @@ model_data_SD$month <- as.character(model_data_SD$month)
 
 
 ### scale and center the predictor variables
-model_data_SD[1:13] <- scale(model_data_SD[1:13])
+model_data_SD[1:12] <- scale(model_data_SD[1:12])
 
 hist(model_data_SD$species_diversity)
 
@@ -203,6 +203,18 @@ global.mod_SD <- lmer(species_diversity ~ Area_ha + distance.to.coast_km + dista
                         evi_5 + gls_tree_5 + gls_water_5  + evi_25 + gls_tree_25 + gls_water_25 + offset(DURATION_MINUTES) + (1|Polygon_id/month) +
                         (1|Urban_area) + (1|Country), REML=FALSE, data=model_data_SD, na.action="na.fail")
 
+
+#### Plotting fitted vs residual values of model (homogeneity) ####
+plot(global.mod_SD, add.smooth = FALSE, which = 1)
+
+#### Checking for normality of residuals of null model
+E <- resid(global.mod_SD)              
+hist(E, xlab="Residuals", main="")
+
+summary(global.mod_SD)
+display(global.mod_SD)
+
+plot(Effect("Area_ha", global.mod_SD))
 
 #### Automated Approach ####
 ### Paralleslised ###
