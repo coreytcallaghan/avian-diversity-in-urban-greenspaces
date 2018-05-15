@@ -81,6 +81,9 @@ global_predictors.2 <- analysis_all %>%
 
 global_predictors.2 <- round(cor(global_predictors.2), 2)
 
+library(corrplot)
+corrplot(global_predictors)
+corrplot(global_predictors.2)
 
 ### removed the 15 km buffer due to collinearity issues
 
