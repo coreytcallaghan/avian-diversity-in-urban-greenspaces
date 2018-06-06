@@ -51,7 +51,10 @@ tmp.model_data_SR <- Final_study_sites %>%
 
 species_richness_summary <- tmp.model_data_SR %>%
   group_by(Polygon_id) %>%
-  summarise(lists=length(unique(SAMPLING_EVENT_IDENTIFIER)))
+  summarise(lists=length(unique(SAMPLING_EVENT_IDENTIFIER)),
+            mean_richness=mean(checklist_species_richness),
+            sd_richness=sd(checklist_species_richness)) %>%
+  filter(lists >= 50)
 
 ## remove any greenspaces which didn't have at least 50 checklists
 model_data_SR <- tmp.model_data_SR %>%
@@ -160,7 +163,10 @@ tmp.model_data_SD <- Final_study_sites %>%
 
 species_diversity_summary <- tmp.model_data_SD %>%
   group_by(Polygon_id) %>%
-  summarise(lists=length(unique(SAMPLING_EVENT_IDENTIFIER)))
+  summarise(lists=length(unique(SAMPLING_EVENT_IDENTIFIER)),
+            mean_sd=mean(species_diversity),
+            sd_sd=sd(species_diversity)) %>%
+  filter(lists >= 50)
 
 ## remove any greenspaces which didn't have at least 50 checklists
 model_data_SD <- tmp.model_data_SD %>%
