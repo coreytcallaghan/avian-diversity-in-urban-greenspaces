@@ -385,7 +385,27 @@ ggplot(model_results, aes(x=variable, y=estimate, ymin=lwr, ymax=upr))+
 
 
 
+## A figure which shows the proportional richness at a greenspace associated with greenspace area
 
+### select only the necessary response and predictor variables to include in the analysis
+model_data <- analysis_all %>%
+  dplyr::select(Area_ha, distance.to.coast_km, distance_km, evi_hs, gls_tree_hs, gls_water_hs,
+                evi_5, gls_tree_5, gls_water_5, evi_25, gls_tree_25, gls_water_25, Urban_area, Country, 
+                hundred_km_buffer_SR, species_richness, L, W, R, Number_of_checklists, LATITUDE)
+library(scales)
+ggplot(model_data, aes(x=Area_ha, y=species_richness/hundred_km_buffer_SR))+
+  geom_point()+
+  theme_bw()+
+  xlab("Log(Greenspace Area (Ha))")+
+  ylab("Proportional Species Richness")+
+  scale_x_log10(labels=comma)+
+  theme(axis.text.x=element_text(size=12, color="black"))+
+  theme(axis.text.y=element_text(size=12, color="black"))+
+  theme(axis.title.y=element_text(size=16))+
+  theme(axis.title.x=element_text(size=16))+
+  theme(panel.grid.minor.x=element_blank(), panel.grid.major.x=element_blank())+
+  theme(panel.grid.minor.y=element_blank(), panel.grid.major.y=element_blank())+
+  geom_smooth(method=lm)
 
 
 
