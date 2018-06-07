@@ -91,14 +91,14 @@ corrplot(global_predictors.2)
 model_data <- analysis_all %>%
   dplyr::select(Area_ha, distance.to.coast_km, distance_km, evi_hs, gls_tree_hs, gls_water_hs,
                 evi_5, gls_tree_5, gls_water_5, evi_25, gls_tree_25, gls_water_25, Urban_area, Country, 
-                hundred_km_buffer_SR, species_richness, L, W, R, Number_of_checklists)
+                hundred_km_buffer_SR, species_richness, L, W, R, Number_of_checklists, LATITUDE)
 
 ### scale and center the predictor variables
 model_data[1:12] <- scale(model_data[1:12])
 
 ### global model
 global.mod <- lmer(species_richness ~ Area_ha + distance.to.coast_km + distance_km + evi_hs + gls_tree_hs + gls_water_hs +
-                     evi_5 + gls_tree_5 + gls_water_5  + evi_25 + gls_tree_25 + gls_water_25 + offset(Number_of_checklists) +
+                     evi_5 + gls_tree_5 + gls_water_5  + evi_25 + gls_tree_25 + gls_water_25 + LATITUDE + offset(Number_of_checklists) +
                      (1|Urban_area) + (1|Country), REML=FALSE, data=model_data, na.action="na.fail")
 
 
@@ -150,7 +150,7 @@ sd(r2_table$R2c)
 
 ### global model
 global.mod_standard <- lmer(species_richness/hundred_km_buffer_SR ~ Area_ha + distance.to.coast_km + distance_km + evi_hs + 
-                            gls_tree_hs + gls_water_hs + evi_5 + gls_tree_5 + gls_water_5 + evi_25 + gls_tree_25 + gls_water_25 +
+                            gls_tree_hs + gls_water_hs + evi_5 + gls_tree_5 + gls_water_5 + evi_25 + gls_tree_25 + gls_water_25 + LATITUDE +
                             offset(Number_of_checklists) + (1|Urban_area) + (1|Country), REML=FALSE, data=model_data, na.action="na.fail")
 
 
@@ -196,7 +196,7 @@ sd(r2_table_standard$R2c)
 ############################################################
 ### global model
 global.mod_waterbirds <- lmer(W ~ Area_ha + distance.to.coast_km + distance_km + evi_hs + gls_tree_hs + gls_water_hs +
-                     evi_5 + gls_tree_5 + gls_water_5  + evi_25 + gls_tree_25 + gls_water_25 + offset(Number_of_checklists) +
+                     evi_5 + gls_tree_5 + gls_water_5  + evi_25 + gls_tree_25 + gls_water_25 + LATITUDE + offset(Number_of_checklists) +
                      (1|Urban_area) + (1|Country), REML=FALSE, data=model_data, na.action="na.fail")
 
 
@@ -247,7 +247,7 @@ sd(r2_table_waterbirds$R2c)
 ############################################################
 ### global model
 global.mod_landbirds <- lmer(L+R ~ Area_ha + distance.to.coast_km + distance_km + evi_hs + gls_tree_hs + gls_water_hs +
-                                evi_5 + gls_tree_5 + gls_water_5  + evi_25 + gls_tree_25 + gls_water_25 + offset(Number_of_checklists) +
+                                evi_5 + gls_tree_5 + gls_water_5  + evi_25 + gls_tree_25 + gls_water_25 + LATITUDE + offset(Number_of_checklists) +
                                 (1|Urban_area) + (1|Country), REML=FALSE, data=model_data, na.action="na.fail")
 
 
