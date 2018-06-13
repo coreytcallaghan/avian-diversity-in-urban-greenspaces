@@ -4,6 +4,8 @@
 library(dplyr)
 library(ggplot2)
 library(readr)
+library(ggpubr)
+library(patchwork)
 
 ### Reading in study sites
 Final_study_sites <- read_csv("Data/Final_study_sites/Final_study_sites.csv")
@@ -54,12 +56,12 @@ fig1_richness <-
   geom_errorbar(aes(x=reorder(Urban_area, Richness), 
                     ymin=Richness-sd_richness, ymax=Richness+sd_richness))+
   theme_bw()+
-  ylab("Species Richness")+
+  ylab("Total species richness")+
   xlab("City")+
-  theme(axis.text.x=element_text(size=12, color="black"))+
-  theme(axis.text.y=element_text(size=10, color="black"))+
-  theme(axis.title.y=element_text(size=16))+
-  theme(axis.title.x=element_text(size=16))+
+  theme(axis.text.x=element_text(size=5, color="black"))+
+  theme(axis.text.y=element_text(size=5, color="black"))+
+  theme(axis.title.y=element_text(size=12))+
+  theme(axis.title.x=element_text(size=12))+
   theme(panel.grid.minor.x=element_blank(), panel.grid.major.x=element_blank())+
   theme(panel.grid.minor.y=element_blank(), panel.grid.major.y=element_blank())+
   coord_flip()
@@ -71,12 +73,12 @@ fig1_waterbird_richness <-
   geom_errorbar(aes(x=reorder(Urban_area, Waterbirds), 
                     ymin=Waterbirds-sd_w, ymax=Waterbirds+sd_w))+
   theme_bw()+
-  ylab("Waterbird Species Richness")+
+  ylab("Waterbird richness")+
   xlab("City")+
-  theme(axis.text.x=element_text(size=12, color="black"))+
-  theme(axis.text.y=element_text(size=10, color="black"))+
-  theme(axis.title.y=element_text(size=16))+
-  theme(axis.title.x=element_text(size=16))+
+  theme(axis.text.x=element_text(size=5, color="black"))+
+  theme(axis.text.y=element_text(size=5, color="black"))+
+  theme(axis.title.y=element_text(size=12))+
+  theme(axis.title.x=element_text(size=12))+
   theme(panel.grid.minor.x=element_blank(), panel.grid.major.x=element_blank())+
   theme(panel.grid.minor.y=element_blank(), panel.grid.major.y=element_blank())+
   coord_flip()
@@ -87,12 +89,12 @@ fig1_landbird_richness <-
   geom_errorbar(aes(x=reorder(Urban_area, Landbirds), 
                     ymin=Landbirds-sd_L, ymax=Landbirds+sd_L))+
   theme_bw()+
-  ylab("Landbird Species Richness")+
+  ylab("Landbird richness")+
   xlab("City")+
-  theme(axis.text.x=element_text(size=12, color="black"))+
-  theme(axis.text.y=element_text(size=10, color="black"))+
-  theme(axis.title.y=element_text(size=16))+
-  theme(axis.title.x=element_text(size=16))+
+  theme(axis.text.x=element_text(size=5, color="black"))+
+  theme(axis.text.y=element_text(size=5, color="black"))+
+  theme(axis.title.y=element_text(size=12))+
+  theme(axis.title.x=element_text(size=12))+
   theme(panel.grid.minor.x=element_blank(), panel.grid.major.x=element_blank())+
   theme(panel.grid.minor.y=element_blank(), panel.grid.major.y=element_blank())+
   coord_flip()
@@ -101,8 +103,13 @@ fig1_landbird_richness <-
 ggarrange(fig1_richness, fig1_landbird_richness, fig1_waterbird_richness, widths=c(4,4,4))
 
 
+plot <- fig1_richness + fig1_landbird_richness + fig1_waterbird_richness + plot_layout(ncol = 1)
+
+fig1_landbird_richness + fig1_waterbird_richness - fig1_richness + plot_layout(ncol = 1)
 
 
+ggsave(filename="H:/Dissertation/Dissertation Chapters/Data Chapters/Relationship between avian diversity and urban environments/Submissions/Ecosphere Attempt/Final Submission/Figure1.tiff",
+       dpi=300, width=6, height=7, units="in")
 
 
 

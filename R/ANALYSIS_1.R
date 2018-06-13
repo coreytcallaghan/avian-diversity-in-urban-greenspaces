@@ -308,16 +308,20 @@ library(scales)
 ggplot(analysis_all, aes(x=Area_ha, y=species_richness))+
   geom_point()+
   theme_bw()+
-  xlab("Log(Greenspace Area (Ha))")+
-  ylab("Species Richness")+
+  xlab("Log(greenspace area (Ha))")+
+  ylab("Species richness")+
   scale_x_log10(labels=comma)+
-  theme(axis.text.x=element_text(size=12, color="black"))+
+  theme(axis.text.x=element_text(size=12, color="black", hjust=0.8))+
   theme(axis.text.y=element_text(size=12, color="black"))+
   theme(axis.title.y=element_text(size=16))+
   theme(axis.title.x=element_text(size=16))+
   theme(panel.grid.minor.x=element_blank(), panel.grid.major.x=element_blank())+
   theme(panel.grid.minor.y=element_blank(), panel.grid.major.y=element_blank())+
   geom_smooth(method=lm)
+
+## export figure for paper
+ggsave(filename="H:/Dissertation/Dissertation Chapters/Data Chapters/Relationship between avian diversity and urban environments/Submissions/Ecosphere Attempt/Final Submission/Figure2.tiff",
+       dpi=300, width=5.5, height=4, units="in")
 
 
 ## figure of additionally important patterns
@@ -335,27 +339,33 @@ plotting <- analysis_all %>%
   melt(., id.vars=c("predictor", "predictor_value"))
 
 
-  plotting$predictor <- gsub("gls_water_hs", "Percent Water", plotting$predictor)
-  plotting$predictor <- gsub("gls_tree_hs", "Percent Tree", plotting$predictor)
-  plotting$predictor <- gsub("Area_ha", "Greenspace Area (Ha)", plotting$predictor)
+  plotting$predictor <- gsub("gls_water_hs", "Percent water", plotting$predictor)
+  plotting$predictor <- gsub("gls_tree_hs", "Percent tree", plotting$predictor)
+  plotting$predictor <- gsub("Area_ha", "Greenspace area (Ha)", plotting$predictor)
   
+  
+  
+cbbPalette <- c("#56B4E9","#E69F00")  
   
   ggplot(plotting, aes(x=predictor_value, y=value, color=variable, linetype=variable))+
     geom_point()+
-    ylab("Species Richness")+
-    xlab("Predictor Value")+
+    ylab("Species richness")+
+    xlab("Predictor value")+
+    theme_bw()+
     geom_smooth(method=lm, show.legend=FALSE)+
     theme(axis.text.x=element_text(size=12, color="black"))+
     theme(axis.text.y=element_text(size=12, color="black"))+
     theme(axis.title.y=element_text(size=16))+
     theme(axis.title.x=element_text(size=16))+
-    theme(panel.grid.minor.x=element_blank(), panel.grid.major.x=element_blank())+
-    theme(panel.grid.minor.y=element_blank(), panel.grid.major.y=element_blank())+
-    theme_bw()+
+    theme(panel.grid.minor.x=element_blank(), panel.grid.major.x=element_line(color="gray90"))+
+    theme(panel.grid.minor.y=element_blank(), panel.grid.major.y=element_line(color="gray90"))+
     guides(color=FALSE)+
-    facet_grid(~predictor, scales="free", labeller=as_labeller(facet_names))
+    scale_colour_manual(values=cbbPalette)+
+    facet_grid(~predictor, scales="free")
 
-
+## export figure for paper
+ggsave(filename="H:/Dissertation/Dissertation Chapters/Data Chapters/Relationship between avian diversity and urban environments/Submissions/Ecosphere Attempt/Final Submission/Figure3.tiff",
+       dpi=300, width=6, height=5, units="in")
 
 a <- as.data.frame(coefficients(Averaged_models, full=TRUE))
 b <- as.data.frame(confint(Averaged_models, full=TRUE))
