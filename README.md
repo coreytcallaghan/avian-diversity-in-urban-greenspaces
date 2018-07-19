@@ -1,1 +1,1 @@
-# avian-diversity-in-urban-greenspaces
+This repository includes the code and data used to produce: "[The effects of local and landscape habitat attributes on bird diversity in urban greenspaces](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecs2.2347)"
